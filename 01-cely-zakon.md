@@ -2749,5 +2749,3 @@ Souvislosti s krajským referendem (zákon č. 118/2010 Sb.) a celostátním ref
 **Související soubory:**
 - [00-uvod.md](00-uvod.md) — úvod, ústavně-právní kontext, historie a struktura zákona.
 
-
-
