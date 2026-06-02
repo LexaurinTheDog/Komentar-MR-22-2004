@@ -353,21 +353,17 @@ Důležitá zpřesnění:
 
 > **§ 8**
 >
-> *Konání místního referenda*
->
 > *(1) Místní referendum se koná, jestliže*
 >
-> *a) se na tom usnese zastupitelstvo obce nebo zastupitelstvo statutárního města, nebo*
+> *- a) se na tom usnese zastupitelstvo obce nebo zastupitelstvo statutárního města, nebo*
 >
-> *b) přípravný výbor podá návrh na konání místního referenda (dále jen „návrh přípravného výboru") a zastupitelstvo obce nebo zastupitelstvo statutárního města rozhodne o jeho vyhlášení.*
+> *- b) přípravný výbor podá návrh na konání místního referenda (dále jen „návrh přípravného výboru“) a zastupitelstvo obce nebo zastupitelstvo statutárního města rozhodne o jeho vyhlášení.*
 >
 > *(2) Návrh přípravného výboru může být podán, pokud jej podpořilo svým podpisem alespoň v obci nebo v její části, jde-li o místní referendum podle § 1 písm. c), anebo ve statutárním městě*
-> *do 3 000 obyvatel ... 30 % oprávněných osob,*
-> *do 20 000 obyvatel ... 20 % oprávněných osob,*
-> *do 200 000 obyvatel ... 10 % oprávněných osob,*
-> *nad 200 000 obyvatel ... 6 % oprávněných osob.*
 >
-> *(3) Otázka navržená pro místní referendum musí být jednoznačně položena tak, aby na ni bylo možno odpovědět slovem „ano" nebo slovem „ne".*
+> *do 3 000 obyvatel30 % oprávněných osob,do 20 000 obyvatel20 % oprávněných osob,do 200 000 obyvatel10 % oprávněných osob,nad 200 000 obyvatel6 % oprávněných osob.*
+>
+> *(3) Otázka navržená pro místní referendum musí být jednoznačně položena tak, aby na ni bylo možno odpovědět slovem „ano“ nebo slovem „ne“.*
 
 **Výklad:**
 
@@ -2574,17 +2570,17 @@ Technická novela — zrušení části padesáté zákona č. 320/2002 Sb. (sou
 
 > **§ 63**
 >
-> *Zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění [...], se mění takto:*
+> *Zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění zákona č. 273/2001 Sb., zákona č. 450/2001 Sb., zákona č. 320/2001 Sb., zákona č. 311/2002 Sb., zákona č. 313/2002 Sb. a zákona č. 59/2003 Sb., se mění takto:*
 >
-> *1. V § 21 se odstavec 4 zrušuje.*
+> *- 1. V § 21 se odstavec 4 zrušuje.*
 >
-> *2. Na konci textu § 87 se doplňují slova „, nestanoví-li zvláštní právní předpis jinak31a)".*
+> *- 2. Na konci textu § 87 se doplňují slova „, nestanoví-li zvláštní právní předpis jinak31a)“.*
 >
-> *3. Poznámka pod čarou č. 31a) zní:*
+> *- 3. Poznámka pod čarou č. 31a) zní:*
 >
-> *„31a) Například § 14 zákona č. 22/2004 Sb., o místním referendu a o změně některých zákonů.".*
+> *„31a) Například § 14 zákona č. 22/2004 Sb., o místním referendu a o změně některých zákonů.“.*
 >
-> *4. V § 89 odst. 2 větě první se za slovo „souladu" vkládají slova „s rozhodnutím soudu o povinnosti vyhlásit místní referendum nebo".*
+> *- 4. V § 89 odst. 2 větě první se za slovo „souladu“ vkládají slova „s rozhodnutím soudu o povinnosti vyhlásit místní referendum nebo“.*
 
 **Výklad:**
 
@@ -2614,20 +2610,21 @@ Toto je systémově **velmi silný** vynucovací mechanismus — politické důs
 
 > **§ 64**
 >
-> *Zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění [...], se mění takto:*
+> *Zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění zákona č. 145/2001 Sb., zákona č. 273/2001 Sb., zákona č. 320/2001 Sb., zákona č. 450/2001 Sb., zákona č. 311/2002 Sb., zákona č. 312/2002 Sb. a zákona č. 320/2002 Sb., se mění takto:*
 >
-> *1. V § 62 se na konci textu doplňují slova „, nestanoví-li zvláštní právní předpis jinak19a)".*
+> *- 1. V § 62 se na konci textu doplňují slova „, nestanoví-li zvláštní právní předpis jinak19a)“.*
 >
 > *Poznámka pod čarou č. 19a) zní:*
-> *„19a) Například § 14 zákona č. 22/2004 Sb., o místním referendu a o změně některých zákonů.".*
 >
-> *2. V § 67 odst. 2 větě první se za slovo „souladu" vkládají slova „s rozhodnutím soudu o povinnosti vyhlásit místní referendum nebo".*
+> *„19a) Například § 14 zákona č. 22/2004 Sb., o místním referendu a o změně některých zákonů.“.*
 >
-> *3. V § 90 se na konci věty za slova „městské části" doplňují slova „nestanoví-li zvláštní právní předpis jinak19a)".*
+> *- 2. V § 67 odst. 2 větě první se za slovo „souladu“ vkládají slova „s rozhodnutím soudu o povinnosti vyhlásit místní referendum nebo“.*
 >
-> *4. V § 92 se doplňuje odstavec 4, který zní:*
+> *- 3. V § 90 se na konci věty za slova „městské části“ doplňují slova „nestanoví-li zvláštní právní předpis jinak19a)“.*
 >
-> *„(4) Nebude-li zastupitelstvo městské části nebo jiný orgán městské části postupovat v souladu s rozhodnutím soudu o povinnosti vyhlásit místní referendum nebo s výsledky místního referenda konaného v záležitosti samostatné působnosti městské části hlavního města Prahy na území městské části hlavního města Prahy, vyzve primátor hlavního města Prahy zastupitelstvo městské části, aby do 2 měsíců zjednalo nápravu. Jestliže tak zastupitelstvo městské části neučiní, zastupitelstvo hlavního města Prahy je rozpustí. Proti tomuto rozhodnutí může městská část podat žalobu k soudu."*
+> *- 4. V § 92 se doplňuje odstavec 4, který zní:*
+>
+> *„(4) Nebude-li zastupitelstvo městské části nebo jiný orgán městské části postupovat v souladu s rozhodnutím soudu o povinnosti vyhlásit místní referendum nebo s výsledky místního referenda konaného v záležitosti samostatné působnosti městské části hlavního města Prahy na území městské části hlavního města Prahy, vyzve primátor hlavního města Prahy zastupitelstvo městské části, aby do 2 měsíců zjednalo nápravu. Jestliže tak zastupitelstvo městské části neučiní, zastupitelstvo hlavního města Prahy je rozpustí. Proti tomuto rozhodnutí může městská část podat žalobu k soudu.22)“.*
 
 **Výklad:**
 
