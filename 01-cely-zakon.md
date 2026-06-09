@@ -47,6 +47,42 @@ Volba slova „obec" pro pražskou městskou část či brněnský městský obv
 
 Pro úroveň „statutárního města" jsou v zákoně paralelně používány zkratky „magistrát statutárního města", „primátor" a „zastupitelstvo statutárního města", které ve vztahu k Praze a k územně členěným statutárním městům fungují obdobně.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Skupina obyvatel městské části Praha 6 chce uspořádat referendum o tom, zda má městská část usilovat o zachování konkrétního parku ve své správě. Iniciátoři (přípravný výbor tří obyvatel Prahy 6) podají návrh Úřadu městské části Praha 6. Magistrát hl. m. Prahy namítne, že referendum se má konat na úrovni celé Prahy, nikoli jen MČ. Bylo by třeba obstarat: zřizovací listinu parku, údaj o tom, kdo je vlastníkem a správcem pozemku (MČ vs. hl. m. Praha), a vymezení samostatné působnosti MČ podle statutu hl. m. Prahy.
+
+**2. Právní otázka.** Je městská část hl. m. Prahy samostatnou územní jednotkou „obec" ve smyslu § 1 písm. a) ZMR, na jejímž území lze konat samostatné místní referendum nezávisle na celopražském referendu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 písm. a) ZMR — legislativní zkratka „obec" výslovně zahrnuje městskou část hlavního města Prahy.
+- *Související ustanovení téhož zákona:* § 6 (předmět referenda — věc musí spadat do samostatné působnosti té které jednotky), § 8 odst. 2 (podpisové kvórum z oprávněných osob „v obci"), § 10 odst. 1 písm. a) (označení území).
+- *Související předpisy:* zákon č. 131/2000 Sb., o hlavním městě Praze, zejména § 18 (samostatná působnost MČ) a statut hl. m. Prahy (vyhláška hl. m. Prahy), které dělí působnost mezi hl. m. Prahu a městské části.
+- *Judikatura:* nosný závěr NSS, že rozhodující pro úroveň referenda je, do čí samostatné působnosti věc spadá (svěření statutem); referendum lze konat jen tam, kde dotčená jednotka má kompetenci výsledek realizovat.
+
+**4. Subsumpce.** Praha 6 je městskou částí hl. m. Prahy → spadá pod zkratku „obec" dle § 1 písm. a). Tím je dán územní rámec pro samostatné referendum MČ. Sporným znakem však zůstává, zda je daná věc (správa parku) svěřena statutem do samostatné působnosti MČ, nebo zda náleží hl. m. Praze — to § 1 sám neřeší, odkazuje na § 6.
+
+**5. Řešení.** Referendum na úrovni MČ Praha 6 je územně přípustné podle § 1 písm. a). Klíčové je ověřit svěření věci statutem: je-li správa parku v samostatné působnosti MČ, referendum se koná jen v Praze 6 a zavazuje její orgány; není-li, návrh narazí na § 6 (a hrozí neplatnost dle § 58 odst. 1 písm. b)). Procesně: přípravný výbor podává návrh ÚMČ Praha 6, nikoli Magistrátu.
+
+**6. Varianty.** (a) Pokud by věc statut svěřoval výlučně hl. m. Praze, muselo by se referendum konat na úrovni „statutárního města" dle § 1 písm. b) — tedy v celé Praze. (b) Šlo-li by o České Budějovice (statutární město, ale územně nečleněné), spadalo by celé město do kategorie „obec" dle písm. a) a referendum by se konalo na celém jeho území.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Park je celopražský zájem, referendum musí být celopražské." Neutralizace: rozhodující není dosah zájmu, nýbrž formální svěření kompetence statutem; je-li věc v samostatné působnosti MČ, je úroveň MČ správná.
+- *Protiargument:* zkratka „obec" je zavádějící a vede k záměně úrovní. Neutralizace: § 1 je nutno číst vždy společně s § 6 a se statutem; sama zkratka neurčuje věcnou působnost.
+- *Slabé místo:* hranice mezi působností MČ a hl. m. Prahy bývá ve statutu nejednoznačná; chybí-li jednoznačné svěření, je výsledek sporný a závisí na výkladu statutu.
+
+#### H. Praktický závěr
+
+Ustanovení § 1 určuje, na jaké územní úrovni se referendum koná, a zavádí zkratky „obec"/„statutární město". V praxi se vždy aplikuje společně s § 6 (věcná působnost) a s příslušným statutem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit, do které ze tří úrovní (§ 1 písm. a/b/c) územní jednotka spadá.
+- [ ] U statutárního města ověřit, zda je územně členěné (rozhoduje o zařazení pod písm. a) nebo b)).
+- [ ] Ověřit ve statutu, do čí samostatné působnosti dotčená věc náleží.
+- [ ] Sladit pojmy „obecní úřad/starosta/zastupitelstvo" s odpovídajícími orgány dané úrovně.
+
+**Typicky rozhodné důkazy / podklady:** statut statutárního města / hl. m. Prahy, zřizovací a vlastnické dokumenty k předmětu referenda, výpis počtu obyvatel a oprávněných osob na vymezeném území.
+
 ---
 
 ### § 2 — Aktivní volební legitimace (právo hlasovat)
@@ -77,6 +113,42 @@ Praktickou konsekvencí § 2 je zejména to, že:
 
 Tento výchozí model je předmětem dlouhodobé odborné debaty; ZMR jej však jednoznačně přebírá z komunálního volebního zákona a nedává prostor pro odchylky.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan N. vlastní v rekreační obci chatu, kde tráví většinu roku, ale trvalý pobyt má ve velkém městě. Obec připravuje referendum o výstavbě čistírny odpadních vod. Pan N., přesvědčen, že jako významný plátce poplatků „má právo hlasovat", se dostaví do hlasovací místnosti s občanským průkazem, v němž je uvedena adresa ve městě. Okrsková komise jej odmítne. Důkazně je rozhodný zápis v evidenci obyvatel (adresa trvalého pobytu) a výpis ze seznamu oprávněných osob.
+
+**2. Právní otázka.** Má vlastník nemovitosti v obci bez trvalého pobytu v této obci aktivní legitimaci hlasovat v místním referendu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 ZMR — oprávněnou osobou je ten, kdo má právo volit do zastupitelstva obce.
+- *Související ustanovení téhož zákona:* § 4 (překážky výkonu práva), § 29 (výpis ze seznamu oprávněných osob), § 36 odst. 3 a 4 (prokázání totožnosti a státního občanství).
+- *Související předpisy:* § 4 zákona č. 491/2001 Sb., o volbách do zastupitelstev obcí (vázanost na trvalý pobyt); zákon č. 133/2000 Sb., o evidenci obyvatel; čl. 22 odst. 1 SFEU a směrnice 94/80/ES pro občany EU.
+- *Judikatura:* nosný závěr, že komunální (a tedy referendové) volební právo je vázáno na trvalý pobyt v obci, nikoli na vlastnictví majetku či faktické bydlení.
+
+**4. Subsumpce.** Pan N. nemá v obci trvalý pobyt → nesplňuje podmínku § 4 zákona č. 491/2001 Sb. → není oprávněnou osobou dle § 2 ZMR. Vlastnictví nemovitosti není zákonným znakem aktivní legitimace; jeho dotčenost rozhodnutím je právně irelevantní.
+
+**5. Řešení.** Komise postupovala správně — hlasování nelze umožnit (§ 36 odst. 4). Pan N. nemá procesní obranu, neboť zákon nezná hlasovací právo vázané na majetek. Jediná cesta k získání práva je změna trvalého pobytu do obce (s reálným vztahem k obci, jinak hrozí přezkum fiktivnosti pobytu).
+
+**6. Varianty.** (a) Kdyby pan N. byl občan jiného státu EU s trvalým nebo přechodným pobytem v obci, hlasovací právo by měl. (b) Kdyby měl trvalý pobyt v obci, ale fakticky žil jinde (typicky student), právo hlasovat by si zachoval.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Daňové zatížení a vlastnictví zakládají legitimní zájem, tedy i hlasovací právo." Neutralizace: ZMR i Listina vážou územní demokracii na pobyt, nikoli na majetek; jde o vědomou volbu zákonodárce, kterou soud nemůže obejít.
+- *Protiargument:* nezletilí dotčení rozhodnutím (např. o škole) jsou vyloučeni. Neutralizace: věková hranice 18 let je objektivním a ústavně konformním kritériem volebního práva.
+- *Slabé místo:* okruh dotčených a okruh oprávněných se nekryjí (chataři, dojíždějící), což oslabuje reprezentativnost výsledku; jde však o systémový rys, nikoli o vadu konkrétního referenda.
+
+#### H. Praktický závěr
+
+Aktivní legitimaci v referendu má výlučně oprávněná osoba = komunální volič s trvalým pobytem v obci (či občan EU s pobytem). Vlastnictví, podnikání ani faktické bydlení samy o sobě nestačí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit trvalý pobyt osoby v obci (evidence obyvatel), nikoli vlastnictví.
+- [ ] U cizince ověřit státní občanství EU a pobyt (trvalý či přechodný).
+- [ ] Ověřit dosažení 18 let nejpozději v den hlasování.
+- [ ] Zkontrolovat zápis osoby ve výpisu ze seznamu oprávněných osob.
+
+**Typicky rozhodné důkazy / podklady:** výpis z evidence obyvatel, občanský průkaz / průkaz o povolení k pobytu, výpis ze seznamu oprávněných osob daného okrsku.
+
 ---
 
 ### § 3 — Zásady hlasování
@@ -97,6 +169,42 @@ Ustanovení § 3 přebírá pro místní referendum **čtyři klasické zásady*
 4. **Přímost** — oprávněné osoby rozhodují bez prostředníka, neexistují žádní „voliteli" („electors") — odpověď „ano/ne" je sama o sobě finálním rozhodnutím (subject pouze k platnostnímu a závaznostnímu kvóru).
 
 Tyto zásady jsou interpretačně významné: porušení kterékoli z nich může být důvodem pro vyslovení neplatnosti hlasování podle § 58 odst. 1 písm. a) ZMR — tedy pokud k porušení došlo způsobem, který mohl ovlivnit výsledek.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V obci se konalo referendum o prodeji obecního pozemku. Po jeho skončení podá oprávněná osoba návrh na vyslovení neplatnosti hlasování s tvrzením, že v jednom okrsku členové komise hlasitě komentovali, jak kdo hlasuje, a v zástěně chyběla boční stěna, takže odpověď byla viditelná dalším čekajícím. Bylo by třeba obstarat: fotodokumentaci uspořádání místnosti, svědecké výpovědi, zápis okrskové komise a údaj o těsnosti výsledku.
+
+**2. Právní otázka.** Představuje narušení tajnosti hlasování v jednom okrsku porušení zákona, které „mohlo ovlivnit výsledek" ve smyslu § 58 odst. 1 písm. a) ZMR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 ZMR — tajné, všeobecné, rovné a přímé hlasovací právo.
+- *Související ustanovení téhož zákona:* § 34 odst. 2 (oddělený prostor zajišťující tajnost), § 36 odst. 6 (zákaz přítomnosti další osoby v zástěně), § 58 odst. 1 písm. a) (neplatnost hlasování).
+- *Související předpisy:* čl. 102 odst. 1 a čl. 21 odst. 3 Listiny (tajnost a rovnost volby).
+- *Judikatura:* nosný závěr NSS, že pro neplatnost hlasování postačí potenciální (nikoli prokázaný skutečný) vliv vady na výsledek; zároveň se posuzuje intenzita porušení a těsnost výsledku.
+
+**4. Subsumpce.** Viditelnost odpovědi a komentování hlasování naplňují porušení zásady tajnosti (§ 3 ve spojení s § 34 odst. 2). Sporným znakem je „možnost ovlivnění výsledku" — záleží na rozsahu pochybení (kolik osob a v kolika okrscích) a na rozdílu mezi variantami.
+
+**5. Řešení.** Soud zkoumá, zda narušení tajnosti mohlo reálně ovlivnit výsledek: u těsného výsledku a širšího pochybení je neplatnost pravděpodobná; u jednoznačného výsledku a izolovaného incidentu v jediném okrsku zpravidla nikoli. Procesně je třeba podat návrh do 10 dnů od vyhlášení výsledků (§ 58 odst. 2) a unést břemeno tvrzení o potenciálním vlivu.
+
+**6. Varianty.** (a) Pokud by šlo o systémové narušení tajnosti ve všech okrscích a výsledek byl těsný, neplatnost hlasování by byla namístě. (b) Pokud by zástěna chyběla, ale žádný hlasující ji nevyužil viditelně a výsledek by byl drtivý, vada by zřejmě nedosáhla intenzity ovlivnění výsledku.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Tajnost je právo, nikoli povinnost — kdo chce, může hlasovat veřejně." Neutralizace: § 3 ukládá obci zajistit podmínky tajnosti objektivně; selhání organizace je porušením bez ohledu na vůli jednotlivce.
+- *Protiargument:* incident byl ojedinělý a výsledek jasný. Neutralizace platí pro navrhovatele opačně — musí prokázat aspoň potenciální vliv; bez vazby na těsnost výsledku návrh neuspěje.
+- *Slabé místo:* dokazování průběhu v místnosti je obtížné (chybí kamerový záznam), opírá se o svědky s možným zájmem na výsledku.
+
+#### H. Praktický závěr
+
+Čtyři zásady (tajnost, všeobecnost, rovnost, přímost) jsou měřítkem zákonnosti hlasování; jejich porušení vede k neplatnosti jen při potenciálním vlivu na výsledek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajistit oddělený prostor (zástěnu) garantující tajnost v každém okrsku.
+- [ ] Při návrhu na neplatnost tvrdit a doložit potenciální vliv vady na výsledek.
+- [ ] Porovnat intenzitu pochybení s těsností výsledku.
+- [ ] Dodržet 10denní lhůtu dle § 58 odst. 2.
+
+**Typicky rozhodné důkazy / podklady:** zápisy komisí, fotodokumentace uspořádání místnosti, svědecké výpovědi, číselný výsledek hlasování (rozdíl mezi variantami).
 
 ---
 
@@ -148,6 +256,42 @@ Tato překážka má dnes omezený význam, neboť po profesionalizaci armády (
 
 Oproti volebnímu zákonu (§ 4 odst. 2 zákona č. 491/2001 Sb.) překážky ZMR z větší části korespondují, drobné rozdíly však existují — zejména v dikci „omezení svéprávnosti k výkonu práva hlasovat v referendu" (volební zákon hovoří o „omezení svéprávnosti k výkonu práva volit"). Tyto rozdíly nejsou předmětem hlubších výkladových sporů, jelikož soudy obvykle vykládají oba pojmy obsahově totožně — soudní rozhodnutí o omezení svéprávnosti zahrnujícím „výkon volebního práva" se má zpravidla vykládat tak, že zahrnuje i právo hlasovat v referendu, a obráceně.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní K. byla soudem omezena ve svéprávnosti pro duševní poruchu; výrok rozsudku uvádí omezení v oblasti nakládání s majetkem nad 5 000 Kč, avšak o volebním právu ani o právu hlasovat v referendu výrok mlčí. Obecní úřad ji při sestavování okrsku zařadí mezi osoby bez hlasovacího práva s odkazem na „omezení svéprávnosti". Paní K. trvá na účasti. Rozhodný je text výroku opatrovnického rozsudku.
+
+**2. Právní otázka.** Lze odepřít hlasovací právo osobě omezené ve svéprávnosti, jestliže soudní rozhodnutí výslovně nestanoví omezení práva hlasovat v referendu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 písm. b) ZMR — překážkou je „omezení svéprávnosti k výkonu práva hlasovat v referendu".
+- *Související ustanovení téhož zákona:* § 2 (oprávněná osoba), § 36 odst. 4 (neumožnění hlasování při neprokázání oprávněnosti).
+- *Související předpisy:* § 55–§ 65 zákona č. 89/2012 Sb., občanský zákoník (individualizace omezení svéprávnosti); Úmluva OSN o právech osob se zdravotním postižením (sděl. č. 10/2010 Sb. m. s.).
+- *Judikatura:* Pl. ÚS 43/10 — plošné odnětí volebního práva osobám s omezenou svéprávností je protiústavní; omezení musí být individualizované a výslovné. Závěry se analogicky vztahují na referendum.
+
+**4. Subsumpce.** Výrok rozsudku neobsahuje omezení práva hlasovat → znak „omezení svéprávnosti k výkonu práva hlasovat" podle § 4 písm. b) není naplněn. Existence omezení v jiné oblasti (majetek) je irelevantní. Paní K. tedy zůstává oprávněnou osobou.
+
+**5. Řešení.** Hlasovací právo nelze odepřít — chybí výslovný výrok. Obecní úřad pochybil; paní K. musí být umožněno hlasovat. Pokud by odepření trvalo a ovlivnilo (potenciálně) výsledek, je dán důvod neplatnosti dle § 58 odst. 1 písm. a). Procesně: náprava na úrovni okrskové komise, případně stížnost místní komisi.
+
+**6. Varianty.** (a) Kdyby výrok rozsudku výslovně omezoval i „právo hlasovat v referendu/volbách", překážka by byla dána a odepření by bylo zákonné. (b) Kdyby šlo o osobu ve výkonu trestu odnětí svobody (§ 4 písm. a)), překážka by nastala ze zákona bez ohledu na výrok o svéprávnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Jakékoli omezení svéprávnosti svědčí o neschopnosti odpovědně hlasovat." Neutralizace: ústavní i mezinárodní standard vyžaduje individualizaci; paušální odnětí je protiústavní (Pl. ÚS 43/10).
+- *Protiargument:* dikce ZMR a volebního zákona se liší. Neutralizace: soudy vykládají oba pojmy obsahově shodně; rozhodující je výslovnost výroku, nikoli formulační nuance.
+- *Slabé místo:* obecní úřady nemají vždy k dispozici plné znění opatrovnických rozsudků a spoléhají na evidenční poznámku, což vede k chybnému vyřazení.
+
+#### H. Praktický závěr
+
+Výčet překážek je taxativní; omezení svéprávnosti vyřazuje z hlasování jen tehdy, je-li v soudním výroku výslovně uvedeno právo hlasovat. Ostatní překážky (vazba/trest, karanténa, vojenská služba kolidující s účastí) působí ze zákona.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U omezení svéprávnosti ověřit výslovný výrok o právu hlasovat (volby/referendum).
+- [ ] U výkonu trestu rozlišit trest ve věznici (překážka) od alternativních trestů (bez překážky).
+- [ ] U karantény/izolace ověřit nařízení podle zákona o ochraně veřejného zdraví.
+- [ ] U vojenské služby posoudit, zda konkrétní povinnost reálně bránila účasti.
+
+**Typicky rozhodné důkazy / podklady:** opatrovnický rozsudek (výrok), doklad o výkonu trestu/vazby, rozhodnutí o karanténě/izolaci, potvrzení o služebním zařazení.
+
 ---
 
 ### § 5 — Den a doba hlasování, krizový stav
@@ -197,6 +341,42 @@ Aplikace § 5 odst. 2 v praxi vyvolává řadu otázek:
 
 - Jak postupovat, vyhlásí-li se krizový stav několik dnů před hlasováním a obec již investovala do tisku lístků, najmutí komisí atd.? Zákon mlčí; v praxi se ujalo, že tyto náklady jdou na vrub obce a nový den hlasování je stanoven s ohledem na ekonomickou efektivitu (typicky souběh s další možnou volební akcí).
 - Co když krizový stav postihne jen část území obce (např. povodňové opatření)? Doslovný výklad „na území, na kterém se má místní referendum konat" by mohl vést k závěru, že krizový stav v 1 % území obce neumožňuje konat referendum nikde — moderní výklad NSS preferuje, aby se posuzovala materiální způsobilost konat hlasování na převažující části území; rezidua se řeší přerušením hlasování v dotčených okrscích podle § 39.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Přípravný výbor naplánoval referendum na termín souběžně s komunálními volbami v říjnu, aby zvýšil účast. Tři týdny před termínem vláda vyhlásí nouzový stav z důvodu rozsáhlé energetické krize. Obec již zaplatila tisk hlasovacích lístků. Zastupitelstvo řeší, zda se referendum koná, a kdy. Rozhodné je, zda se souběžné komunální volby v nouzovém stavu konají, a kdy nouzový stav skončí.
+
+**2. Právní otázka.** Odkládá vyhlášený nouzový stav konání místního referenda i tehdy, je-li naplánováno v souběhu s komunálními volbami, a jak se stanoví náhradní termín?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 odst. 2 a 3 ZMR — v krizovém stavu se lhůty přerušují a referendum nekoná; výjimka pro souběh s volbami, které se i v krizovém stavu konají.
+- *Související ustanovení téhož zákona:* § 5 odst. 1 (souběh s volbami, společná doba hlasování), § 39 (přerušení hlasování), § 53 odst. 2 (lhůty nelze prominout).
+- *Související předpisy:* čl. 5 a 7 ústavního zákona č. 110/1998 Sb., o bezpečnosti ČR (nouzový stav, stav ohrožení státu); čl. 43 Ústavy (válečný stav).
+- *Judikatura:* nosný závěr o materiálním posouzení způsobilosti konat hlasování; taxativnost výčtu krizových stavů (stav nebezpečí dle zákona č. 240/2000 Sb. mezi ně nepatří).
+
+**4. Subsumpce.** Nouzový stav je krizovým stavem dle § 5 odst. 2 → běh lhůt se přerušuje a referendum se nekoná, ledaže se uplatní výjimka odst. 3. Klíčový znak „volby, které se i v krizovém stavu konají": komunální volby nemají ústavně chráněný pevný termín jako volby do PS, takže výjimka odst. 3 se na ně typicky nevztahuje.
+
+**5. Řešení.** Pokud se komunální volby v nouzovém stavu nekonají (odloží se), neuplatní se výjimka odst. 3 a referendum se nekoná; nový den stanoví zastupitelstvo tak, aby spadl nejpozději 90 dnů po skončení krizového stavu. Náklady na již vytištěné lístky nese obec. Procesně: usnesení zastupitelstva o novém dni, ideálně opět k nejbližší volební akci.
+
+**6. Varianty.** (a) Kdyby šlo o souběh s volbami do Poslanecké sněmovny, které se konají i v krizovém stavu, referendum by se podle odst. 3 konalo. (b) Kdyby byl vyhlášen jen „stav nebezpečí" hejtmanem (zákon č. 240/2000 Sb.), nešlo by o krizový stav dle § 5 odst. 2 a referendum by se konalo bez odkladu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stav nebezpečí je také krizový stav, referendum se odkládá." Neutralizace: výčet v § 5 odst. 2 je taxativní a vázaný na ústavní zákon č. 110/1998 Sb.; stav nebezpečí tam není.
+- *Protiargument:* obci vznikla škoda za tisk lístků, měl by ji nahradit stát. Neutralizace: organizace referenda je samostatnou působností (§ 50), náklady nese obec (§ 51); zákon náhradu nepředvídá.
+- *Slabé místo:* postižení jen části území obce vyvolává výkladovou nejistotu (celé referendum vs. přerušení v dotčených okrscích dle § 39).
+
+#### H. Praktický závěr
+
+Hlasování je jednodenní, při souběhu s volbami přebírá jejich (i dvoudenní) dobu. Krizový stav (nouzový/ohrožení/válečný) přerušuje lhůty a odkládá referendum, ledaže souběžné volby probíhají i v něm.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda jde o krizový stav dle taxativního výčtu (ne stav nebezpečí).
+- [ ] Zjistit, zda souběžné volby probíhají i v krizovém stavu (výjimka odst. 3).
+- [ ] Při odkladu stanovit nový den do 90 dnů po skončení krizového stavu.
+- [ ] Při souběhu s volbami sladit dobu hlasování s volebním zákonem.
+
+**Typicky rozhodné důkazy / podklady:** usnesení vlády o vyhlášení/ukončení krizového stavu, usnesení zastupitelstva o (novém) dni konání, doklady o nákladech a o termínu souběžných voleb.
 
 ---
 
@@ -248,6 +428,42 @@ NSS tuto zásadu konkretizoval v sérii rozhodnutí (např. Ars 4/2013, Ars 7/20
 1. Referendum nemusí být **samovykonatelné** — postačí, vede-li k zavázání orgánů obce.
 2. Otázka nemusí být formulována absolutně určitě — postačí, je-li dostatečně srozumitelná pro průměrného oprávněného hlasujícího.
 3. Vyloučení referenda musí mít **jednoznačný zákonný základ** v § 7 ZMR nebo plynout z jeho § 6 (mimo samostatnou působnost) — sporné případy se rozhodují **ve prospěch** přípustnosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Soukromý investor chce v obci postavit velkou logistickou halu; záměr je předmětem územního řízení podle stavebního zákona. Občané sepíší dvě varianty otázky: (A) „Souhlasíte, aby obec povolila výstavbu haly v lokalitě Y?" a (B) „Má obec všemi zákonnými prostředky usilovat o to, aby v lokalitě Y nebyla povolena výstavba logistické haly?" Přípravný výbor zvažuje, kterou podat. Rozhodné je, zda předmět spadá do samostatné, nebo přenesené působnosti.
+
+**2. Právní otázka.** Lze v místním referendu rozhodovat o povolení konkrétního stavebního záměru třetí osoby, nebo jen o politickém postoji obce vůči tomuto záměru?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 ZMR — referendum jen o věcech samostatné působnosti obce.
+- *Související ustanovení téhož zákona:* § 7 písm. d) (rozpor s předpisy), § 7 písm. e) (věci řešené ve zvláštním řízení), § 49 (závaznost pro orgány), § 58 odst. 1 písm. b) a c) (neplatnost při konání mimo samostatnou působnost).
+- *Související předpisy:* § 35 zákona č. 128/2000 Sb. (samostatná působnost); stavební zákon (územní řízení = přenesená působnost/zvláštní řízení).
+- *Judikatura:* Pl. ÚS 35/06 (Jirkov) — princip in dubio pro referendo; série NSS (Ars 4/2013, Ars 7/2016, Ars 1/2019) — referendum nemusí být samovykonatelné, postačí zavázání orgánů; o konkrétním záměru ve stavebním řízení referendum konat nelze.
+
+**4. Subsumpce.** Varianta A směřuje k „povolení" záměru, o němž se rozhoduje ve stavebním/územním řízení v přenesené působnosti → mimo § 6 a navíc kolize s § 7 písm. e). Varianta B směřuje k politickému postoji obce a k závazku jejích orgánů jednat v mezích jejich kompetence (vyjádření obce v řízení, územní plánování) → spadá do samostatné působnosti.
+
+**5. Řešení.** Přípustná je varianta B. Výsledek nezavazuje stavební úřad (přenesená působnost), ale zavazuje orgány obce, aby v rámci svých kompetencí (stanoviska, územní plán) usilovaly o cíl referenda. Varianta A by byla zastupitelstvem důvodně nevyhlášena (§ 13 odst. 1 písm. b)) a v případě konání hrozí neplatnost dle § 58. Procesně: formulovat otázku jako závazek orgánů obce, ne jako rozhodnutí ve správním řízení.
+
+**6. Varianty.** (a) Kdyby šlo o pozemek ve vlastnictví obce a otázka zněla „má obec prodat/neprodat pozemek X investorovi?", šlo by o nakládání s majetkem (samostatná působnost) → přípustné. (b) Kdyby otázka mířila na schválení obecně závazné vyhlášky, narazila by na § 7 písm. g).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Občané mají právo rozhodnout o své obci, tedy i o hale." Neutralizace: rozhodnutí o povolení stavby je výkonem státní správy v přenesené působnosti, kterou referendum nahradit nemůže; lze rozhodnout jen o postoji obce.
+- *Protiargument:* otázka B je jen „bezzubá deklarace". Neutralizace: dle § 49 je výsledek závazný pro orgány obce a vynutitelný (§ 89 ZoO), byť nezavazuje stavební úřad.
+- *Slabé místo:* hranice mezi „postojem obce" a „rozhodnutím ve zvláštním řízení" je tenká; chybná formulace otázky vede k nevyhlášení nebo k pozdější neplatnosti.
+
+#### H. Praktický závěr
+
+§ 6 vymezuje předmět pozitivně (samostatná působnost) a vykládá se materiálně a vstřícně (in dubio pro referendo). Referendum nemusí být samovykonatelné — stačí zavázání orgánů obce; nesmí však zasahovat do přenesené působnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda předmět spadá do samostatné působnosti (§ 35 ZoO), ne do přenesené.
+- [ ] Formulovat otázku jako závazek orgánů obce, ne jako rozhodnutí ve správním řízení.
+- [ ] Souběžně prověřit negativní katalog § 7.
+- [ ] V pochybnostech upřednostnit přípustnost (in dubio pro referendo).
+
+**Typicky rozhodné důkazy / podklady:** statut/vymezení samostatné působnosti, doklady o probíhajícím správním (územním/stavebním) řízení, vlastnické poměry k předmětu, znění a odůvodnění otázky.
 
 ---
 
@@ -345,6 +561,42 @@ Důležitá zpřesnění:
 - Překážka 24 měsíců se týká **téže věci** — výklad „téže věci" je materiální, nikoli formální; přípravný výbor nemůže obejít překážku tím, že otázku přeformuluje, je-li předmět věcně shodný.
 - Pokud referendum **nebylo platné** (nedosažení 35 % účasti) nebo **nebylo závazné** (nedosažení 25 % oprávněných pro vítěznou variantu), překážka neplatí — lze konat referendum okamžitě znovu. Toto pravidlo má motivační dopad — neúspěšní iniciátoři mají tendenci pokusit se znovu, často právě v souběhu s nějakými volbami.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obyvatelé žádají referendum s otázkou „Souhlasíte, aby obec zavedla obecně závaznou vyhláškou úplný zákaz provozování hazardních her na svém území?" Zastupitelstvo, které je provozovatelům herny nakloněno, zvažuje, zda referendum vyhlásit, nebo zda jej odmítnout pro nepřípustnost. Současně před dvěma lety již proběhlo platné referendum o tomtéž s výsledkem „ano", které zastupitelstvo nerealizovalo. Rozhodné je znění otázky a datum předchozího platného rozhodnutí.
+
+**2. Právní otázka.** Je referendum o přijetí obecně závazné vyhlášky o zákazu hazardu přípustné, a brání jeho konání předchozí platné rozhodnutí v téže věci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 písm. g) (zákaz referenda o schválení/změně/zrušení OZV) a § 7 písm. h) (24měsíční překážka po platném rozhodnutí).
+- *Související ustanovení téhož zákona:* § 6 (samostatná působnost), § 48 (platnost a závaznost), § 49 (závaznost pro orgány).
+- *Související předpisy:* § 10 písm. a) a § 84 zákona č. 128/2000 Sb. (pravomoc vydávat OZV); zákon č. 186/2016 Sb., o hazardních hrách.
+- *Judikatura:* nosný závěr NSS, že otázku nelze formulovat tak, aby přímo vedla ke vzniku OZV, lze ji však formulovat jako závazek orgánů obce; materiální posuzování „téže věci" u § 7 písm. h).
+
+**4. Subsumpce.** Otázka „aby obec zavedla OZV" míří přímo na schválení vyhlášky → naráží na § 7 písm. g) (nepřípustné). Současně, jde-li věcně o tutéž věc jako u předchozího platného rozhodnutí a neuplynulo 24 měsíců, naplňuje se i překážka § 7 písm. h).
+
+**5. Řešení.** V této podobě referendum vyhlásit nelze (§ 7 písm. g) i h)). Cesty: (i) přeformulovat otázku na „má obec usilovat o omezení hazardu na svém území?" (přípustné), (ii) vyčkat uplynutí 24 měsíců od předchozího platného rozhodnutí. Pokud předchozí rozhodnutí bylo platné a závazné, namístě je spíše domáhat se jeho realizace (§ 49, § 89 ZoO) než nové referendum.
+
+**6. Varianty.** (a) Kdyby předchozí referendum bylo neplatné (účast < 35 %), překážka § 7 písm. h) by neplatila a nové referendum (ve správně formulované podobě) by bylo možné ihned. (b) Kdyby otázka mířila na rozpočtovou položku, narazila by místo písm. g) na písm. a).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zákaz referenda o OZV je formalismus — výsledek stejně směřuje k vyhlášce." Neutralizace: zákon rozlišuje přímé schválení OZV (zakázané) od závazku orgánů přijmout odpovídající kroky (přípustné); rozhoduje formulace otázky.
+- *Protiargument:* nové referendum obejde předchozí promarněný výsledek. Neutralizace: u platného rozhodnutí brání § 7 písm. h) po 24 měsíců a materiální výklad „téže věci" znemožní obejití přeformulováním.
+- *Slabé místo:* hranice mezi „usilovat o omezení" a „schválit OZV" je interpretačně citlivá; nejasná otázka může být nevyhlášena.
+
+#### H. Praktický závěr
+
+§ 7 je taxativní negativní katalog: vylučuje mj. referendum o rozpočtu/poplatcích (a), o orgánech obce (b, c), o OZV (g), o věcech ve zvláštním řízení (e) a po dobu 24 měsíců od platného rozhodnutí (h). Vykládá se restriktivně — pochybnost svědčí přípustnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Projít otázku všemi písmeny § 7 (a–h) jednotlivě.
+- [ ] U OZV přeformulovat na závazek orgánů, ne na přímé schválení vyhlášky.
+- [ ] U písm. h) zjistit datum a platnost předchozího rozhodnutí (24 měsíců, materiální „táž věc").
+- [ ] Rozpor s předpisy (písm. d)) posuzovat jen jako evidentní a nepochybný.
+
+**Typicky rozhodné důkazy / podklady:** znění otázky a odůvodnění, zápis o předchozím referendu a jeho výsledku, doklad o (ne)platnosti předchozího rozhodnutí, případně probíhající zvláštní řízení.
+
 ---
 
 ## HLAVA III — Náležitosti návrhu na konání místního referenda a vyhlášení konání místního referenda
@@ -417,6 +669,42 @@ Pokud zastupitelstvo nebo soud shledá, že otázka tyto požadavky nesplňuje, 
 
 V některých případech může referendum obsahovat **více otázek najednou** — viz § 8 odst. 3 v plurálu („otázka navržená … musí být"), § 10 odst. 1 písm. b) („znění otázky, popřípadě otázek"), § 33 odst. 1 písm. e) (hlasovací lístek s více otázkami) atd. Pak se každá otázka hodnotí a vyhodnocuje samostatně; platnost referenda je posuzována souhrnně (35 % účast pro referendum jako celek), závaznost rozhodnutí o jednotlivé otázce zvlášť (25 % oprávněných hlasujících „ano" nebo „ne").
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V obci s 18 000 obyvateli (kategorie do 20 000 → kvórum 20 %) přípravný výbor odevzdá podpisovou listinu. Obecní úřad spočítá podpisy a část jich vyřadí: u řady osob chybí přesné datum narození (uveden jen rok), u jiných je uvedena ulice bez čísla popisného. Po vyřazení klesne počet platných podpisů těsně pod 20 % oprávněných osob. Otázka současně zní: „Souhlasíte, aby obec zachovala stávající nemocnici a zároveň vybudovala nový sportovní areál?" Rozhodné jsou náležitosti archů (§ 11) a počet obyvatel k 1. 1. (§ 55).
+
+**2. Právní otázka.** (i) Vedou drobné formální vady údajů podporovatelů automaticky k vyřazení podpisů? (ii) Splňuje sdružená otázka („zachovat nemocnici a zároveň vybudovat areál") požadavek jednoznačné binární formulace dle § 8 odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 odst. 2 (klouzavé podpisové kvórum) a § 8 odst. 3 (otázka „ano/ne").
+- *Související ustanovení téhož zákona:* § 11 (náležitosti podpisového archu a údajů), § 12 odst. 2 (výzva k odstranění vad), § 55 (počet oprávněných osob k 1. 1.).
+- *Související předpisy:* § 4 zákona č. 491/2001 Sb. (oprávněná osoba); evidence obyvatel (zákon č. 133/2000 Sb.) pro ověření identity.
+- *Judikatura:* Ars 4/2013 (platnost se posuzuje k okamžiku podání návrhu; drobné vady nevedou k vyřazení, lze-li osobu jednoznačně identifikovat), IV. ÚS 1403/09 (požadavek jednoznačnosti otázky).
+
+**4. Subsumpce.** (i) Chybí-li jen rok navíc či číslo popisné, ale identita je v evidenci jednoznačně určitelná, podpis se nevyřazuje → vyřazení bylo nesprávné. (ii) Otázka spojuje dvě samostatná témata spojkou „a zároveň" → hlasující pro nemocnici, ale proti areálu nemůže vyjádřit vůli → nesplňuje § 8 odst. 3 (kombinovaná, nejednoznačná).
+
+**5. Řešení.** Obecní úřad měl postupovat dle § 12 odst. 2 (výzva k odstranění vad), nikoli rovnou vyřadit; po zápočtu jednoznačně identifikovatelných podpisů kvórum pravděpodobně bude splněno. Sdruženou otázku je třeba rozdělit na dvě samostatné otázky (každá „ano/ne"), o nichž se hlasuje a vyhodnocuje zvlášť. Procesně: doplnění/oprava ve lhůtě min. 7 dnů; proti nesprávné výzvě lze brojit dle § 57 odst. 1 písm. a).
+
+**6. Varianty.** (a) Kdyby chyběl vlastnoruční podpis nebo zcela datum narození i možnost identifikace, podpis by byl neplatný právem. (b) Kdyby obec během sběru přešla přes 20 000 obyvatel, rozhodný je stav k 1. 1. roku podání (§ 55), nikoli pozdější nárůst.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Každá vada údaje znamená neplatný podpis." Neutralizace: NSS připouští drobné vady, lze-li podporovatele jednoznačně identifikovat; účelem je ověřit reálnou podporu, ne formální dokonalost.
+- *Protiargument:* sdružená otázka je „úsporná a srozumitelná". Neutralizace: kombinace dvou témat znemožňuje vyjádřit diferencovanou vůli a odporuje § 8 odst. 3; řešením je více samostatných otázek.
+- *Slabé místo:* hranice „jednoznačné identifikovatelnosti" je posuzována případ od případu; sporné podpisy mohou rozhodnout o (ne)dosažení kvóra u těsných výsledků.
+
+#### H. Praktický závěr
+
+Referendum se koná z usnesení zastupitelstva nebo na návrh přípravného výboru podpořený klouzavým kvórem (30/20/10/6 % dle velikosti obce). Otázka musí být binární, jednoznačná, neutrální a realizovatelná; více témat = více samostatných otázek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit velikostní kategorii a kvórum z počtu obyvatel k 1. 1. (§ 55).
+- [ ] Vady podpisů řešit výzvou (§ 12 odst. 2), ne paušálním vyřazením; identifikovatelné podpisy zachovat.
+- [ ] Otázku otestovat na jednoznačnost, neutralitu, realizovatelnost a nekombinovanost.
+- [ ] Více témat rozdělit na samostatné otázky vyhodnocované zvlášť.
+
+**Typicky rozhodné důkazy / podklady:** podpisové archy s náležitostmi, výpis počtu obyvatel/oprávněných osob k 1. 1., evidence obyvatel pro ověření identity, znění a odůvodnění otázek.
+
 ---
 
 ### § 9 — Přípravný výbor
@@ -477,6 +765,42 @@ Zmocněnec je „zástupce zástupců" — určuje ho přípravný výbor sám z
 - Pokud zmocněnec přestane vykonávat funkci, musí přípravný výbor určit nového a tuto změnu oznámit příslušným orgánům.
 
 V praxi je zmocněnec **klíčovou kontaktní osobou** — bývá to obvykle iniciátor referenda, právník nebo veřejně vystupující osoba. Označení zmocněnce je povinnou náležitostí návrhu přípravného výboru podle § 10 odst. 1 písm. e).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Přípravný výbor tvoří tři osoby; zmocněncem byl označen pan Z. Po neúspěšném referendu (zastupitelstvo nevyhlásilo) chce výbor podat soudu návrh na vyhlášení. Mezitím se ukáže, že jeden ze tří členů má trvalý pobyt v sousední obci, a pan Z. dlouhodobě onemocněl a nereaguje na doručení. Rozhodné je složení výboru (oprávněné osoby) a kdo je oprávněn za výbor jednat u soudu.
+
+**2. Právní otázka.** Je přípravný výbor řádně ustaven, je-li jeden z jeho tří členů osobou bez trvalého pobytu v obci, a kdo je aktivně legitimován k soudnímu návrhu, je-li zmocněnec nečinný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 odst. 1 (nejméně 3 oprávněné osoby), odst. 2 písm. c) a d) (aktivní legitimace u soudu), odst. 3 (zmocněnec a závaznost jeho úkonů).
+- *Související ustanovení téhož zákona:* § 2 (oprávněná osoba), § 10 odst. 1 písm. e) a f) (označení zmocněnce a identifikace členů), § 57 a § 58 (soudní řízení).
+- *Související předpisy:* § 91a SŘS (procesní rámec); subsidiárně občanský soudní řád pro otázky zastoupení v rozsahu připuštěném SŘS.
+- *Judikatura:* nosný závěr, že přípravný výbor je procesním subjektem s aktivní legitimací; vady ve složení (člen bez způsobilosti) je třeba posuzovat materiálně a umožnit nápravu.
+
+**4. Subsumpce.** Člen bez trvalého pobytu v obci není oprávněnou osobou (§ 2) → nesplňuje podmínku členství dle § 9 odst. 1; klesne-li tím počet platných členů pod 3, výbor není řádně ustaven. Zmocněnec dle § 9 odst. 3 jedná závazně za výbor, jeho nečinnost však neruší aktivní legitimaci výboru jako celku.
+
+**5. Řešení.** Je třeba doplnit/nahradit vadného člena tak, aby výbor tvořily nejméně 3 oprávněné osoby, a v případě potřeby určit nového zmocněnce a tuto změnu oznámit. Soudní návrh podle § 57/§ 58 podává přípravný výbor (prostřednictvím zmocněnce); při dlouhodobé nečinnosti zmocněnce výbor určí nového. Procesně je vhodné napravit složení před podáním návrhu, aby nebyl odmítnut pro vady.
+
+**6. Varianty.** (a) Kdyby výbor měl pět členů a jeden byl vyřazen, zůstanou-li nejméně 3 oprávněné osoby, výbor existuje dál bez nápravy. (b) Jde-li o návrh na neplatnost dle § 58, je legitimace širší — návrh může podat i jednotlivá oprávněná osoba nezávisle na výboru.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Výbor není právnickou osobou, nemůže tedy být účastníkem řízení." Neutralizace: § 9 odst. 2 písm. c), d) a § 91a SŘS mu výslovně přiznávají procesní subjektivitu a aktivní legitimaci.
+- *Protiargument:* úkony nečinného zmocněnce blokují výbor. Neutralizace: výbor může zmocněnce změnit; aktivní legitimace náleží výboru, ne osobně zmocněnci.
+- *Slabé místo:* zánik výboru po skončení referenda znamená, že na hlídání realizace výsledku už výbor nemá nástroje — musí jednat jednotlivé oprávněné osoby.
+
+#### H. Praktický závěr
+
+Přípravný výbor je neformální sdružení nejméně 3 oprávněných osob s procesními právy (iniciace, delegace do komisí, aktivní legitimace u soudu). Za výbor jedná závazně zmocněnec; jeho označení je obligatorní náležitostí návrhu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že všichni členové jsou oprávněné osoby (§ 2) a je jich nejméně 3.
+- [ ] Označit zmocněnce a doložit identifikační údaje členů (§ 10 odst. 1 písm. e), f)).
+- [ ] Při změně zmocněnce/člena oznámit změnu příslušným orgánům.
+- [ ] U soudních návrhů rozlišit legitimaci dle § 57 (jen výbor) a § 58 (i oprávněná osoba).
+
+**Typicky rozhodné důkazy / podklady:** zakladatelský dokument výboru, doklady o trvalém pobytu členů, listina o určení zmocněnce, doklady o doručování zmocněnci.
 
 ---
 
@@ -544,6 +868,42 @@ Podpisová listina je **součástí návrhu** přípravného výboru. To znamen�
 
 V praxi se listina skládá z desítek až stovek archů; každý arch obsahuje hlavičku (data povinná podle § 11 odst. 1) a tabulku s podpisy. Číslování arch je obvykle vlevo nahoře nebo ve zvláštním pásu na okraji.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Přípravný výbor podá obecnímu úřadu návrh, který obsahuje území, znění otázky, odůvodnění, označení zmocněnce a identifikaci členů s podpisy. V kolonce „odhad nákladů a způsob úhrady" uvede pouze větu: „Náklady budou hrazeny z rozpočtu obce." Konkrétní částku neuvádí. Obecní úřad návrh hodnotí jako neúplný a vyzývá k doplnění; zastupitelstvo později namítá, že odhad je nereálně nízký. Rozhodné je, zda absence vyčíslení nákladů je vadou bránící projednání.
+
+**2. Právní otázka.** Je odhad nákladů podle § 10 odst. 1 písm. d) obligatorní náležitostí, jejíž nedostatečnost brání projednání návrhu, nebo jde o informativní údaj, jehož kvalita není podmínkou platnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10 odst. 1 (šest obligatorních náležitostí), zejména písm. d) (odhad nákladů a způsob úhrady), a odst. 2 (podpisová listina jako součást návrhu).
+- *Související ustanovení téhož zákona:* § 11 (podpisová listina), § 12 odst. 2 (výzva k odstranění vad), § 13 odst. 1 (materiální přezkum zastupitelstvem).
+- *Související předpisy:* § 9 zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů (rozpočtová kázeň, kontext nákladů).
+- *Judikatura:* Ars 4/2013, Ars 1/2019 — odhad nákladů nemusí být dokonalý ani vědecky podložený, postačí odhad v dobré víře; nesouhlas zastupitelstva s odhadem není důvodem k odmítnutí návrhu.
+
+**4. Subsumpce.** Náležitost písm. d) zahrnuje jak odhad nákladů, tak způsob úhrady. Pouhá věta o úhradě z rozpočtu obce sice obsahuje způsob úhrady, ale postrádá vlastní odhad výše → formálně chybí část náležitosti. Kvalita (přesnost) odhadu však není podmínkou; vada spočívá jen v absenci jakéhokoli odhadu částky.
+
+**5. Řešení.** Obecní úřad může vyzvat k doplnění odhadu částky (§ 12 odst. 2), neboť úplná absence odhadu je formálním nedostatkem. Jakmile výbor doplní byť rámcový odhad učiněný v dobré víře, náležitost je splněna; zastupitelstvo nesmí návrh odmítnout jen proto, že odhad pokládá za nízký. Procesně: doplnění ve lhůtě min. 7 dnů; jinak fikce bezvadnosti po 30 dnech (§ 12 odst. 3) nenastane, byla-li řádně zaslána výzva.
+
+**6. Varianty.** (a) Kdyby výbor uvedl konkrétní (byť hrubý) odhad nákladů na provedení i na realizaci rozhodnutí, náležitost by byla splněna i při nepřesnosti čísel. (b) Kdyby zcela chyběla podpisová listina (odst. 2), nešlo by o doplnitelný detail, ale o zásadní absenci součásti návrhu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez přesného a reálného vyčíslení je odhad bezcenný a návrh vadný." Neutralizace: judikatura výslovně připouští odhad v dobré víře; účelem je informovat občany, ne dosáhnout rozpočtové přesnosti.
+- *Protiargument:* zastupitelstvo může návrh odmítnout pro „nedostatečné" náklady. Neutralizace: nesouhlas s výší odhadu není zákonným důvodem nevyhlášení; materiální přezkum (§ 13) se týká přípustnosti, ne kvality odhadu.
+- *Slabé místo:* hranice mezi „chybějícím odhadem" (vada) a „nepřesným odhadem" (bez vlivu) může být sporná a vést ke zbytečným výzvám.
+
+#### H. Praktický závěr
+
+Návrh má šest obligatorních náležitostí (§ 10 odst. 1) a podpisovou listinu jako součást (odst. 2). Odhad nákladů je informativní — vyžaduje se jeho existence (odhad v dobré víře), nikoli přesnost; chybějící náležitost se řeší výzvou k doplnění, ne odmítnutím.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zkontrolovat přítomnost všech šesti náležitostí písm. a)–f).
+- [ ] U písm. d) uvést jak odhad výše nákladů, tak způsob úhrady.
+- [ ] Připojit očíslovanou podpisovou listinu (odst. 2).
+- [ ] Vady řešit výzvou (§ 12 odst. 2), nikoli odmítnutím pro „nízký" odhad.
+
+**Typicky rozhodné důkazy / podklady:** vyhotovený návrh se všemi náležitostmi, podpisová listina, rámcová kalkulace nákladů (odhad), doklad o doručení návrhu obecnímu úřadu.
+
 ---
 
 ### § 11 — Podpisová listina
@@ -595,6 +955,42 @@ Návrh přípravného výboru a podpisové listiny **nesmí být vystaveny** v p
 - Zabránit zneužití úředních prostor k politické agitaci pro referendum.
 
 Toto pravidlo se v praxi striktně vykládá — vystavení archů na úřední desce, v hlavním vestibulu radnice, v obecní knihovně či v jiném objektu obecního úřadu by bylo porušením. Sběr podpisů probíhá obvykle „v terénu" — na ulici, v prostorách občanských spolků, v hospodách, v obchodech apod. (vždy se souhlasem provozovatele prostor).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Přípravný výbor použil „masterarch" s plnou hlavičkou (území, otázka, údaje o členech, poučení dle písm. d)) a k němu připojil 40 navazujících archů, které obsahují jen tabulku pro podpisy a poznámku „viz arch č. 1". Na třech archech je navíc poučení o sankci zkráceno (vynechána část o pokutě). Obecní úřad zvažuje vyřazení podpisů z archů bez plné hlavičky i z archů s neúplným poučením. Rozhodné je, zda náležitosti musí splňovat každý arch samostatně.
+
+**2. Právní otázka.** Musí každý podpisový arch obsahovat všechny náležitosti § 11 odst. 1 samostatně, a vede vynechání části povinného poučení dle písm. d) k vyřazení podpisů z dotčeného archu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 odst. 1 (náležitosti každého archu, vč. doslovného poučení dle písm. d)), odst. 2 (údaje podporovatele), odst. 3 (zákaz vystavování v úřadech).
+- *Související ustanovení téhož zákona:* § 10 odst. 2 (podpisová listina jako součást návrhu), § 12 odst. 2 (výzva k odstranění vad), § 8 odst. 2 (kvórum).
+- *Související předpisy:* § 56 ZMR (přestupky, na něž poučení odkazuje).
+- *Judikatura:* nosný závěr, že náležitosti se vyžadují u každého archu jednotlivě; současně drobné vady, které nezpochybňují identitu podporovatele, nevedou k vyřazení (Ars 4/2013).
+
+**4. Subsumpce.** Archy bez plné hlavičky nesplňují § 11 odst. 1 samostatně (každý arch musí mít náležitosti) → podpisy z nich nelze započíst. Archy s neúplným poučením dle písm. d) nesplňují požadavek doslovného znění → rovněž vada archu, dotčené podpisy se nezapočítají, dokud není vada odstraněna.
+
+**5. Řešení.** Obecní úřad nevyřazuje rovnou, ale vyzve k odstranění vad (§ 12 odst. 2) — výbor může archy doplnit o chybějící hlavičku a doslovné poučení a podpisy zachovat. Po doplnění se podpisy z opravených archů započtou. Procesně: doplnění ve lhůtě min. 7 dnů; teprve nelze-li vady odstranit, podpisy z vadných archů se nezapočtou do kvóra.
+
+**6. Varianty.** (a) Kdyby každý arch obsahoval plnou hlavičku a doslovné poučení, podpisy by se započítaly bez výhrad. (b) Kdyby byly archy vystaveny k podpisu ve vestibulu radnice (porušení odst. 3), hrozilo by zpochybnění regulérnosti sběru bez ohledu na náležitosti archů.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stačí, aby náležitosti měl první arch (masterarch)." Neutralizace: § 11 odst. 1 váže náležitosti na každý podpisový arch; odkaz na jiný arch je nedostatečný.
+- *Protiargument:* poučení je formalita, jeho zkrácení nevadí. Neutralizace: zákon předepisuje doslovné znění; odchylka je vadou archu, byť odstranitelnou výzvou.
+- *Slabé místo:* rozlišení mezi „vadou archu" (vyřaditelnou, ale opravitelnou) a „drobnou vadou údaje podporovatele" (bez následku) bývá sporné a může u těsných výsledků rozhodnout o kvóru.
+
+#### H. Praktický závěr
+
+Každý podpisový arch musí samostatně obsahovat náležitosti § 11 odst. 1 včetně doslovného poučení dle písm. d); podporovatel uvádí pět údajů (vč. vlastnoručního podpisu). Archy se nesmějí vystavovat v úřadech. Odstranitelné vady se řeší výzvou, ne paušálním vyřazením.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že každý arch má plnou hlavičku a doslovné poučení dle písm. d).
+- [ ] U podporovatele zkontrolovat pět údajů (jméno, příjmení, datum narození, adresu trvalého pobytu, vlastnoruční podpis).
+- [ ] Vyloučit vystavování archů v prostorách úřadů (odst. 3).
+- [ ] Vady archů řešit výzvou k odstranění (§ 12 odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** podpisové archy (každý s hlavičkou a poučením), evidence obyvatel pro ověření identity a pobytu, doklad o místě/způsobu sběru podpisů.
 
 ---
 
@@ -650,6 +1046,42 @@ V některých případech rada obce protahovala předložení návrhu zastupitel
 #### Subsidiární aplikace správního řádu pro doručování (odst. 5)
 
 § 54 ZMR obecně vylučuje použití správního řádu (s výjimkou přestupkového řízení), ale § 12 odst. 5 dělá specifickou výjimku pro **doručování písemností**. Tato dílčí subsidiarita je systémově důležitá — ZMR sám neupravuje doručování, a tak je třeba použít §§ 19–26 zákona č. 500/2004 Sb., správního řádu. To znamená zejména doručování do vlastních rukou na adresu uvedenou zmocněncem, použití datové schránky, případně doručování fikcí.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Přípravný výbor podal návrh 1. března. Obecní úřad do 15 dnů nereagoval, ale 35. den (5. dubna) zaslal zmocněnci výzvu k odstranění vad. Zmocněnec namítá, že návrh se již stal bezvadným uplynutím 30 dnů a požaduje předložení radě a zastupitelstvu. Rozhodné je datum podání, běh 30denní lhůty a obsah případné výzvy učiněné po jejím uplynutí.
+
+**2. Právní otázka.** Nastává fikce bezvadnosti návrhu podle § 12 odst. 3, jestliže obecní úřad vyrozumí zmocněnce (výzvou k odstranění vad) až po uplynutí 30 dnů od podání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12 odst. 1 (15denní lhůta k posouzení), odst. 2 (výzva k odstranění vad, lhůta min. 7 dnů), odst. 3 (fikce bezvadnosti po 30 dnech), odst. 4 (předložení zastupitelstvu na nejbližším zasedání).
+- *Související ustanovení téhož zákona:* § 13 (rozhodnutí zastupitelstva), § 53 (lhůty, pravidlo 16. hodiny, neprominutelnost), § 57 odst. 1 písm. b) (soudní ochrana při nečinnosti).
+- *Související předpisy:* §§ 19–26 zákona č. 500/2004 Sb. (doručování, dílčí subsidiarita dle § 12 odst. 5).
+- *Judikatura:* nosný závěr NSS, že opomenutí předložit bezvadný návrh zastupitelstvu je přezkoumatelné dle § 57; fikce bezvadnosti chrání výbor před nečinností úřadu.
+
+**4. Subsumpce.** Úřad ve 30 dnech od podání zmocněnce ani nevyrozuměl o bezvadnosti, ani jej nevyzval k odstranění vad → ke dni uplynutí 30 dnů (31. března) nastala fikce bezvadnosti dle odst. 3. Výzva zaslaná 35. den je opožděná a nemůže zpětně odklidit již nastalou fikci.
+
+**5. Řešení.** Návrh se považuje za bezvadný; rada obce jej musí předložit zastupitelstvu na nejbližším zasedání (odst. 4). Pokud rada/úřad otálí, zmocněnec se může domáhat ochrany dle § 57 odst. 1 písm. b) (nerozhodnutí). Procesně: doložit datum podání a absenci včasné výzvy; lhůty nelze prominout (§ 53 odst. 2).
+
+**6. Varianty.** (a) Kdyby úřad zaslal výzvu 20. den (v rámci 30 dnů), fikce by nenastala a běžela by lhůta k odstranění vad. (b) Kdyby výbor vady ve stanovené lhůtě neodstranil, návrh by neměl náležitosti a zastupitelstvo by se jím věcně nezabývalo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Výzva po 30 dnech je stále platná, jde jen o opožděný úkon." Neutralizace: fikce bezvadnosti nastává ze zákona uplynutím lhůty; pozdější výzva ji nemůže zvrátit, jinak by ochrana proti nečinnosti pozbyla smyslu.
+- *Protiargument:* úřad potřebuje víc času na kontrolu stovek podpisů. Neutralizace: zákon stanoví pevné lhůty (15/30 dnů) bez možnosti prodloužení (§ 53 odst. 2); organizační zátěž není důvodem k jejich prolomení.
+- *Slabé místo:* doručování výzvy se řídí správním řádem (fikce doručení), takže spor může vzniknout o okamžik účinného doručení, nikoli o odeslání.
+
+#### H. Praktický závěr
+
+Obecní úřad provádí jen formální přezkum náležitostí (15 dnů; výzva k odstranění vad min. 7 dnů). Neučiní-li nic do 30 dnů, návrh je ze zákona bezvadný a musí být předložen zastupitelstvu na nejbližším zasedání. Materiální přípustnost řeší až zastupitelstvo (§ 13).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zaznamenat datum podání a hlídat lhůty 15/30 dnů.
+- [ ] Výzvu k odstranění vad zaslat včas, s lhůtou min. 7 dnů.
+- [ ] Po fikci/oznámení bezvadnosti zajistit předložení zastupitelstvu na nejbližším zasedání.
+- [ ] Při nečinnosti zvážit návrh dle § 57 odst. 1 písm. b).
+
+**Typicky rozhodné důkazy / podklady:** podací razítko/doklad o podání návrhu, doklady o doručení výzvy (vč. fikce), program a zápis nejbližšího zasedání zastupitelstva.
 
 ---
 
@@ -717,6 +1149,42 @@ Klíčové ochranné pravidlo: ode dne vyhlášení referenda do vyhlášení je
 
 Toto pravidlo se interpretuje **široce** — zahrnuje nejen zastupitelstvo, ale i radu obce, starostu a jakýkoli jiný orgán obce. Nepřipouští se ani „přípravné" akty — např. uzavření smlouvy o smlouvě budoucí, vyhotovení definitivní studie, předjednání s dodavateli atd., pokud by tyto akty fakticky předjímaly výsledek referenda.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Bezvadný návrh požaduje referendum „Má obec prodat pozemek p. č. 123 developerovi D.?" Zastupitelstvo místo vyhlášení referenda podle § 13 odst. 3 přijme usnesení, že pozemek neprodá, a vyrozumí zmocněnce. Zmocněnec do 7 dnů prohlásí, že na referendu trvá. Mezitím rada obce uzavře s D. smlouvu o smlouvě budoucí o prodeji. Rozhodné je, zda mohla rada o věci jednat a jaké účinky má prohlášení zmocněnce.
+
+**2. Právní otázka.** Mohou orgány obce po vyhlášení referenda (resp. poté, co zmocněnec trvá na jeho konání) činit úkony ve věci, jež je předmětem otázky, a jaký je osud rozhodnutí zastupitelstva „věc neprodat"?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13 odst. 1 (vyhlásí/nevyhlásí), odst. 2 (publikace usnesení), odst. 3 (rozhodnutí bez vyhlášení, 7denní lhůta zmocněnce, pozbytí platnosti, zákaz rozhodovat o věci po vyhlášení).
+- *Související ustanovení téhož zákona:* § 15 (den konání, den vyhlášení), § 49 (závaznost výsledku), § 57 odst. 1 písm. b) (soudní ochrana).
+- *Související předpisy:* § 39 a § 85 zákona č. 128/2000 Sb. (nakládání s nemovitým majetkem, záměr, schválení zastupitelstvem).
+- *Judikatura:* nosný závěr, že po vyhlášení referenda nepřísluší orgánům obce rozhodovat o věci tak, aby zmařily jeho smysl; ochrana před obcházením referenda.
+
+**4. Subsumpce.** Zastupitelstvo využilo „bezpečnostní ventil" odst. 3 (rozhodlo věc samo). Prohlášením zmocněnce, že trvá na referendu, vzniká povinnost zastupitelstva referendum na nejbližším zasedání vyhlásit; dnem vyhlášení pozbývá rozhodnutí „neprodat" platnosti. Po vyhlášení žádný orgán obce (vč. rady) nesmí o věci rozhodovat → smlouva o smlouvě budoucí porušuje poslední větu odst. 3.
+
+**5. Řešení.** Rada nesměla smlouvu o smlouvě budoucí uzavřít; jde o akt předjímající výsledek, který je v rozporu se zákazem dle § 13 odst. 3 a může být napaden. Zastupitelstvo musí referendum vyhlásit; jeho výsledek bude závazný (§ 49). Procesně: zmocněnec dohlíží na vyhlášení, případně se brání dle § 57; platnost úkonů rady lze zpochybnit pro rozpor se zákonem.
+
+**6. Varianty.** (a) Kdyby zmocněnec v 7denní lhůtě netrval na referendu (nebo mlčel), nabylo by rozhodnutí „neprodat" vykonatelnosti a referendum by se nekonalo. (b) Kdyby zastupitelstvo rozhodlo opačně, než zní vůle iniciátorů, zmocněnec by trval na referendu a věc by rozhodli občané.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Rada jednala v rámci běžné správy majetku, ne o referendové otázce." Neutralizace: předmět smlouvy je totožný s otázkou; po vyhlášení je jakýkoli úkon o věci zapovězen, včetně přípravných.
+- *Protiargument:* zastupitelstvo věc vyřešilo samo, referendum je nadbytečné. Neutralizace: trvá-li zmocněnec, zákon ukládá referendum vyhlásit a původní rozhodnutí pozbývá platnosti.
+- *Slabé místo:* posouzení, zda konkrétní přípravný úkon „předjímá výsledek", je hodnotící; hrozí spory o intenzitu zásahu.
+
+#### H. Praktický závěr
+
+Zastupitelstvo buď referendum vyhlásí, nebo rozhodne, že nevyhlásí (§ 13 odst. 1) — třetí cesta není, kromě možnosti rozhodnout věc samo (odst. 3) s následným právem zmocněnce trvat na referendu. Po vyhlášení nesmí žádný orgán obce o věci rozhodovat. Negativní rozhodnutí je přezkoumatelné soudem (§ 57).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit přípustnost (§ 6, § 7) a kvalitu otázky; rozhodnout na nejbližším zasedání.
+- [ ] Při postupu dle odst. 3 vyčkat 7denní lhůty zmocněnce a nevykonat rozhodnutí předčasně.
+- [ ] Po vyhlášení zdržet všechny orgány obce rozhodování o věci (vč. přípravných aktů).
+- [ ] Vyrozumět zmocněnce a vyvěsit usnesení na 15 dnů.
+
+**Typicky rozhodné důkazy / podklady:** usnesení zastupitelstva (vyhlášení/nevyhlášení/rozhodnutí věci), doklad o doručení zmocněnci a jeho prohlášení, úřední deska (datum vyvěšení), případné smlouvy/úkony orgánů obce ve věci.
+
 ---
 
 ### § 14 — Vyhlášení referenda z rozhodnutí zastupitelstva
@@ -750,6 +1218,42 @@ Postup je oproti referendu zdola jednodušší:
 Pokud se referendum koná z rozhodnutí zastupitelstva, **členy komisí deleguje starosta obce** (resp. primátor) — § 21 odst. 3 věta druhá. Toto je systémová odchylka od referenda na návrh přípravného výboru, kde komise tvoří jak delegáti výboru, tak delegáti starosty.
 
 Pokud se referendum koná **současně** z rozhodnutí zastupitelstva a na návrh přípravného výboru (společné konání podle § 16), pak komise tvoří kombinací delegátů obou stran.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zastupitelstvo obce chce před zásadní investicí (fúze se sousední obcí) získat mandát od občanů a rozhodne se vyhlásit referendum z vlastní iniciativy. Na zasedání je přítomno 11 z 15 členů; pro vyhlášení hlasuje 8 přítomných. Usnesení obsahuje území, otázku, odůvodnění a odhad nákladů, ale neuvádí zmocněnce. Tajemník namítá, že usnesení nebylo přijato potřebnou většinou. Rozhodné je, jaká většina se vyžaduje a které náležitosti usnesení musí mít.
+
+**2. Právní otázka.** Jakou většinou a s jakými náležitostmi rozhoduje zastupitelstvo o vyhlášení referenda z vlastní iniciativy podle § 14?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14 ZMR — prostá většina hlasů všech členů zastupitelstva; náležitosti dle § 10 odst. 1 písm. a)–d); vyhlášením je vyvěšení usnesení na 15 dnů.
+- *Související ustanovení téhož zákona:* § 10 odst. 1 (náležitosti návrhu), § 15 (den konání, zákaz přesahu do dalšího funkčního období), § 21 odst. 3 (delegace členů komisí starostou/primátorem).
+- *Související předpisy:* § 87 a § 84 zákona č. 128/2000 Sb. (usnášení zastupitelstva, většina všech členů).
+- *Judikatura:* nosný závěr, že referendum „zhora" je legitimním nástrojem; kvórum „všech členů" je vyšší než pro běžná usnesení.
+
+**4. Subsumpce.** Požadovaná většina je „prostá většina hlasů všech členů" = u 15členného zastupitelstva nejméně 8 hlasů. Pro vyhlášení hlasovalo 8 → kvórum splněno. Náležitosti usnesení dle § 14 jsou jen písm. a)–d) (území, otázka, odůvodnění, náklady); zmocněnec ani identifikace členů výboru se nevyžadují, neboť přípravný výbor neexistuje → absence zmocněnce není vadou.
+
+**5. Řešení.** Usnesení bylo přijato platně (8 z 15 = většina všech členů) a obsahuje vše, co § 14 vyžaduje. Vyhlášením je vyvěšení usnesení na úřední desce po dobu 15 dnů; členy komisí deleguje starosta (§ 21 odst. 3). Procesně: zajistit vyvěšení a stanovit den konání tak, aby nespadl do následujícího funkčního období (§ 15).
+
+**6. Varianty.** (a) Kdyby pro vyhlášení hlasovalo jen 7 z 15, kvórum „všech členů" by nebylo dosaženo a usnesení by nebylo přijato. (b) Kdyby se referendum konalo společně s návrhem přípravného výboru (§ 16), komise by tvořili delegáti obou stran.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stačí většina přítomných jako u běžných usnesení." Neutralizace: § 14 výslovně žádá většinu všech členů zastupitelstva, tedy vyšší kvórum.
+- *Protiargument:* usnesení je vadné, chybí zmocněnec. Neutralizace: u referenda „zhora" se zmocněnec ani členové výboru neuvádějí (§ 14 odkazuje jen na písm. a)–d)).
+- *Slabé místo:* zákaz přesahu do dalšího funkčního období (§ 15) může u referenda vyhlášeného před koncem mandátu omezit volbu termínu.
+
+#### H. Praktický závěr
+
+Referendum „zhora" vyhlašuje zastupitelstvo prostou většinou všech členů; usnesení obsahuje území, otázku, odůvodnění a náklady (§ 10 odst. 1 písm. a)–d)). Vyhlášením je vyvěšení na 15 dnů; komise deleguje starosta/primátor.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajistit hlasování většinou všech členů zastupitelstva (ne jen přítomných).
+- [ ] Do usnesení uvést náležitosti písm. a)–d) (území, otázka, odůvodnění, náklady).
+- [ ] Vyvěsit usnesení na úřední desce po dobu 15 dnů.
+- [ ] Stanovit den konání mimo následující funkční období (§ 15) a zajistit delegaci komisí starostou/primátorem.
+
+**Typicky rozhodné důkazy / podklady:** zápis a výsledek hlasování zastupitelstva (počet hlasů vůči všem členům), text usnesení s náležitostmi, doklad o vyvěšení na úřední desce.
 
 ---
 
@@ -785,6 +1289,42 @@ Klíčové procesní vodítko: **den vyhlášení** referenda je **první den vy
 
 Poslední věta je významnou pojistkou demokracie: pokud se referendum koná **z rozhodnutí zastupitelstva** (§ 14), nesmí jeho den spadnout do **následujícího funkčního období**. Smyslem je zabránit, aby odcházející zastupitelstvo formálně vyhlásilo referendum s termínem konání po volbách, čímž by **zavázalo nově zvolené zastupitelstvo** k realizaci výsledku. Toto pravidlo platí pouze pro referendum „zhora"; u referenda na návrh přípravného výboru platí, že přípravný výbor může legitimně určit pozdější termín (zákon to tu neomezuje).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Přípravný výbor podal návrh, v němž jako „dobu pozdější" výslovně určil termín konání referenda souběžně s komunálními volbami za pět měsíců (cílem je zvýšit účast a překonat 35% kvórum). Zastupitelstvo by raději referendum „odbylo" co nejdříve a navrhuje termín za tři týdny. Rozhodné je, který termín je závazný a od kdy běží 90denní lhůta.
+
+**2. Právní otázka.** Je zastupitelstvo vázáno „dobou pozdější" uvedenou přípravným výborem v návrhu, i když přesahuje obvyklý 90denní rámec od vyhlášení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15 ZMR — referendum se koná nejpozději do 90 dnů po vyhlášení, „není-li v návrhu přípravného výboru uvedena doba pozdější"; dnem vyhlášení je první den vyvěšení usnesení.
+- *Související ustanovení téhož zákona:* § 5 odst. 1 (souběh s volbami), § 8 odst. 1 (cesty k referendu), § 13 odst. 1 písm. a) (stanovení dne konání při vyhlášení), § 14 (zákaz přesahu funkčního období u referenda „zhora").
+- *Související předpisy:* zákon č. 491/2001 Sb. (termín komunálních voleb).
+- *Judikatura:* nosný závěr, že přípravný výbor může strategicky umístit termín na dobu voleb; vůle výboru ohledně „doby pozdější" je pro zastupitelstvo závazná.
+
+**4. Subsumpce.** Výbor v návrhu výslovně určil „dobu pozdější" → uplatní se výjimka z 90denního pravidla a zastupitelstvo je tímto termínem vázáno. Den vyhlášení (a počátek navazujících lhůt) je první den vyvěšení usnesení o vyhlášení. Zákaz přesahu funkčního období (§ 14 in fine) se zde neuplatní, neboť jde o referendum „zdola".
+
+**5. Řešení.** Závazný je termín určený výborem (souběh s volbami); zastupitelstvo nemůže určit dřívější termín proti vůli výboru. Procesně: zastupitelstvo vyhlásí referendum a do usnesení promítne výborem určený den; od prvního dne vyvěšení běží lhůty (15 dnů vyvěšení, oznámení dle § 31 atd.).
+
+**6. Varianty.** (a) Kdyby návrh „dobu pozdější" neurčil, platilo by maximum 90 dnů a den konání by stanovilo zastupitelstvo (§ 13 odst. 1 písm. a)). (b) Kdyby šlo o referendum „zhora" (§ 14) a zastupitelstvu končil mandát, nesměl by termín spadnout do následujícího funkčního období.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „90 dnů je strop, pozdější termín je nezákonný." Neutralizace: § 15 výslovně připouští „dobu pozdější" určenou výborem jako výjimku ze stropu.
+- *Protiargument:* zastupitelstvo má právo zvolit termín. Neutralizace: u referenda „zdola" má přednost vůle výboru ohledně termínu; zastupitelstvo ji nemůže obejít dřívějším datem.
+- *Slabé místo:* dlouhý odstup do termínu zvyšuje riziko změny okolností (např. krizový stav dle § 5), které mohou termín dále posunout.
+
+#### H. Praktický závěr
+
+Referendum se koná do 90 dnů od vyhlášení, ledaže přípravný výbor v návrhu určí dobu pozdější (typicky souběh s volbami) — tím je zastupitelstvo vázáno. Den vyhlášení = první den vyvěšení usnesení; u referenda „zhora" termín nesmí spadnout do dalšího funkčního období.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit, zda návrh určuje „dobu pozdější"; pokud ano, respektovat ji.
+- [ ] Stanovit den konání do 90 dnů, není-li určena doba pozdější.
+- [ ] Od prvního dne vyvěšení usnesení počítat navazující lhůty.
+- [ ] U referenda „zhora" hlídat zákaz přesahu funkčního období.
+
+**Typicky rozhodné důkazy / podklady:** návrh přípravného výboru s uvedením termínu, usnesení o vyhlášení, doklad o prvním dni vyvěšení, termín souběžných voleb.
+
 ---
 
 ### § 16 — Společné konání místních referend
@@ -818,6 +1358,42 @@ Pokud více návrhů přípravných výborů obsahuje **různé, ale obsahově s
 
 Naopak nevýhodou je, že hlasující musí rozhodovat o více tématech najednou, což může vést k zjednodušujícím rozhodnutím („všechno ano" nebo „všechno ne"). Vyhodnocení platnosti a závaznosti se však provádí **u každé otázky samostatně** (§ 48 a praxe NSS), takže každé téma má svůj vlastní výsledek.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Přípravný výbor A podal 1. dubna návrh s otázkou „Má obec prodat areál bývalé školy?" Výbor B podal 10. dubna návrh s otázkou „Má obec zachovat areál bývalé školy ve svém vlastnictví?" (obsahově se vylučují). Zároveň výbor C podal nesouvisející návrh o výstavbě cyklostezky. Zastupitelstvo řeší, která referenda vyhlásit a zda je lze konat společně. Rozhodné je pořadí podání a obsahový vztah otázek.
+
+**2. Právní otázka.** Jak naložit s později podaným návrhem, který se obsahově vylučuje s dříve podaným, a kdy lze referenda konat společně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16 odst. 1 (posuzování v pořadí podání; nevyhlášení později podaného obsahově stejného nebo vzájemně se vylučujícího návrhu), odst. 2 (společné konání více slučitelných referend).
+- *Související ustanovení téhož zákona:* § 13 odst. 1 (vyhlásí/nevyhlásí), § 21 odst. 7 (společná komise), § 48 (samostatné vyhodnocení každé otázky).
+- *Související předpisy:* —(věc je upravena komplexně v ZMR).
+- *Judikatura:* nosný závěr, že přednost má dříve podaný návrh; pravidlo brání taktickému „překažení" referenda konkurenční otázkou.
+
+**4. Subsumpce.** Návrh B byl podán později a obsahově se vylučuje s návrhem A → zastupitelstvo o návrhu B rozhodne, že referendum nevyhlásí (§ 16 odst. 1). Návrh C je obsahově slučitelný a nesouvisející → lze jej s návrhem A konat společně (§ 16 odst. 2) s odděleným vyhodnocením každé otázky (§ 48).
+
+**5. Řešení.** Vyhlásí se referendum o návrhu A (dříve podaný) a referendum o návrhu C, případně společně v jeden den; o návrhu B se rozhodne, že se nevyhlašuje pro obsahové vyloučení s A. Společná komise se ustaví dle § 21 odst. 7. Procesně: výbor B se může bránit dle § 57, namítá-li, že vyloučení nebylo na místě (např. že otázky se ve skutečnosti nevylučují).
+
+**6. Varianty.** (a) Kdyby otázka B byla obsahově totožná s A (a ne jen vylučující se), výsledek je stejný — nevyhlásí se. (b) Kdyby otázky A a B byly slučitelné (různé aspekty bez kolize), bylo by možné společné konání s odděleným vyhodnocením.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pozdější návrh je kvalitnější, měl by mít přednost." Neutralizace: zákon stanoví tvrdé pravidlo priority dle pořadí podání; kvalita není kritériem.
+- *Protiargument:* společné konání mate voliče. Neutralizace: výhody (vyšší účast, úspora) převažují a každá otázka se vyhodnocuje samostatně (§ 48), takže témata se nemísí.
+- *Slabé místo:* posouzení, zda se otázky „obsahově vylučují", je hodnotící; chybné vyloučení dříve podaného konkurenta může být přezkoumáno soudem.
+
+#### H. Praktický závěr
+
+Návrhy se posuzují v pořadí podání; později podaný obsahově stejný nebo vzájemně se vylučující návrh se nevyhlásí. Slučitelné návrhy (a referendum „zhora") lze konat společně se společnou komisí a odděleným vyhodnocením každé otázky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Seřadit návrhy podle data podání a posuzovat je v tomto pořadí.
+- [ ] U pozdějšího návrhu posoudit obsahovou shodu/vyloučení s dříve podaným.
+- [ ] U slučitelných návrhů zvážit společné konání a ustavení společné komise (§ 21 odst. 7).
+- [ ] Zajistit oddělené vyhodnocení platnosti/závaznosti každé otázky (§ 48).
+
+**Typicky rozhodné důkazy / podklady:** podací data jednotlivých návrhů, znění otázek (pro posouzení shody/vyloučení), usnesení zastupitelstva o (ne)vyhlášení.
+
 ---
 
 ## HLAVA IV — Komise pro hlasování
@@ -849,6 +1425,42 @@ Naopak nevýhodou je, že hlasující musí rozhodovat o více tématech najedno
 Logika je tato: okrsková komise zajišťuje **provoz hlasování** a sečtení v okrsku; místní komise **sumarizuje** výsledky z okrsků v rámci obce/MČ; městská komise (jen ve statutárním městě) **konsoliduje** výsledky z více MČ.
 
 V obci s jedním hlasovacím okrskem (typicky malé obce) místní komise plní rovněž úkoly okrskové komise (§ 19 odst. 2) — tedy fakticky existuje jen jedna kombinovaná komise.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Malá obec s 600 obyvateli a jediným hlasovacím okrskem organizuje referendum. Tajemník zřizuje okrskovou i samostatnou místní komisi se dvěma odlišnými sestavami. Ve statutárním městě naopak vznikne spor, zda je nutná i městská komise, koná-li se referendum jen v jedné městské části. Rozhodné je, kolik komisí a jaké úrovně se v dané konstelaci zřizuje.
+
+**2. Právní otázka.** Které druhy komisí se zřizují v obci s jediným okrskem a které ve statutárním městě, koná-li se referendum jen v jedné městské části?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17 ZMR — v obci okrsková a místní komise; ve statutárním městě okrsková, místní a městská komise.
+- *Související ustanovení téhož zákona:* § 18 (úkoly okrskové komise), § 19 odst. 2 (jediný okrsek → místní komise plní i úkoly okrskové), § 20 (městská komise), § 21 (ustavení).
+- *Související předpisy:* § 26 zákona č. 491/2001 Sb. (stálé volební okrsky, na něž navazuje § 28 ZMR).
+- *Judikatura:* —(otázka je řešena přímo textem zákona).
+
+**4. Subsumpce.** Obec se 600 obyvateli a jedním okrskem → dle § 19 odst. 2 plní místní komise i úkoly okrskové; samostatná dvojí komise není nutná (postačí jedna kombinovaná). Ve statutárním městě se zřizuje i městská komise (§ 17 písm. b)); koná-li se referendum jen v jedné MČ, městská komise sumarizuje výsledky z (jediné) místní komise této MČ.
+
+**5. Řešení.** V malé obci se ustaví jediná (kombinovaná) komise plnící role okrskové i místní. Ve statutárním městě je třístupňová struktura zachována i při referendu v jediné MČ, městská komise však konsoliduje výstup jediné místní komise. Procesně: tomu odpovídá svolávání prvních zasedání a delegace dle § 21.
+
+**6. Varianty.** (a) Kdyby měla obec dva a více okrsků, okrskové komise by byly samostatné a místní komise by je sumarizovala. (b) Kdyby šlo o územně nečleněné statutární město (např. Olomouc), nešlo by o „statutární město" dle § 1 písm. b) a městská komise by se nezřizovala.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „I v malé obci musí být zvlášť okrsková a zvlášť místní komise." Neutralizace: § 19 odst. 2 výslovně sloučení připouští, vznikne jedna kombinovaná komise.
+- *Protiargument:* městská komise je při jediné MČ nadbytečná. Neutralizace: § 17 písm. b) ji u statutárního města předepisuje bez výjimky; plní konsolidační a publikační funkci.
+- *Slabé místo:* zařazení města do kategorie „statutární město" závisí na územní členěnosti (§ 1), což ovlivňuje, zda městská komise vůbec vzniká.
+
+#### H. Praktický závěr
+
+V obci se zřizuje okrsková a místní komise (při jediném okrsku splývají v jednu), ve statutárním městě navíc městská komise. Struktura je dvoustupňová, resp. třístupňová podle úrovně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit počet hlasovacích okrsků (§ 28) v dané jednotce.
+- [ ] Při jediném okrsku ustavit jednu kombinovanou (místní = okrsková) komisi.
+- [ ] U statutárního města zřídit i městskou komisi.
+- [ ] Ověřit územní členěnost města (rozhoduje o existenci městské komise).
+
+**Typicky rozhodné důkazy / podklady:** přehled hlasovacích okrsků obce, statut statutárního města (členěnost), usnesení/akty o ustavení komisí.
 
 ---
 
@@ -891,6 +1503,42 @@ Svolává starosta obce. Cílem prvního zasedání je:
 - Složení slibu (§ 22 odst. 1) — bez něj nevzniká členství.
 - Losování předsedy a místopředsedy (§ 24 odst. 1).
 - Příprava na hlasovací den (organizace, vybavení, kontrola).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při sčítání v okrsku vznikne spor o platnost lístku, na němž je křížek u „ano" doprovázen drobnou poznámkou „souhlasím". Okrsková komise hlasováním rozhodne, že hlas je platný. Zástupce „neúspěšné" strany žádá o „odvolání" proti tomuto rozhodnutí. Rozhodné je, zda lze rozhodnutí o platnosti hlasu napadnout a v jakém režimu.
+
+**2. Právní otázka.** Je rozhodnutí okrskové komise o platnosti hlasovacího lístku / hlasu konečné, a jaký opravný prostředek (pokud vůbec) proti němu existuje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 18 odst. 1 písm. c) ZMR — komise rozhoduje o platnosti lístku a hlasu „s konečnou platností"; písm. b) (sčítání), písm. d), e) (zápis, dokumentace).
+- *Související ustanovení téhož zákona:* § 24 odst. 3, 4 (usnášení komise), § 41 (sčítání, platnost lístku a hlasu), § 58 odst. 1 písm. a) (neplatnost hlasování u soudu).
+- *Související předpisy:* § 91a SŘS (soudní přezkum referenda).
+- *Judikatura:* nosný závěr, že proti dílčímu rozhodnutí komise o platnosti hlasu není samostatný opravný prostředek; obrana je až napadení výsledku referenda u soudu.
+
+**4. Subsumpce.** Rozhodnutí o platnosti hlasu činí komise „s konečnou platností" (§ 18 odst. 1 písm. c)) → uvnitř procesu proti němu není odvolání. Drobná poznámka „souhlasím" vedle křížku je posuzována v režimu § 41 (rozhoduje, zda je vůle zjevná a zda nejde o „jinou úpravu", k níž se nepřihlíží).
+
+**5. Řešení.** „Odvolání" proti rozhodnutí komise není přípustné; jediná cesta je napadnout výsledek referenda návrhem na neplatnost hlasování (§ 58 odst. 1 písm. a)) ve lhůtě 10 dnů od vyhlášení výsledků, tvrdí-li navrhovatel, že nesprávné posouzení platnosti mohlo ovlivnit výsledek. Procesně: dílčí spor se „přelévá" do soudního přezkumu celého výsledku.
+
+**6. Varianty.** (a) Kdyby komise lístek prohlásila za neplatný, opět by šlo o konečné rozhodnutí napadnutelné jen cestou § 58. (b) Kdyby byl na lístku křížek u „ano" i „ne" současně, šlo by jednoznačně o neplatný hlas dle § 41 odst. 7 písm. b) bez prostoru pro uvážení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Konečnost rozhodnutí komise vylučuje jakoukoli kontrolu." Neutralizace: konečnost platí jen uvnitř hlasovacího procesu; soudní přezkum výsledku (§ 58) zůstává zachován.
+- *Protiargument:* poznámka u křížku je „jiná úprava", hlas je neplatný. Neutralizace: rozhoduje, zda je vůle zjevná; drobná slovní poznámka u jednoznačného křížku nemusí způsobit neplatnost (§ 41 odst. 6, 7).
+- *Slabé místo:* hranice mezi „zjevnou vůlí" a „jinou úpravou, k níž se nepřihlíží" je posuzována komisí ad hoc a může se stát předmětem sporu.
+
+#### H. Praktický závěr
+
+Okrsková komise zajišťuje průběh hlasování, sčítá hlasy a s konečnou platností rozhoduje o platnosti lístku/hlasu; sepisuje zápis a předává jej místní komisi. První zasedání svolává starosta nejpozději 5 dnů přede dnem hlasování. Proti dílčím rozhodnutím není odvolání, jen soudní přezkum výsledku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajistit první zasedání komise nejpozději 5 dnů přede dnem hlasování (slib, losování).
+- [ ] Spory o platnost lístku/hlasu řešit usnesením komise dle § 41.
+- [ ] Pečlivě dokumentovat sporné případy v zápise (§ 43).
+- [ ] Případné výhrady uplatnit cestou § 58 (neplatnost hlasování), ne „odvoláním".
+
+**Typicky rozhodné důkazy / podklady:** sporné hlasovací lístky, zápis okrskové komise s usneseními o platnosti, evidence účasti a vydaných lístků.
 
 ---
 
@@ -942,6 +1590,42 @@ Pravidlo z odst. 2 je významné pro **malé obce**. Pokud má obec jen jeden hl
 
 První zasedání je 10 dnů přede dnem hlasování (delší příprava než u okrskové komise).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V obci se třemi okrsky podá oprávněná osoba stížnost, že v jednom okrsku komise vydávala lístky bez řádné kontroly totožnosti, takže mohly hlasovat neoprávněné osoby. Stížnost adresuje místní komisi ještě před vyhlášením výsledků. Místní komise zvažuje, jak stížnost vyřídit a zda může korigovat výsledek okrsku. Rozhodné je rozdělení pravomocí mezi okrskovou a místní komisí.
+
+**2. Právní otázka.** Je místní komise oprávněna rozhodovat o stížnostech na postup okrskových komisí a do jaké míry může zasáhnout do jejich výsledku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 19 odst. 1 písm. d) ZMR — místní komise rozhoduje o stížnostech na postup okrskových komisí; písm. a)–c) (organizace, dohled, sčítání), písm. e)–g) (publikace, předání, archivace).
+- *Související ustanovení téhož zákona:* § 18 odst. 1 písm. c) (konečnost rozhodnutí okrskové komise o platnosti hlasu), § 44 (zápis místní komise), § 58 (soudní přezkum výsledku).
+- *Související předpisy:* § 91a SŘS.
+- *Judikatura:* nosný závěr, že stížnostní mechanismus uvnitř procesu je první (a často jediný) opravný nástroj; rozhodnutí o platnosti jednotlivých hlasů však zůstává v rukou okrskové komise.
+
+**4. Subsumpce.** Stížnost směřuje na postup okrskové komise (kontrola totožnosti) → spadá do pravomoci místní komise dle § 19 odst. 1 písm. d). Místní komise však nemůže nahradit konečné rozhodnutí okrskové komise o platnosti jednotlivých hlasů (§ 18 odst. 1 písm. c)); může korigovat zjevné chyby sumarizace a dokumentovat pochybení.
+
+**5. Řešení.** Místní komise stížnost projedná a rozhodne (přijme usnesení, zaznamená je do zápisu dle § 44). Je-li pochybení takové, že mohlo ovlivnit výsledek, je to podklad pro pozdější návrh na neplatnost hlasování (§ 58). Procesně: vyřízení stížnosti před vyhlášením výsledků; výsledek se vyhlašuje na úřední desce po 15 dnů (§ 46).
+
+**6. Varianty.** (a) Kdyby šlo o obec s jediným okrskem, místní komise by plnila i úkoly okrskové (§ 19 odst. 2) a stížnost by řešila „sama na sebe". (b) Ve statutárním městě by stížnost na postup místních komisí řešila městská komise (§ 20 odst. 1 písm. d)).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Místní komise může přepočítat a změnit výsledek okrsku dle libosti." Neutralizace: konečné rozhodnutí o platnosti hlasů náleží okrskové komisi (§ 18 odst. 1 písm. c)); místní komise koriguje jen sumarizaci a eviduje pochybení.
+- *Protiargument:* stížnostní řízení je formální a bez dopadu. Neutralizace: řádně zdokumentované pochybení je klíčovým podkladem pro soudní přezkum (§ 58).
+- *Slabé místo:* prokázání, že hlasovaly neoprávněné osoby, je obtížné a opírá se o výpis ze seznamu a svědectví členů komise.
+
+#### H. Praktický závěr
+
+Místní komise organizuje a sumarizuje výsledky okrsků, rozhoduje o stížnostech na postup okrskových komisí, vyhlašuje výsledky a archivuje dokumentaci; při jediném okrsku plní i úkoly okrskové komise. První zasedání svolává starosta 10 dnů přede dnem hlasování.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Stížnosti na postup okrskových komisí vyřídit usnesením a zaznamenat do zápisu (§ 44).
+- [ ] Nezasahovat do konečných rozhodnutí okrskové komise o platnosti hlasů.
+- [ ] Vyhlásit výsledky na úřední desce po dobu 15 dnů (§ 46).
+- [ ] Závažná pochybení dokumentovat pro účely případného přezkumu (§ 58).
+
+**Typicky rozhodné důkazy / podklady:** stížnosti a usnesení místní komise, zápisy okrskových komisí, výpisy ze seznamu oprávněných osob, sumární zápis místní komise.
+
 ---
 
 ### § 20 — Městská komise
@@ -973,6 +1657,42 @@ První zasedání je 10 dnů přede dnem hlasování (delší příprava než u 
 Městská komise je **vrcholný orgán** organizace referenda ve statutárním městě — kombinuje sumarizační, kontrolní a publikační role na úrovni celého města. Strukturálně analogická místní komisi, jen na vyšší úrovni: koordinuje místní komise jednotlivých MČ, rozhoduje o stížnostech na jejich postup, sčítá výsledky za celé město, vyhlašuje je a archivuje dokumentaci.
 
 Konstrukce městské komise se uplatňuje **pouze ve statutárním městě**, tj. v Praze a v sedmi územně členěných statutárních městech (Brno, Ostrava, Plzeň, Pardubice, Liberec, Ústí nad Labem, Opava — Mladá Boleslav). V Praze je městská komise zřízena při Magistrátu hl. m. Prahy a sumarizuje výsledky z 57 místních komisí jednotlivých MČ (resp. menšího počtu, koná-li se referendum jen v některé MČ).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Ve statutárním městě (územně členěném) se koná referendum na celém území. Místní komise jednotlivých městských částí předají své zápisy městské komisi. V jedné MČ se objeví podezření na chybu v sumarizaci. Městská komise musí zjistit celkový výsledek za celé město a rozhodnout o stížnosti na postup dotčené místní komise. Rozhodné je vymezení působnosti městské komise.
+
+**2. Právní otázka.** Jaké jsou pravomoci městské komise při zjišťování celkového výsledku referenda ve statutárním městě a při řešení stížností na postup místních komisí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 20 odst. 1 ZMR — městská komise organizuje činnost místních komisí, dohlíží na zákonnost, sčítá a zjišťuje výsledky za město, rozhoduje o stížnostech na postup místních komisí, uveřejňuje výsledky a archivuje dokumentaci; odst. 2 (první zasedání 10 dnů přede dnem hlasování).
+- *Související ustanovení téhož zákona:* § 19 (místní komise), § 45 (zápis městské komise), § 46 odst. 2 (vyhlášení výsledků ve statutárním městě), § 58 (přezkum).
+- *Související předpisy:* zákon č. 131/2000 Sb. (struktura hl. m. Prahy); statut statutárního města.
+- *Judikatura:* —(věc je upravena přímo zákonem; analogicky platí závěry k místní komisi).
+
+**4. Subsumpce.** Zjištění celkového výsledku za město a rozhodování o stížnostech na postup místních komisí spadá do § 20 odst. 1 písm. c) a d). Městská komise koriguje zjevné chyby sumarizace místních komisí, nikoli konečná rozhodnutí okrskových komisí o platnosti hlasů (§ 18 odst. 1 písm. c)).
+
+**5. Řešení.** Městská komise přezkoumá zápisy místních komisí, opraví zjevnou chybu sumarizace v dotčené MČ, rozhodne o stížnosti a vyhotoví zápis dle § 45. Výsledek za město vyhlásí na úřední desce magistrátu po 15 dnů (§ 46 odst. 2). Procesně: případná pochybení dokumentovat pro možný přezkum dle § 58.
+
+**6. Varianty.** (a) Kdyby se referendum konalo jen v jedné MČ, městská komise by konsolidovala jediný zápis místní komise. (b) Kdyby šlo o územně nečleněné statutární město, městská komise by se vůbec nezřizovala (§ 17 písm. a)).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Městská komise může přepočítat hlasy v okrscích." Neutralizace: pracuje se zápisy místních komisí, nikoli s jednotlivými lístky; konečné posouzení platnosti hlasů náleží okrskové komisi.
+- *Protiargument:* tři úrovně komisí jsou zbytečně složité. Neutralizace: u velkých měst s desítkami MČ je víceúrovňová sumarizace nezbytná pro spolehlivé zjištění výsledku.
+- *Slabé místo:* chyby v zápisech místních komisí se na úrovni města obtížně odhalují bez přístupu k podkladovým údajům okrsků.
+
+#### H. Praktický závěr
+
+Městská komise je vrcholným orgánem organizace referenda ve statutárním městě: konsoliduje výsledky místních komisí, rozhoduje o stížnostech na jejich postup, vyhlašuje a archivuje. Zřizuje se jen ve statutárním (územně členěném) městě.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajistit první zasedání městské komise 10 dnů přede dnem hlasování.
+- [ ] Přezkoumat zápisy místních komisí a zjistit celkový výsledek za město (§ 45).
+- [ ] Rozhodnout o stížnostech na postup místních komisí a zaznamenat je.
+- [ ] Vyhlásit výsledky na úřední desce magistrátu po dobu 15 dnů (§ 46 odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** zápisy místních komisí, sumární zápis městské komise, stížnosti a usnesení městské komise, doklad o vyvěšení výsledků.
 
 ---
 
@@ -1052,6 +1772,42 @@ Pokud se koná více referend společně (§ 16 odst. 2), společná komise:
 - má **členy delegované všemi** přípravnými výbory + starostou;
 - pracuje jako **jeden orgán** se sjednocenou strukturou (jeden předseda, společné jednání, společný zápis pro každé referendum).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Starosta stanovil 25 dnů přede dnem hlasování minimální počet členů okrskové komise na 6 a vyrozuměl přípravný výbor. Výbor delegoval jen 2 členy a seznam doručil 16 dnů přede dnem hlasování (tj. po lhůtě 15 dnů). Starosta proto doplnil chybějící členy sám. Jeden z delegátů výboru se navíc nedostavil k prvnímu zasedání. Rozhodné jsou lhůty pro delegaci a mechanismus doplňování.
+
+**2. Právní otázka.** Jak se postupuje, nedeleguje-li přípravný výbor členy včas nebo v plném počtu, a kdo doplní komisi do stanoveného počtu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 21 odst. 1 (min. 4 členové, jen oprávněná osoba bez překážky), odst. 2 (stanovení počtu 25 dnů předem), odst. 3 (delegace nejpozději 15 dnů předem), odst. 4 (doplnění starostou při nedosažení/poklesu počtu), odst. 5–7 (seznam, zařazení, společná komise).
+- *Související ustanovení téhož zákona:* § 22 (vznik/zánik členství), § 24 (jednání komise), § 2 a § 4 (oprávněná osoba, překážky).
+- *Související předpisy:* —(procesně samostatná úprava v ZMR).
+- *Judikatura:* nosný závěr, že systém je nastaven tak, aby komise byla vždy obsazena; nedostatky v delegaci sanuje starosta/primátor.
+
+**4. Subsumpce.** Stanovený počet je 6 (§ 21 odst. 2). Výbor delegoval jen 2 členy a navíc po lhůtě 15 dnů (§ 21 odst. 3) → opožděná/nedostatečná delegace. Při nedosažení počtu doplňuje starosta dle § 21 odst. 4. Nedostavení se delegáta k prvnímu zasedání řeší zánik členství dle § 22 odst. 2 písm. e) a opětovné doplnění.
+
+**5. Řešení.** Starosta správně doplnil chybějící členy do počtu 6 (§ 21 odst. 4). Opožděně doručený seznam výboru nezakládá nárok na obsazení nad rámec doplnění starostou, byl-li již počet zajištěn. Poklesne-li počet pod 6 i během činnosti komise, starosta neprodleně doplní. Procesně: hlídat, aby komise byla usnášeníschopná dle § 24 odst. 3.
+
+**6. Varianty.** (a) Kdyby výbor delegoval všech 6 členů včas (do 15 dnů), starosta by nedoplňoval (kromě svého min. 1 člena). (b) Kdyby delegovaný neměl trvalý pobyt v obci (§ 2), nebyl by způsobilým členem a místo by se obsadilo jinak.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Opožděně delegovaní členové výboru mají přednost před doplněnými starostou." Neutralizace: lhůta 15 dnů je pevná; po jejím marném uplynutí a doplnění starostou nelze místa zpětně nárokovat.
+- *Protiargument:* komise není reprezentativní, doplnil-li ji starosta. Neutralizace: zákon klade důraz na obsazenost a funkčnost; výbor měl možnost delegovat včas a v plném počtu.
+- *Slabé místo:* „nestrannost" doplněných členů může být zpochybňována, fakticky však losování předsedy (§ 24) tlumí riziko jednostrannosti.
+
+#### H. Praktický závěr
+
+Komise mají nejméně 4 členy (jen oprávněné osoby bez překážky). Počet stanoví starosta 25 dnů předem, delegace probíhá do 15 dnů předem; nedostatky a poklesy doplňuje starosta/primátor. U společného referenda delegují všechny výbory.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Stanovit a oznámit minimální počet členů 25 dnů přede dnem hlasování.
+- [ ] Delegovat členy seznamem se zákonnými údaji nejpozději 15 dnů předem.
+- [ ] Ověřit u členů status oprávněné osoby bez překážky (§ 2, § 4).
+- [ ] Při nedosažení/poklesu počtu zajistit doplnění starostou/primátorem (§ 21 odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** akt o stanovení počtu členů a jeho doručení výboru, seznamy delegovaných členů s daty doručení, evidence účasti na prvním zasedání, doklady o doplnění komise.
+
 ---
 
 ### § 22 — Členství v komisi
@@ -1102,6 +1858,42 @@ Porušení slibu zákon explicitně nesankcionuje, ale je-li nestrannost zásadn
 
 Předseda neprodleně informuje starostu/primátora, který doplňuje (§ 21 odst. 4).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Člen okrskové komise delegovaný přípravným výborem se v den hlasování dostaví, podepíše prezenční listinu a poté odejde „na chvíli"; vrátí se až po 3,5 hodinách bez souhlasu komise. Komise mezitím klesla pod stanovený počet. Předseda zvažuje, zda členství zaniklo a zda lze člena doplnit. Rozhodné je trvání nepřítomnosti a forma případného odvolání/vzdání se funkce.
+
+**2. Právní otázka.** Zaniká členství v komisi automaticky při více než tříhodinové neomluvené nepřítomnosti v den hlasování, a lze takto uvolněné místo doplnit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22 odst. 1 (vznik členství slibem), odst. 2 písm. e) (zánik při nepřítomnosti bez souhlasu komise déle než 3 hodiny v den hlasování), písm. c), d) (vzdání se / odvolání, neodvolatelnost), odst. 3 (oznámení starostovi a postup dle § 21 odst. 4).
+- *Související ustanovení téhož zákona:* § 21 odst. 4 (doplnění), § 24 odst. 3 (usnášeníschopnost), § 27 odst. 6 (krácení odměny dle účasti).
+- *Související předpisy:* —.
+- *Judikatura:* nosný závěr, že důvody zániku dle odst. 2 jsou taxativní a působí ze zákona (písm. e) i z vůle člena/delegátora (písm. c, d).
+
+**4. Subsumpce.** Nepřítomnost přesáhla 3 hodiny, byla bez souhlasu komise a nastala v den hlasování → naplněn důvod zániku členství dle § 22 odst. 2 písm. e). Členství zaniká ze zákona okamžikem naplnění podmínky; slib již nelze „obnovit" pouhým návratem.
+
+**5. Řešení.** Předseda konstatuje zánik členství a neprodleně informuje starostu, který doplní komisi dle § 21 odst. 4 (§ 22 odst. 3). Odměna členovi se poměrně krátí podle evidence účasti (§ 27 odst. 6). Procesně: zaznamenat v zápise jméno a dobu nepřítomnosti člena (§ 43 odst. 2 písm. i)).
+
+**6. Varianty.** (a) Kdyby nepřítomnost byla kratší než 3 hodiny nebo se souhlasem komise, členství by nezaniklo. (b) Kdyby člen předal předsedovi písemné vzdání se funkce, členství by zaniklo dle písm. c) a toto prohlášení by nešlo vzít zpět.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Návratem se členství obnovuje." Neutralizace: zánik dle písm. e) nastává ze zákona splněním podmínky; pozdější návrat jej nezvrátí.
+- *Protiargument:* zánik členství ohrožuje usnášeníschopnost. Neutralizace: § 21 odst. 4 ukládá neprodlené doplnění, takže funkčnost komise je zajištěna.
+- *Slabé místo:* prokázání délky a „neomluvenosti" nepřítomnosti závisí na evidenci komise; spory mohou vzniknout o přesný počátek a konec absence.
+
+#### H. Praktický závěr
+
+Členství vzniká slibem a zaniká taxativně vymezenými důvody (ukončení činnosti, úmrtí, vzdání se, odvolání delegátorem, >3h neomluvená absence v den hlasování). Vzdání se i odvolání jsou neodvolatelné a účinné doručením předsedovi; uvolněné místo doplňuje starosta/primátor.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajistit složení slibu před zahájením činnosti (bez něj členství nevzniká).
+- [ ] Evidovat účast členů a délku nepřítomností v den hlasování.
+- [ ] Při naplnění důvodu zániku neprodleně informovat starostu/primátora (§ 22 odst. 3).
+- [ ] Krátit odměnu podle evidence účasti (§ 27 odst. 6).
+
+**Typicky rozhodné důkazy / podklady:** podepsané znění slibu, prezenční/účastní evidence komise, písemná prohlášení o vzdání se / odvolání, zápis s uvedením nepřítomnosti člena.
+
 ---
 
 ### § 23 — Zapisovatel komise
@@ -1132,6 +1924,42 @@ Zapisovatel je **členem komise s hlasem poradním** — to znamená, že:
 Zapisovatele **jmenuje starosta/primátor**, nikoli ho deleguje přípravný výbor — je tedy „úředním" mostem mezi komisí a obecním aparátem. Jeho hlavní úkol: **pořizovat zápisy** z jednání komise — to je primárně procesní úkol, který předpokládá administrativní zdatnost.
 
 Slib zapisovatele je shodný s členem komise (§ 22 odst. 1).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pětičlenná okrsková komise (4 členové + zapisovatel) hlasuje o platnosti sporného lístku. Hlasování dopadne 2:2 mezi přítomnými členy; zapisovatel chce „rozhodnout" svým hlasem ve prospěch platnosti. Předseda namítá, že zapisovatel nehlasuje. Rozhodné je postavení zapisovatele při hlasování komise a jeho započítávání do počtu členů.
+
+**2. Právní otázka.** Má zapisovatel komise hlasovací právo a započítává se do počtu členů pro usnášeníschopnost a přijetí usnesení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23 odst. 1 ZMR — zapisovatel je členem komise s hlasem poradním a při hlasování se do počtu členů nezapočítává; odst. 2 (slib), odst. 3 (návrhy, zápisy), odst. 4 (odvolání a jmenování nového).
+- *Související ustanovení téhož zákona:* § 24 odst. 1 (losování řídí zapisovatel), odst. 3, 4 (usnášeníschopnost a přijetí usnesení), § 18 odst. 1 písm. c) (rozhodování o platnosti hlasu).
+- *Související předpisy:* —.
+- *Judikatura:* —(jednoznačně vyřešeno textem zákona).
+
+**4. Subsumpce.** Zapisovatel má jen hlas poradní a do počtu členů při hlasování se nezapočítává (§ 23 odst. 1) → nemůže „rozhodnout" patovou situaci hlasováním. Pat 2:2 mezi hlasujícími členy znamená, že usnesení o platnosti nebylo přijato (chybí nadpoloviční většina přítomných dle § 24 odst. 4).
+
+**5. Řešení.** Zapisovatel nehlasuje; jeho preference je právně bez účinku. Při patu usnesení neprošlo — komise musí hlasovat znovu, případně doplnit chybějícího člena (§ 21 odst. 4) tak, aby byl lichý počet hlasujících a rozhodnutí bylo možné. Procesně: zapisovatel může předložit návrh řešení (§ 23 odst. 3), ale o něm rozhodují hlasující členové.
+
+**6. Varianty.** (a) Kdyby byli přítomni 3 hlasující členové, usnesení by prošlo většinou 2 z 3 a pat by nevznikl. (b) Kdyby zapisovatel neplnil funkci řádně, starosta jej odvolá a jmenuje nového (§ 23 odst. 4) bez vlivu na hlasovací poměry.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zapisovatel je člen komise, tedy hlasuje." Neutralizace: § 23 odst. 1 výslovně přiznává jen hlas poradní a vylučuje započtení do počtu při hlasování.
+- *Protiargument:* pat blokuje rozhodnutí o platnosti hlasu. Neutralizace: řeší se doplněním člena (lichý počet) nebo opakovaným hlasováním; konečné rozhodnutí pak učiní hlasující členové.
+- *Slabé místo:* faktický vliv zapisovatele (formulace návrhů, vedení zápisu) může nepřímo ovlivnit rozhodování, byť formálně nehlasuje.
+
+#### H. Praktický závěr
+
+Zapisovatel je členem komise s hlasem poradním, do počtu členů při hlasování se nezapočítává; skládá slib, předkládá návrhy a vede zápisy. Jmenuje a odvolává jej starosta/primátor.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajistit jmenování zapisovatele a složení jeho slibu.
+- [ ] Při hlasování komise nezapočítávat zapisovatele do počtu členů ani jeho hlas.
+- [ ] Při patu zajistit lichý počet hlasujících (doplnění člena) nebo opakovat hlasování.
+- [ ] Při neplnění funkce zapisovatele zajistit jeho odvolání a jmenování nového.
+
+**Typicky rozhodné důkazy / podklady:** akt o jmenování zapisovatele, podepsaný slib, zápisy z jednání komise s evidencí hlasování.
 
 ---
 
@@ -1164,6 +1992,42 @@ Losování řídí zapisovatel — nemá hlasovací právo, takže nemá zájem 
 
 Příklad: pětičlenná komise (4 členové + zapisovatel) je usnášeníschopná, jsou-li přítomni alespoň 3 členové (a zapisovatel pro vedení zápisu). Pokud přítomni jsou 3 členové, usnesení projde, hlasují-li pro něj alespoň 2.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Při prvním zasedání komise se losuje předseda a místopředseda. Vylosovaný předseda krátce nato ze zdravotních důvodů odstoupí. Místopředseda se domnívá, že automaticky „povýší" na předsedu. Jiný člen trvá na novém losování. Rozhodné je, jak se obsazují funkce předsedy a místopředsedy a kdo losování řídí.
+
+**2. Právní otázka.** Postupuje se při odstoupení předsedy automatickým nástupem místopředsedy, nebo se musí konat nové losování, a v jakém uspořádání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 1 ZMR — předseda a místopředseda se určují losem; losování řídí zapisovatel; při odstoupení/nemožnosti výkonu se losuje znovu, přičemž do losování předsedy se nezařazuje stávající místopředseda a naopak; odst. 2 (řízení jednání předsedou), odst. 3, 4 (usnášení).
+- *Související ustanovení téhož zákona:* § 23 odst. 1 (zapisovatel řídí losování, nehlasuje), § 38 (pořádek v místnosti), § 41 odst. 10 (kontrola správnosti sčítání předsedou).
+- *Související předpisy:* —.
+- *Judikatura:* —(řešeno textem zákona; losování slouží zásadě nestrannosti).
+
+**4. Subsumpce.** Předseda odstoupil → nastává situace „odstoupení předsedy" dle § 24 odst. 1 → losuje se znovu. Místopředseda nepovyšuje automaticky; do nového losování o předsedu se nezařazuje (a naopak). Losování řídí zapisovatel (§ 23 odst. 1, § 24 odst. 1).
+
+**5. Řešení.** Provede se nové losování předsedy (bez účasti stávajícího místopředsedy v losu o předsedu) a odpovídajícím způsobem se doplní funkce. Do nového vylosování zastupuje předsedu místopředseda v plném rozsahu. Procesně: zapisovatel zaznamená průběh losování do zápisu.
+
+**6. Varianty.** (a) Kdyby předseda jen dočasně chyběl (např. nemoc bez odstoupení), zastoupil by jej místopředseda v plném rozsahu bez nového losování. (b) Kdyby odstoupil místopředseda, losoval by se nově místopředseda, do nějž se nezařadí předseda.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Místopředseda logicky nastupuje na uvolněné místo předsedy." Neutralizace: § 24 odst. 1 ukládá nové losování, nikoli automatický nástup; cílem je zachovat náhodnost a nestrannost.
+- *Protiargument:* opakované losování zdržuje. Neutralizace: jde o krátký úkon řízený zapisovatelem; alternativa (volba) by oslabila neutralitu komise.
+- *Slabé místo:* při malém počtu přítomných členů může opakované losování omezit okruh kandidátů, což klade nároky na obsazenost (§ 21 odst. 4).
+
+#### H. Praktický závěr
+
+Předseda a místopředseda se určují losem (řídí zapisovatel); při odstoupení se losuje znovu s vyloučením druhého funkcionáře z příslušného losu. Komise je usnášeníschopná při nadpoloviční většině všech hlasujících členů, usnesení se přijímá většinou přítomných.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Provést losování předsedy a místopředsedy na prvním zasedání (řídí zapisovatel).
+- [ ] Při odstoupení funkcionáře zopakovat losování s vyloučením druhého z příslušného losu.
+- [ ] Ověřovat usnášeníschopnost (nadpoloviční většina hlasujících) před každým usnesením.
+- [ ] Průběh losování a hlasování zaznamenat do zápisu.
+
+**Typicky rozhodné důkazy / podklady:** zápis z prvního zasedání (losování), evidence přítomnosti hlasujících členů, záznam o opakovaném losování při změně funkcionářů.
+
 ---
 
 ### § 25 — Ukončení činnosti komisí
@@ -1186,6 +2050,42 @@ Komise existují **do 15. dne po vyhlášení výsledků hlasování**. Tato lh�
 
 Po uplynutí této lhůty komise zaniká — případné další procesní kroky (typicky soudní přezkum platnosti hlasování) probíhají bez účasti komise.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Výsledky referenda byly vyhlášeny na úřední desce 1. června. Dne 20. června (19. den) chce oprávněná osoba podat ke komisi námitku a žádat přepočítání hlasů. Obecní úřad sděluje, že komise již neexistuje. Současně je 25. června vyplacena odměna členům komise. Rozhodné je, kdy končí činnost komise a jak se počítají navazující lhůty.
+
+**2. Právní otázka.** K jakému okamžiku zaniká činnost komise a jaký to má dopad na možnost domáhat se přepočtu či nápravy přímo u komise?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 ZMR — činnost komisí končí uplynutím 15. dne po vyhlášení výsledků (§ 46).
+- *Související ustanovení téhož zákona:* § 46 odst. 3 (den vyhlášení = první den vyvěšení), § 27 odst. 7 (výplata odměn do 30 dnů po ukončení činnosti), § 58 odst. 2 (10denní lhůta k návrhu na neplatnost).
+- *Související předpisy:* § 91a SŘS (soudní přezkum).
+- *Judikatura:* nosný závěr, že po zániku komise se náprava řeší jen soudně; komise nelze „obnovit" k přepočtu.
+
+**4. Subsumpce.** Výsledky vyhlášeny 1. června → činnost komise končí 16. června (uplynutím 15. dne). Dne 20. června komise již neexistuje → námitku ke komisi podat nelze; přepočet u komise není možný. Výplata odměn 25. června spadá do 30denní lhůty po ukončení činnosti (§ 27 odst. 7).
+
+**5. Řešení.** Oprávněná osoba se nemůže domáhat přepočtu u zaniklé komise; jediná cesta nápravy byla návrh na neplatnost hlasování (§ 58) ve lhůtě 10 dnů od vyhlášení výsledků, která navíc již uplynula 11. června. Procesně: po marném uplynutí lhůt je výsledek nezvratný; odměny se vyplatí včas dle § 27 odst. 7.
+
+**6. Varianty.** (a) Kdyby osoba podala návrh na neplatnost do 11. června (10 dnů), soud by mohl přezkoumat výsledek bez ohledu na zánik komise. (b) Kdyby běžel souběh s volbami, činnost komise by skončila až po splnění podmínek pro všechny souběžné akce (§ 27a odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Komise může být svolána k dodatečnému přepočtu." Neutralizace: § 25 stanoví pevný zánik činnosti; po něm komise neexistuje a přepočet provádí jen soud v rámci přezkumu.
+- *Protiargument:* 15denní lhůta je příliš krátká pro odhalení chyb. Neutralizace: paralelně běží 10denní lhůta k soudnímu návrhu (§ 58), která je rozhodující pro nápravu.
+- *Slabé místo:* souběh s volbami posouvá konec činnosti komise (§ 27a odst. 4), což může mást při počítání lhůt.
+
+#### H. Praktický závěr
+
+Činnost komisí končí uplynutím 15. dne po vyhlášení výsledků. Po zániku komise se náprava řeší výlučně soudně (§ 58, lhůta 10 dnů). Odměny se vyplácejí do 30 dnů po ukončení činnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit den vyhlášení výsledků (první den vyvěšení) a od něj 15 dnů do zániku komise.
+- [ ] Případné výhrady k výsledku uplatnit u soudu do 10 dnů (§ 58), ne u komise po jejím zániku.
+- [ ] Při souběhu s volbami zohlednit posun konce činnosti dle § 27a odst. 4.
+- [ ] Zajistit výplatu odměn do 30 dnů po ukončení činnosti (§ 27 odst. 7).
+
+**Typicky rozhodné důkazy / podklady:** doklad o prvním dni vyvěšení výsledků, evidence lhůt, doklady o výplatě odměn.
+
 ---
 
 ### § 26 — Zákaz poskytování informací
@@ -1207,6 +2107,42 @@ Toto ustanovení implementuje **princip uzavřené místnosti** při sčítání
 - **Předjímání** výsledku do okamžiku formálního zápisu — výsledek je platný až po podepsání zápisu.
 
 Porušení zákazu může být důvodem pro stížnost a v krajním případě i pro vyslovení neplatnosti hlasování (§ 58 odst. 1 písm. a)).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při dvoudenním hlasování v souběhu s volbami člen okrskové komise po prvním dni zveřejní na sociální síti přibližné průběžné výsledky („zatím vede ano cca 60:40"), ačkoli zápis ještě nebyl podepsán. Příznivci „ne" tvrdí, že to mohlo demobilizovat jejich voliče druhý den. Po referendu je podán návrh na neplatnost hlasování. Rozhodné je, zda došlo k porušení zákazu a zda mohlo ovlivnit výsledek.
+
+**2. Právní otázka.** Představuje předčasné zveřejnění dílčích výsledků před podpisem zápisu porušení § 26, které může vést k neplatnosti hlasování?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26 ZMR — zákaz poskytovat informace o dílčích výsledcích až do podpisu zápisu všemi přítomnými členy.
+- *Související ustanovení téhož zákona:* § 42 (okruh osob přítomných při sčítání), § 27a odst. 5 (zákaz informací i při souběhu), § 43 (zápis a jeho podpis), § 58 odst. 1 písm. a) (neplatnost při porušení, jež mohlo ovlivnit výsledek).
+- *Související předpisy:* —(ZMR upravuje samostatně).
+- *Judikatura:* nosný závěr, že pro neplatnost postačí potenciální vliv vady; intenzita a okolnosti (dvoudenní hlasování) se posuzují.
+
+**4. Subsumpce.** Člen komise zveřejnil dílčí výsledky před podpisem zápisu → porušení zákazu dle § 26. Při dvoudenním hlasování je potenciální vliv na chování voličů druhého dne reálný (na rozdíl od jednodenního hlasování, kde už nikdo nehlasuje). Znak „mohlo ovlivnit výsledek" (§ 58 odst. 1 písm. a)) tak může být naplněn.
+
+**5. Řešení.** Porušení § 26 je dáno; zda vede k neplatnosti, závisí na tom, mohlo-li reálně ovlivnit výsledek (zde u dvoudenního hlasování spíše ano, zvlášť při těsném výsledku). Procesně: návrh na neplatnost hlasování do 10 dnů od vyhlášení výsledků (§ 58 odst. 2) s tvrzením o potenciálním vlivu. Porušení může mít i přestupkové/disciplinární konotace, ZMR však pro člena komise zvláštní sankci nestanoví.
+
+**6. Varianty.** (a) Kdyby šlo o jednodenní hlasování a zveřejnění proběhlo po jeho skončení (ale před podpisem zápisu), porušení zákazu by trvalo, ale potenciální vliv na výsledek by chyběl. (b) Kdyby informaci vynesla osoba přítomná dle § 42 (pracovník úřadu), vztahoval by se na ni týž zákaz.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Šlo jen o orientační, nezávazné číslo." Neutralizace: zákaz dopadá na jakékoli informace o dílčích výsledcích bez ohledu na přesnost; rozhodné je, že byly poskytnuty před podpisem zápisu.
+- *Protiargument:* vliv na výsledek nelze prokázat. Neutralizace: postačí potenciální vliv; u dvoudenního hlasování a těsného výsledku je reálný.
+- *Slabé místo:* prokázání autorství „úniku" a jeho dosahu (dosah příspěvku, počet zasažených) je obtížné.
+
+#### H. Praktický závěr
+
+Členové komise a osoby přítomné při sčítání nesmějí poskytovat informace o dílčích výsledcích až do podpisu zápisu. Porušení může vést k neplatnosti hlasování, mohlo-li ovlivnit výsledek (typicky u vícedenního hlasování).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Poučit členy komise i přítomné osoby (§ 42) o zákazu dle § 26.
+- [ ] Nezveřejňovat žádné dílčí výsledky do podpisu zápisu všemi přítomnými členy.
+- [ ] Při podezření na únik zaznamenat okolnosti a posoudit potenciální vliv na výsledek.
+- [ ] Případnou neplatnost uplatnit návrhem dle § 58 do 10 dnů.
+
+**Typicky rozhodné důkazy / podklady:** doklad o čase a obsahu zveřejnění (screenshot příspěvku), čas podpisu zápisu, údaj o jedno-/dvoudenním hlasování a o těsnosti výsledku.
 
 ---
 
@@ -1262,6 +2198,42 @@ Zastupitelstvo musí výši odměny **zveřejnit nejpozději 25 dnů přede dnem
 Odměna se krátí poměrně podle účasti na jednáních (písmena 6). Tj. pokud má komise 10 jednání a člen se účastní 8, dostane 80 % odměny.
 
 Výplata: do 30 dnů po ukončení činnosti komise (15. den po vyhlášení výsledků + 30 dní = celkem 45 dní od vyhlášení výsledků). Vyplácí obecní úřad (členům okrskové, místní) nebo magistrát statutárního města (členům městské).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně paní L. byla delegována do okrskové komise. Zaměstnavatel jí odmítl poskytnout pracovní volno s tím, že „referendum není volby". Paní L. se přesto účastní, zaměstnavatel jí následně zkrátí prémie „za absenci". Komise měla 8 jednání, paní L. se zúčastnila 6. Obec jí vyplácí odměnu. Rozhodné je pracovněprávní postavení člena komise a způsob výpočtu odměny.
+
+**2. Právní otázka.** Má člen komise nárok na pracovní volno a ochranu před krácením práv z pracovního poměru, a jak se vypočte jeho odměna při neúčasti na části jednání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 odst. 1 (jiný úkon v obecném zájmu, pracovní volno bez náhrady mzdy), odst. 2 (nárok na odměnu), odst. 3 (ochrana před krácením práv), odst. 4, 5 (výše a zveřejnění odměny), odst. 6 (poměrné krácení dle účasti), odst. 7 (výplata do 30 dnů).
+- *Související ustanovení téhož zákona:* § 25 (ukončení činnosti komise), § 22 odst. 2 písm. e) (zánik při absenci).
+- *Související předpisy:* § 124 zákoníku práce (jiný úkon v obecném zájmu, pracovní volno); zákon o minimální mzdě.
+- *Judikatura:* —(pracovněprávní rámec je dán zákoníkem práce a § 27 ZMR).
+
+**4. Subsumpce.** Výkon funkce člena komise je jiným úkonem v obecném zájmu (§ 27 odst. 1) → zaměstnankyně má nárok na pracovní volno; odmítnutí volna a krácení prémií „za absenci" porušuje § 27 odst. 3 (zákaz krácení práv z pracovního poměru). Odměna se krátí poměrně podle účasti: 6 z 8 jednání → 75 % odměny (§ 27 odst. 6).
+
+**5. Řešení.** Zaměstnavatel pochybil; paní L. se může domáhat nápravy pracovněprávní cestou (neoprávněné krácení prémií). Obec vyplatí odměnu ve výši 75 % stropu pro člena (max. 1/7 minimální mzdy × 0,75) do 30 dnů po ukončení činnosti komise (§ 27 odst. 7). Procesně: doložit delegaci, evidenci účasti a rozhodnutí zastupitelstva o výši odměny (zveřejněné 25 dnů předem).
+
+**6. Varianty.** (a) Kdyby paní L. byla předsedkyní komise, strop odměny by činil 1/5 minimální mzdy (před krácením). (b) Kdyby se nezúčastnila vůbec a chyběla déle než 3 hodiny v den hlasování, zaniklo by členství (§ 22 odst. 2 písm. e)) a odměna by se odpovídajícím způsobem nevyplatila.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pracovní volno se poskytuje jen pro volby, ne pro referendum." Neutralizace: § 27 odst. 1 výslovně kvalifikuje funkci jako jiný úkon v obecném zájmu se vznikem nároku na volno (§ 124 ZP).
+- *Protiargument:* odměna náleží v plné výši bez ohledu na účast. Neutralizace: § 27 odst. 6 ukládá poměrné krácení podle evidované účasti na jednáních.
+- *Slabé místo:* prokázání souvislosti krácení prémií s výkonem funkce (a tedy porušení odst. 3) může být v pracovním sporu obtížné.
+
+#### H. Praktický závěr
+
+Funkce člena komise je jiným úkonem v obecném zájmu: vzniká nárok na pracovní volno (bez náhrady mzdy), na odměnu od obce a na ochranu před krácením práv z pracovního poměru. Odměna se krátí poměrně dle účasti a vyplácí do 30 dnů po ukončení činnosti komise.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Uplatnit u zaměstnavatele nárok na pracovní volno (jiný úkon v obecném zájmu).
+- [ ] Hlídat zveřejnění výše odměny zastupitelstvem 25 dnů přede dnem hlasování.
+- [ ] Vést evidenci účasti člena na jednáních komise (pro krácení odměny).
+- [ ] Zajistit výplatu odměny do 30 dnů po ukončení činnosti komise.
+
+**Typicky rozhodné důkazy / podklady:** doklad o delegaci do komise, evidence účasti na jednáních, rozhodnutí zastupitelstva o výši odměny, doklady o pracovním volnu a o (ne)krácení mzdy/prémií.
 
 ---
 
@@ -1324,6 +2296,42 @@ Při souběhu jsou:
 
 Náklady na společné vybavení **hradí stát**, pokud je souběh s volbami (volby jsou ze státního rozpočtu); **kraj**, pokud je souběh pouze s krajským referendem. Pokud má místní referendum samostatné dodatečné požadavky (např. specifické vybavení), hradí je obec.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Místní referendum se koná v tytéž dny jako volby do zastupitelstev krajů. Obec zřídí pro referendum samostatné okrskové komise vedle okrskových volebních komisí. Přípravný výbor zároveň chce delegovat své zástupce do komisí pro referendum. Vznikne spor o náklady na vybavení a o barevné odlišení lístků. Rozhodné je, zda se komise slučují a kdo hradí společné vybavení.
+
+**2. Právní otázka.** Plní při souběhu s volbami okrskové volební komise rovněž úkoly okrskových komisí pro referendum, a jak se řeší delegace, odlišení lístků a náklady?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27a ZMR — okrskové volební komise plní i úkoly okrskových komisí pro referendum (odst. 1), obdobně u krajského referenda (odst. 2); delegace 1 člena výborem (odst. 1, 2); barevné odlišení lístků a obálek (odst. 5); společné vybavení (odst. 6) a financování (odst. 7).
+- *Související ustanovení téhož zákona:* § 5 odst. 1 (souběh, doba hlasování), § 26 (zákaz informací), § 21 odst. 1 (podmínky člena komise), § 25 a § 27a odst. 4 (ukončení činnosti).
+- *Související předpisy:* příslušné volební zákony (např. zákon č. 130/2000 Sb. o volbách do zastupitelstev krajů); zákon upravující krajské referendum (č. 118/2010 Sb.).
+- *Judikatura:* nosný závěr o funkčním sloučení komisí a o úspornosti souběhu.
+
+**4. Subsumpce.** Při souběhu s krajskými volbami plní okrskové volební komise i úkoly okrskových komisí pro referendum (§ 27a odst. 1) → zřizovat samostatné komise pro referendum je nadbytečné a v rozporu s konstrukcí § 27a. Výbor může delegovat 1 člena (+ náhradníka) do okrskové volební komise. Lístky a obálky se barevně odliší (odst. 5). Náklady na společné vybavení nese stát (souběh s volbami, odst. 7).
+
+**5. Řešení.** Obec nemá zřizovat dvojí komise; využije okrskové volební komise i pro referendum. Přípravný výbor deleguje 1 člena ve lhůtě dle volebního zákona; tento člen plní volební i referendové úkoly a má odměnu dle volebního zákona. Společné vybavení (místnost, schránky) hradí stát; specifické dodatečné požadavky jen pro referendum nese obec. Procesně: zajistit barevné odlišení a poučení o zákazu informací (§ 26).
+
+**6. Varianty.** (a) Při souběhu pouze s krajským referendem hradí společné vybavení kraj (odst. 7), nikoli stát. (b) Bez souběhu (samostatné referendum) se postupuje dle § 17–§ 21 (samostatné komise) a náklady nese obec (§ 51).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Referendum potřebuje vlastní nezávislé komise." Neutralizace: § 27a výslovně ukládá funkční sloučení; dvojí komise by byly nehospodárné a zákonu odporující.
+- *Protiargument:* náklady na vybavení nese vždy obec (§ 51). Neutralizace: při souběhu s volbami platí zvláštní pravidlo § 27a odst. 7 (stát), které má přednost pro společné vybavení.
+- *Slabé místo:* rozlišení „společného" vybavení (stát/kraj) od „dodatečných požadavků jen pro referendum" (obec) může vyvolat spory o úhradu konkrétních položek.
+
+#### H. Praktický závěr
+
+Při souběhu s volbami/krajským referendem plní okrskové volební (resp. krajské) komise i úkoly komisí pro referendum; výbor smí delegovat 1 člena. Lístky a obálky se barevně odliší, vybavení je společné a hradí je stát (souběh s volbami) nebo kraj (souběh s krajským referendem).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Při souběhu nezřizovat samostatné komise pro referendum (využít volební/krajské komise).
+- [ ] Umožnit výboru delegovat 1 člena (+ náhradníka) ve lhůtě dle příslušného zákona.
+- [ ] Zajistit barevné odlišení lístků a obálek a poučení o zákazu informací (§ 26, § 27a odst. 5).
+- [ ] Náklady na společné vybavení účtovat státu/kraji dle § 27a odst. 7; dodatečné jen pro referendum obci.
+
+**Typicky rozhodné důkazy / podklady:** harmonogram souběžných hlasování, akty o ustavení (volebních) komisí, doklady o delegaci člena výborem, kalkulace a rozdělení nákladů na vybavení.
+
 ---
 
 ## HLAVA V — Hlasování
@@ -1352,6 +2360,42 @@ Důsledky této identifikace:
 
 V obci s jen jedním hlasovacím okrskem je celé území obce jedním okrskem. Důsledek: okrsková a místní komise mohou být kombinovány do jedné komise (§ 19 odst. 2 ZMR).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Přípravný výbor chce, aby referendum proběhlo jen v jedné historické čtvrti obce (kde se týká místního problému), nikoli na celém území. Navrhuje proto „vlastní" hlasovací okrsek vymezený jen pro tuto čtvrť. Obecní úřad namítá, že okrsky pro referendum musí kopírovat stálé volební okrsky. Rozhodné je, zda lze území referenda a okrsky vymezit odchylně od volebních okrsků.
+
+**2. Právní otázka.** Lze pro účely místního referenda vytvořit hlasovací okrsky odchylně od stálých volebních okrsků, nebo je jejich vymezení závazně shodné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 ZMR — hlasování probíhá v hlasovacích okrscích, jejichž územní vymezení se shoduje s vymezením stálých volebních okrsků.
+- *Související ustanovení téhož zákona:* § 1 (územní rozsah), § 10 odst. 1 písm. a) (označení území referenda), § 19 odst. 2 (jediný okrsek), § 29 (seznam oprávněných osob).
+- *Související předpisy:* § 26 zákona č. 491/2001 Sb. (stálé volební okrsky vytváří starosta).
+- *Judikatura:* —(otázka je řešena přímo zákonem; okrsky kopírují volební strukturu).
+
+**4. Subsumpce.** Hlasovací okrsky pro referendum se shodují se stálými volebními okrsky (§ 28) → nelze vytvořit ad hoc okrsek jen pro vybranou čtvrť, neodpovídá-li volebnímu okrsku. Vymezení území referenda (§ 10 odst. 1 písm. a)) je sice věcí návrhu, ale organizace hlasování se opírá o existující volební okrsky.
+
+**5. Řešení.** Referendum nelze technicky „naroubovat" na libovolně vymezenou čtvrť, neodpovídá-li volebnímu okrsku; území referenda musí respektovat strukturu volebních okrsků. Pokud se problém týká jen části obce, územní vymezení dle § 1 písm. c) (část obce) je možné jen, stanoví-li tak zvláštní zákon (typicky oddělení části obce). Procesně: sladit navrhované území s volebními okrsky, jinak hrozí nevyhlášení nebo neplatnost.
+
+**6. Varianty.** (a) Kdyby čtvrť tvořila samostatný volební okrsek, mohlo by referendum proběhnout v tomto okrsku bez kolize s § 28. (b) Při referendu o oddělení části obce se území vymezuje katastrálně dle zvláštní úpravy (§ 1 písm. c), § 48 odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Přípravný výbor si může vymezit území, jak chce." Neutralizace: organizace hlasování je vázána na stálé volební okrsky (§ 28); volné vymezení čtvrti není slučitelné s jejich strukturou.
+- *Protiargument:* lokální problém vyžaduje lokální hlasování. Neutralizace: referendum se v zásadě koná na úrovni obce/MČ; dílčí území jen výjimečně dle § 1 písm. c) a zvláštního zákona.
+- *Slabé místo:* nesoulad mezi „přirozeným" územím problému a volebními okrsky může snižovat legitimitu výsledku v očích dotčených.
+
+#### H. Praktický závěr
+
+Hlasovací okrsky pro referendum se shodují se stálými volebními okrsky; nelze je pro referendum vytvářet odchylně. Území referenda musí být s touto strukturou slučitelné; dílčí část obce přichází v úvahu jen dle § 1 písm. c) a zvláštního zákona.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit existující stálé volební okrsky v obci.
+- [ ] Vymezit území referenda slučitelně s volebními okrsky (§ 28).
+- [ ] Při jediném okrsku počítat se splynutím okrskové a místní komise (§ 19 odst. 2).
+- [ ] Dílčí část obce navrhovat jen dle § 1 písm. c) a zvláštního zákona.
+
+**Typicky rozhodné důkazy / podklady:** mapa/přehled stálých volebních okrsků, akt starosty o vytvoření okrsků (§ 26 zákona č. 491/2001 Sb.), návrh s označením území referenda.
+
 ---
 
 ### § 29 — Seznam oprávněných osob
@@ -1375,6 +2419,42 @@ Komise dostane **výpis** ze seznamu — tj. extrakt obsahující jen osoby s tr
 - Identifikaci oprávněných osob při hlasování (porovnání s občanským průkazem).
 - Zaznamenání skutečnosti, že osoba hlasovala (zápis o vydání lístku).
 - Zachycení doplnění o osoby s hlasovacím průkazem.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Občan EU s přechodným pobytem v obci se domáhá zápisu do výpisu oprávněných osob pro referendum a tvrdí, že je veden v dodatku seznamu voličů pro komunální volby. Obecní úřad zprvotně namítá, že ve „výpisu" pro referendum není uveden. Rozhodné je, zda se výpis oprávněných osob odvíjí od volebního seznamu včetně dodatku pro občany EU.
+
+**2. Právní otázka.** Zahrnuje výpis ze seznamu oprávněných osob pro referendum i osoby vedené v dodatku stálého seznamu voličů (občané EU), a kdo má být do výpisu zařazen?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 ZMR — obecní úřad předá komisi výpis voličů obsahující seznam oprávněných osob (odvozený z volebního seznamu).
+- *Související ustanovení téhož zákona:* § 2 (oprávněná osoba = komunální volič), § 30 (hlasovací průkaz, poznámka do výpisu), § 36 odst. 3 (prokázání totožnosti a občanství).
+- *Související předpisy:* zákon č. 491/2001 Sb. a zákon č. 88/2024 Sb., o správě voleb (stálý seznam voličů a jeho dodatek pro občany EU).
+- *Judikatura:* —(věc plyne z provázanosti seznamů).
+
+**4. Subsumpce.** Oprávněnou osobou je komunální volič (§ 2), tedy i občan EU zapsaný v dodatku stálého seznamu voličů. Výpis pro referendum je podmnožinou volebního seznamu (§ 29) → musí zahrnovat i osoby z dodatku. Nezařazení takové osoby je vadou výpisu, nikoli důvodem k odepření hlasování oprávněné osobě.
+
+**5. Řešení.** Obecní úřad doplní občana EU do výpisu, je-li veden v dodatku stálého seznamu voličů a splňuje podmínky § 2. Při hlasování prokáže totožnost a občanství dokladem dle § 36 odst. 3. Procesně: oprava/doplnění výpisu před zahájením hlasování; chybné nezařazení může při dopadu na výsledek založit důvod dle § 58.
+
+**6. Varianty.** (a) Kdyby osoba neměla v obci žádný pobyt zakládající komunální volební právo, do výpisu by nepatřila. (b) Kdyby osoba hlasovala v jiném okrsku téže obce, využila by hlasovací průkaz (§ 30) a byla by doplněna do výpisu cílového okrsku.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Co není ve výpisu, nehlasuje." Neutralizace: rozhodující je status oprávněné osoby (§ 2); chybějící zápis ve výpisu je vadou, kterou je třeba napravit, ne důvodem k vyloučení.
+- *Protiargument:* dodatek pro občany EU se referenda netýká. Neutralizace: § 2 váže okruh na komunální voliče, mezi něž občané EU s pobytem patří.
+- *Slabé místo:* aktuálnost výpisu závisí na evidenci k rozhodnému dni; opožděné změny pobytu mohou způsobit nesoulad.
+
+#### H. Praktický závěr
+
+Výpis oprávněných osob se odvozuje z volebního seznamu (vč. dodatku pro občany EU) a slouží k identifikaci hlasujících, evidenci vydaných lístků a zachycení hlasovacích průkazů. Chybějící zápis oprávněné osoby je vadou výpisu k nápravě, ne důvodem odepření hlasování.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odvodit výpis z aktuálního stálého seznamu voličů včetně dodatku (občané EU).
+- [ ] Před zahájením hlasování ověřit úplnost výpisu pro okrsek.
+- [ ] Do výpisu zaznamenávat vydání lístků a hlasovací průkazy (§ 30).
+- [ ] Chybné nezařazení oprávněné osoby neprodleně napravit.
+
+**Typicky rozhodné důkazy / podklady:** stálý seznam voličů a jeho dodatek, výpis předaný komisi, doklady totožnosti a pobytu, evidence vydaných lístků.
 
 ---
 
@@ -1409,6 +2489,42 @@ Hlasovací průkaz tedy slouží **úzké skupině osob**: typicky občanům, kt
 | Osobně | nejpozději **2 dny** přede dnem hlasování |
 
 Žádost lze podat ode **dne vyhlášení referenda**. Hlasovací průkaz se předá osobně, prostřednictvím zmocněnce (s ověřenou plnou mocí) nebo zaslán poštou.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan H. má v obci (statutárním městě) trvalý pobyt v jedné MČ, ale v den hlasování bude pobývat v nemocnici v jiné MČ téhož města. Požádá písemně (s ověřeným podpisem) o hlasovací průkaz 6 dnů přede dnem hlasování. Obecní úřad odmítne s tím, že hlasovací průkaz „umožní hlasovat kdekoli", což u referenda neplatí. Rozhodné je územní omezení průkazu a lhůty pro žádost.
+
+**2. Právní otázka.** Umožňuje hlasovací průkaz pro místní referendum hlasovat i v jiném okrsku téže obce/statutárního města, a byla žádost podána včas?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 odst. 1 (průkaz pro hlasování v jiném okrsku téže obce/statutárního města), odst. 2 (lhůty: písemně min. 7 dnů předem, osobně min. 2 dny předem; způsob předání).
+- *Související ustanovení téhož zákona:* § 2 (oprávněná osoba), § 29 (poznámka do výpisu), § 36 odst. 5 (odevzdání průkazu komisi), § 53 (lhůty, 16. hodina, neprominutelnost).
+- *Související předpisy:* —.
+- *Judikatura:* —(věc plyne z textu; omezenost oproti volebnímu průkazu).
+
+**4. Subsumpce.** Pan H. zůstává oprávněnou osobou téhož statutárního města, jen bude v jiné MČ → hlasovací průkaz mu umožní hlasovat v jiném okrsku téhož města (§ 30 odst. 1). Žádost písemná s ověřeným podpisem podaná 6 dnů předem je opožděná — písemná žádost musí být doručena nejpozději 7 dnů přede dnem hlasování (§ 30 odst. 2).
+
+**5. Řešení.** Důvod odmítnutí (že průkaz „umožní hlasovat kdekoli") je nesprávný — průkaz pro referendum platí v rámci téže obce/statutárního města a to je zde splněno. Žádost však byla podána po písemné 7denní lhůtě; pan H. mohl využít osobní žádost (min. 2 dny předem). Procesně: lhůty nelze prominout (§ 53 odst. 2); včasná osobní žádost by byla řešením.
+
+**6. Varianty.** (a) Kdyby pan H. požádal osobně 2 dny předem, průkaz by mu byl vydán. (b) Kdyby pobýval v jiné obci (kde se jeho referendum nekoná), průkaz by mu hlasování stejně neumožnil — referendum se týká jen jeho obce.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Hlasovací průkaz pro referendum platí celostátně jako u voleb." Neutralizace: § 30 odst. 1 jej omezuje na jiný okrsek téže obce/statutárního města.
+- *Protiargument:* opožděnou žádost lze prominout pro zdravotní důvody. Neutralizace: § 53 odst. 2 promíjení zmeškání lhůt vylučuje; řešením je včasná osobní žádost.
+- *Slabé místo:* úzký okruh využití (jen jiný okrsek téže obce) činí institut pro mnoho dotčených bezúčelným (pobyt mimo obec).
+
+#### H. Praktický závěr
+
+Hlasovací průkaz pro referendum umožňuje hlasovat jen v jiném okrsku téže obce/statutárního města. Žádost: písemně (ověřený podpis) min. 7 dnů, osobně min. 2 dny přede dnem hlasování; lhůty jsou neprominutelné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že žadatel zůstává oprávněnou osobou téže obce/statutárního města.
+- [ ] Dodržet lhůtu podle formy žádosti (7 dnů písemně / 2 dny osobně).
+- [ ] Poznamenat vydání průkazu do výpisu ze seznamu (§ 29, § 30 odst. 1).
+- [ ] Při hlasování zajistit odevzdání průkazu komisi (§ 36 odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** žádost o průkaz s datem doručení, ověřený podpis/plná moc, výpis ze seznamu s poznámkou o průkazu, doklad o trvalém pobytu.
 
 ---
 
@@ -1450,6 +2566,42 @@ Toto ustanovení implementuje princip ochrany **národnostních menšin** podle 
 
 V ČR se to nejčastěji týká **polské menšiny** v některých obcích Těšínska (např. Český Těšín, Třinec, Karviná, Stonava). Sčítání lidu 2021 ukázalo, že obce s 10 % polské menšiny existují, byť se jejich počet zmenšuje.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Starosta zveřejnil oznámení o době a místě konání referenda jen 12 dnů přede dnem hlasování a navíc v něm neuvedl adresy hlasovacích místností (uvedl jen „v obvyklých místnostech"). Po referendu, které těsně nedosáhlo závaznosti, podá oprávněná osoba návrh na neplatnost hlasování s tvrzením, že vadné informování snížilo účast. Rozhodné je dodržení lhůty a obsahu oznámení.
+
+**2. Právní otázka.** Představuje pozdní a neúplné oznámení o době a místě konání referenda porušení § 31, které mohlo ovlivnit výsledek (účast)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 odst. 1 (oznámení nejpozději 15 dnů předem, vč. adres místností a otázek), odst. 2 (poučení o povinnosti prokázat totožnost a občanství), odst. 3 (jazyková mutace pro menšiny).
+- *Související ustanovení téhož zákona:* § 5 odst. 1 (doba hlasování), § 34 odst. 5 (označení objektu), § 48 (kvórum platnosti), § 58 odst. 1 písm. a) (neplatnost).
+- *Související předpisy:* § 117 odst. 3 zákona č. 128/2000 Sb. (výbor pro národnostní menšiny); zákon č. 273/2001 Sb. (práva menšin).
+- *Judikatura:* nosný závěr, že vady informování mohou založit neplatnost, mohly-li ovlivnit účast/výsledek; posuzuje se intenzita a dopad.
+
+**4. Subsumpce.** Oznámení bylo zveřejněno 12 dnů předem (méně než 15) a bez adres místností → porušení § 31 odst. 1 ve dvou bodech. Otázka „mohlo ovlivnit výsledek" se posuzuje ve vazbě na kvórum platnosti/závaznosti: u referenda, které těsně nedosáhlo závaznosti, je potenciální vliv vadného informování na účast reálný.
+
+**5. Řešení.** Porušení § 31 je dáno; návrh na neplatnost hlasování (§ 58 odst. 1 písm. a)) může uspět, prokáže-li se aspoň potenciální vliv na účast/výsledek (zde podpořeno těsností výsledku). Procesně: návrh do 10 dnů od vyhlášení výsledků; doložit datum a obsah oznámení. Pro futuro je třeba lhůtu i obsah dodržet.
+
+**6. Varianty.** (a) Kdyby oznámení bylo včasné a úplné a výsledek drtivý, vada by chyběla a návrh by neuspěl. (b) Kdyby šlo o obec s 10% menšinou a chyběla jazyková mutace (odst. 3), šlo by o další vadu informování.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Lidé stejně vědí, kde se hlasuje." Neutralizace: zákon ukládá konkrétní obsah a lhůtu oznámení; presumpce obecné známosti nenahrazuje povinné informování.
+- *Protiargument:* vliv na účast nelze prokázat. Neutralizace: postačí potenciální vliv; u těsně nezávazného výsledku je reálný.
+- *Slabé místo:* prokázání kauzality mezi vadným oznámením a nižší účastí je nepřímé, opírá se o srovnání s obdobnými hlasováními.
+
+#### H. Praktický závěr
+
+Starosta musí nejpozději 15 dnů předem zveřejnit oznámení s dobou, místem (adresami místností) a otázkami a poučit o prokázání totožnosti a občanství; v obcích s 10% menšinou i v jejím jazyce. Vady mohou vést k neplatnosti, mohly-li ovlivnit výsledek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zveřejnit oznámení nejpozději 15 dnů přede dnem hlasování.
+- [ ] Uvést dobu, adresy hlasovacích místností, otázky a poučení o totožnosti/občanství.
+- [ ] U obcí s 10% menšinou doplnit jazykovou mutaci (odst. 3).
+- [ ] Zveřejnit „způsobem v místě obvyklým" (úřední deska, web, rozhlas, vývěsky).
+
+**Typicky rozhodné důkazy / podklady:** text oznámení a doklad o datu/způsobu zveřejnění, údaj o počtu okrsků a adresách místností, statistika menšin (pro odst. 3), výsledek hlasování (těsnost).
+
 ---
 
 ### § 32 — Kampaň pro místní referendum
@@ -1484,6 +2636,42 @@ V den hlasování je v **objektu** hlasovací místnosti zakázána kampaň. To 
 - Voliči musí být chráněni před politickým tlakem v okamžiku hlasování.
 
 Pokud v objektu (typicky ZŠ, kulturní dům, obecní úřad) ještě probíhají jiné akce, agitace se na ně nesmí přelévat. Porušení může být důvodem pro stížnost, případně pro vyslovení neplatnosti hlasování (§ 58 odst. 1 písm. a)).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V den hlasování visí ve vstupní hale školy, kde je hlasovací místnost, velký transparent „Hlasuj ANO za nový park!" a u dveří postávají dva aktivisté rozdávající letáky. Zástupci opačného názoru si stěžují předsedovi komise. Po těsném výsledku „ano" je podán návrh na neplatnost hlasování. Rozhodné je, zda šlo o kampaň v objektu hlasovací místnosti.
+
+**2. Právní otázka.** Porušuje agitace (transparent, rozdávání letáků) ve vstupní hale budovy, kde je hlasovací místnost, zákaz kampaně v den hlasování podle § 32 odst. 2, a může to vést k neplatnosti hlasování?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 odst. 2 ZMR — v den hlasování je zakázána kampaň v objektu, ve kterém se nachází hlasovací místnost; odst. 1 (vyhrazená plocha, zásada rovnosti).
+- *Související ustanovení téhož zákona:* § 38 (pořádek v místnosti, pravomoc předsedy), § 34 odst. 5 (označení objektu), § 58 odst. 1 písm. a) (neplatnost).
+- *Související předpisy:* —(ZMR upravuje kampaň jen rámcově).
+- *Judikatura:* nosný závěr, že porušení zákazu kampaně v objektu může založit neplatnost, mohlo-li ovlivnit výsledek; rozhoduje intenzita a těsnost výsledku.
+
+**4. Subsumpce.** Transparent a rozdávání letáků ve vstupní hale spadají do „objektu, ve kterém se nachází hlasovací místnost" → porušení § 32 odst. 2. Předseda měl dle § 38 zjednat nápravu (odstranit transparent, vykázat agitátory). Znak „mohlo ovlivnit výsledek" je u těsného výsledku „ano" reálný.
+
+**5. Řešení.** Šlo o zakázanou kampaň v objektu; nečinnost komise pochybení prohlubuje. Návrh na neplatnost (§ 58 odst. 1 písm. a)) může uspět při doložení potenciálního vlivu na výsledek (podpořeno těsností). Procesně: předseda měl využít pravomoc dle § 38; navrhovatel podává návrh do 10 dnů od vyhlášení výsledků. Vyhrazená plocha pro představení otázek (odst. 1) je naopak legální mimo objekt.
+
+**6. Varianty.** (a) Kdyby agitace probíhala mimo objekt (na chodníku přes ulici), zákaz dle § 32 odst. 2 by porušen nebyl. (b) Kdyby výsledek byl drtivý, potenciální vliv izolovaného porušení by zřejmě nedosáhl úrovně neplatnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Hala není hlasovací místnost, zákaz se na ni nevztahuje." Neutralizace: § 32 odst. 2 dopadá na celý objekt, nejen na samotnou místnost.
+- *Protiargument:* kampaň je volná, regulace minimální. Neutralizace: volnost kampaně končí zákazem v den hlasování v objektu místnosti (odst. 2) a povinností rovnosti u vyhrazené plochy (odst. 1).
+- *Slabé místo:* hranice „objektu" (vchod, přilehlé prostory, oplocení) může být sporná a vyžadovat posouzení konkrétní dispozice budovy.
+
+#### H. Praktický závěr
+
+Kampaň je jinak volná, ale v den hlasování je zakázána v celém objektu hlasovací místnosti. Vyhrazenou plochu pro představení otázek lze zřídit (min. 10 dnů předem) při zachování rovnosti. Porušení může vést k neplatnosti, mohlo-li ovlivnit výsledek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] V den hlasování odstranit z objektu místnosti veškerou agitaci (plakáty, letáky, agitátory).
+- [ ] Předseda komise aktivně zjednává pořádek dle § 38.
+- [ ] Vyhrazenou plochu zřídit min. 10 dnů předem a dbát rovnosti (odst. 1).
+- [ ] Porušení dokumentovat pro případný návrh dle § 58.
+
+**Typicky rozhodné důkazy / podklady:** fotodokumentace agitace v objektu, záznam o stížnostech a reakci předsedy, dispozice budovy (co je „objekt"), těsnost výsledku.
 
 ---
 
@@ -1526,6 +2714,42 @@ Lístky jsou vytištěny **jednotně** — stejné písmo, papír, barva, rozmě
 #### Zajištění tisku
 
 Tisk zajišťuje obec / statutární město, jehož zastupitelstvo vyhlásilo referendum. Lístky musí být doručeny okrskovým komisím **před zahájením hlasování** — typicky den předem nebo ráno před otevřením hlasování. Tisk a distribuce jsou součástí nákladů obce (§ 51).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Referendum obsahuje tři otázky. Na hlasovacím lístku jsou otázky uvedeny bez číslování a u jedné z nich chybí rámeček vedle slova „ne". Část voličů proto označila odpověď nejednoznačně. Po referendu je u této otázky podán návrh na neplatnost rozhodnutí. Rozhodné jsou náležitosti lístku při více otázkách.
+
+**2. Právní otázka.** Splňuje hlasovací lístek se třemi otázkami bez číslování a s chybějícím rámečkem náležitosti § 33, a jaké jsou důsledky pro platnost rozhodnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 odst. 1 písm. c)–e) (otázky, „ano/ne" s rámečky; při více otázkách číslování arabskými číslicemi a u každé samostatná dvojice s rámečky), odst. 2 (jednotné provedení, razítko), odst. 3 (zajištění tisku a dodání).
+- *Související ustanovení téhož zákona:* § 8 odst. 3 (binární otázka), § 37 odst. 2 (úprava lístku křížkem), § 41 odst. 7 (neplatnost hlasu), § 58 (neplatnost rozhodnutí).
+- *Související předpisy:* —.
+- *Judikatura:* nosný závěr, že vady formuláře, které znemožňují jednoznačné vyjádření vůle, mohou ovlivnit výsledek a vést k neplatnosti.
+
+**4. Subsumpce.** Při více otázkách musí být každá očíslována a opatřena samostatnou dvojicí „ano/ne" s rámečky (§ 33 odst. 1 písm. e)). Absence číslování a chybějící rámeček u „ne" porušují tyto náležitosti a znemožňují jednoznačné označení → u dotčené otázky mohlo dojít k ovlivnění výsledku.
+
+**5. Řešení.** Lístek nesplňuje § 33 odst. 1 písm. e); u dotčené otázky je dán důvod pro návrh na neplatnost rozhodnutí (§ 58 odst. 1 písm. a)), mohlo-li to ovlivnit výsledek. Ostatní (řádně provedené) otázky tím nemusí být dotčeny, neboť každá se vyhodnocuje samostatně. Procesně: pro futuro zajistit správný formulář; návrh na neplatnost do 10 dnů.
+
+**6. Varianty.** (a) Kdyby lístek byl řádně očíslován a opatřen rámečky u všech odpovědí, vada by neexistovala. (b) Kdyby šlo o jedinou otázku, číslování by se nevyžadovalo (písm. d)).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Voliči pochopili, co mají dělat, formulář je formalita." Neutralizace: chybějící rámeček a číslování objektivně znemožňují jednoznačné označení a „jiná úprava" se nepřihlíží (§ 37 odst. 2).
+- *Protiargument:* vadný lístek zneplatňuje celé referendum. Neutralizace: každá otázka se vyhodnocuje samostatně; dotčena je zpravidla jen vadně provedená otázka.
+- *Slabé místo:* posouzení, zda konkrétní vada formuláře „mohla ovlivnit výsledek", závisí na počtu nejednoznačných lístků a těsnosti výsledku.
+
+#### H. Praktický závěr
+
+Hlasovací lístek musí jednotně obsahovat identifikaci referenda, otázky a binární volbu „ano/ne" s rámečky; při více otázkách s číslováním a samostatnou dvojicí u každé. Vady formuláře mohou u dotčené otázky vést k neplatnosti rozhodnutí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zkontrolovat povinné údaje lístku (identifikace, den, otázky, „ano/ne" s rámečky).
+- [ ] Při více otázkách zajistit číslování a samostatnou dvojici „ano/ne" u každé.
+- [ ] Zajistit jednotné provedení a razítko obce (§ 33 odst. 2).
+- [ ] Dodat lístky všem okrskovým komisím před zahájením hlasování.
+
+**Typicky rozhodné důkazy / podklady:** vzor a skutečné hlasovací lístky, počet nejednoznačně označených lístků, zápisy komisí, výsledek u dotčené otázky.
 
 ---
 
@@ -1579,6 +2803,42 @@ Na viditelném místě v hlasovací místnosti se vyvěšuje **vzorový lístek*
 
 Objekt (typicky budova školy, kulturního domu) musí být **viditelně označen** — typicky tabulí „Hlasovací místnost č. X" u vchodu. Označení usnadňuje orientaci voličů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V hlasovací místnosti je sice schránka a lístky, ale chybí oddělený prostor (zástěna) pro úpravu lístku — komise improvizovala tak, že voliči upravovali lístek u stolu „zády k ostatním". Úřední obálky navíc nejsou neprůhledné (prosvítá přes ně křížek). Po těsném výsledku je namítána neplatnost. Rozhodné je vybavení místnosti a zajištění tajnosti.
+
+**2. Právní otázka.** Je zajištění odděleného prostoru pro úpravu lístku a neprůhledných úředních obálek obligatorní podmínkou tajnosti, jejíž nesplnění může vést k neplatnosti hlasování?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34 odst. 1 (vybavení místnosti), odst. 2 (oddělené prostory zajišťující tajnost), odst. 3 (vzorový lístek), odst. 4 (neprůhledné, jednotné úřední obálky), odst. 5 (označení objektu).
+- *Související ustanovení téhož zákona:* § 3 (zásada tajnosti), § 36 odst. 6 (úprava lístku o samotě), § 37 (způsob hlasování), § 58 odst. 1 písm. a) (neplatnost).
+- *Související předpisy:* čl. 102 odst. 1 Listiny (tajnost volby).
+- *Judikatura:* nosný závěr, že nezajištění tajnosti (chybějící zástěna, průhledné obálky) je porušením, jež může ovlivnit výsledek.
+
+**4. Subsumpce.** Chybějící oddělený prostor (§ 34 odst. 2) a průhledné úřední obálky (§ 34 odst. 4) porušují podmínky tajnosti. „Úprava u stolu zády k ostatním" nenahrazuje oddělený prostor. Znak „mohlo ovlivnit výsledek" je u těsného výsledku reálný (voliči mohli volit jinak, věděli-li, že odpověď je viditelná).
+
+**5. Řešení.** Vybavení místnosti nesplňovalo § 34 odst. 2 a 4; je dán důvod pro návrh na neplatnost hlasování (§ 58 odst. 1 písm. a)) při doložení potenciálního vlivu. Procesně: pro futuro zajistit zástěny a neprůhledné obálky; návrh na neplatnost do 10 dnů od vyhlášení výsledků. Předseda měl při zahájení zkontrolovat vybavení (§ 35).
+
+**6. Varianty.** (a) Kdyby zástěna i neprůhledné obálky byly k dispozici, tajnost by byla zajištěna a vada by neexistovala. (b) Kdyby šlo o drobné poškození obálky bez ztráty neprůhlednosti, platnost by dotčena nebyla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Improvizace u stolu zajišťuje dostatečnou tajnost." Neutralizace: § 34 odst. 2 žádá oddělený prostor; improvizace bez plenty nezajišťuje tajnost objektivně.
+- *Protiargument:* průhlednost obálky je marginální. Neutralizace: § 34 odst. 4 výslovně žádá neprůhlednost; její absence ohrožuje tajnost hlasu.
+- *Slabé místo:* prokázání, že konkrétní voliči byli viditelností odrazeni nebo ovlivněni, je nepřímé; opírá se o uspořádání místnosti a těsnost výsledku.
+
+#### H. Praktický závěr
+
+Místnost musí mít předepsané vybavení, oddělený prostor zajišťující tajnost, neprůhledné jednotné úřední obálky, vyvěšený vzorový lístek a viditelné označení objektu. Nezajištění tajnosti může vést k neplatnosti, mohlo-li ovlivnit výsledek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajistit oddělený prostor (zástěnu) pro úpravu lístku v každé místnosti.
+- [ ] Použít neprůhledné, jednotné úřední obálky s razítkem obce.
+- [ ] Vyvěsit vzorový lístek a viditelně označit objekt.
+- [ ] Před zahájením zkontrolovat vybavení (§ 35).
+
+**Typicky rozhodné důkazy / podklady:** fotodokumentace místnosti (zástěna, obálky), zápis o zahájení a kontrole vybavení, výsledek hlasování (těsnost).
+
 ---
 
 ### § 35 — Zahájení hlasování
@@ -1602,6 +2862,42 @@ Klíčový procesní moment: před zahájením hlasování předseda komise:
 3. **Zapečetí** obě schránky.
 
 Pečetění je akt **konstitutivní** — zaručuje, že do schránek nikdo nevložil hlasy předem. Pokud by později došlo k otevření schránky bez svědků (např. během přerušení hlasování), došlo by k porušení postupu a možnému zpochybnění výsledků.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Předseda okrskové komise v den hlasování spěchal a hlasovací místnost otevřel pro veřejnost, aniž by před ostatními členy zkontroloval a zapečetil schránky; pečetění provedl až po vhození prvních několika obálek. Jeden z členů to zaznamenal. Po těsném výsledku je namítána neplatnost s tím, že integrita schránky nebyla zaručena. Rozhodné je dodržení postupu před zahájením hlasování.
+
+**2. Právní otázka.** Je kontrola prázdnosti a zapečetění schránek před zahájením hlasování (před ostatními členy) podmínkou integrity hlasování, jejíž porušení může vést k neplatnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 odst. 1 (kontrola vybavení, ověření prázdnosti a zapečetění schránek před ostatními členy), odst. 2 (prohlášení hlasování za zahájené).
+- *Související ustanovení téhož zákona:* § 34 (vybavení místnosti), § 39 odst. 2, 3 (pečetění při přerušení a ověření pečetí), § 41 odst. 1 (otevření schránky po hlasování), § 58 odst. 1 písm. a) (neplatnost).
+- *Související předpisy:* —.
+- *Judikatura:* nosný závěr, že porušení postupu zajištění integrity schránky může ovlivnit důvěryhodnost a výsledek hlasování.
+
+**4. Subsumpce.** Hlasování bylo fakticky zahájeno před zapečetěním schránek a bez kontroly před ostatními členy → porušení § 35 odst. 1. Tím není zaručeno, že schránka byla prázdná v okamžiku zahájení; znak „mohlo ovlivnit výsledek" je u těsného výsledku reálný (nelze vyloučit vložení obálek mimo kontrolu).
+
+**5. Řešení.** Postup odporoval § 35 odst. 1; je dán důvod pro návrh na neplatnost hlasování (§ 58 odst. 1 písm. a)), mohlo-li to ovlivnit výsledek. Procesně: zaznamenat pochybení do zápisu; návrh na neplatnost do 10 dnů. Pro futuro zajistit důsledné pořadí úkonů (kontrola → pečetění → zahájení).
+
+**6. Varianty.** (a) Kdyby předseda schránky řádně zkontroloval a zapečetil před ostatními členy a teprve poté zahájil, vada by neexistovala. (b) Kdyby k pochybení došlo při přerušení (§ 39) bez ověření neporušenosti pečetí při opětovném zahájení, šlo by o obdobné porušení integrity.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Schránka byla evidentně prázdná, formální pečetění je zbytečné." Neutralizace: § 35 odst. 1 stanoví závazný postup zajišťující ověřitelnost integrity před ostatními členy; jeho vynechání zpochybňuje výsledek.
+- *Protiargument:* šlo o pár obálek, vliv je nulový. Neutralizace: u těsného výsledku postačí potenciální vliv; integrita schránky je klíčová pro důvěryhodnost.
+- *Slabé místo:* prokázání, že do schránky bylo (ne)vloženo něco navíc, je obtížné; rozhodující je porušení postupu samo.
+
+#### H. Praktický závěr
+
+Před zahájením hlasování předseda zkontroluje vybavení, ověří prázdnost schránek před ostatními členy a zapečetí je; teprve poté prohlásí hlasování za zahájené. Porušení tohoto postupu může vést k neplatnosti, mohlo-li ovlivnit výsledek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Před zahájením zkontrolovat vybavení dle § 34.
+- [ ] Ověřit prázdnost schránek před ostatními členy a zapečetit je.
+- [ ] Teprve poté prohlásit hlasování za zahájené.
+- [ ] Případné odchylky zaznamenat do zápisu (§ 43).
+
+**Typicky rozhodné důkazy / podklady:** zápis o zahájení hlasování, svědectví členů komise o pořadí úkonů, stav pečetí, výsledek hlasování (těsnost).
 
 ---
 
@@ -1663,6 +2959,42 @@ Komise vyšle **2 členy** s přenosnou schránkou, lístkem a obálkou. Hlasov�
 
 Tato možnost je v praxi využívána zejména staršími a nemocnými osobami; v případě referenda s velkou účastí (typicky souběh s volbami) může počet takových výjezdů dosáhnout desítek na velký okrsek.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan M., upoutaný na lůžko, požádá v den hlasování okrskovou komisi o hlasování do přenosné schránky doma. Bydlí však v sousedním okrsku (jeho dům spadá pod jiný okrsek téže obce). Komise zvažuje, zda k němu může vyjet. Současně se k hlasování dostaví volič jen s řidičským průkazem. Rozhodné je územní omezení výjezdu a doklady k prokázání totožnosti.
+
+**2. Právní otázka.** Může okrsková komise vyslat členy s přenosnou schránkou k voliči mimo svůj okrsek, a postačuje k hlasování řidičský průkaz?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36 odst. 1 (osobní hlasování, zákaz zastoupení), odst. 3, 4 (prokázání totožnosti a občanství; jinak neumožnění hlasování), odst. 7 (přenosná schránka jen v územním obvodu daného okrsku).
+- *Související ustanovení téhož zákona:* § 28 (hlasovací okrsky), § 30 (hlasovací průkaz pro jiný okrsek), § 37 (způsob hlasování).
+- *Související předpisy:* zákon č. 328/1999 Sb. (občanské průkazy); zákon č. 326/1999 Sb. (pobyt cizinců, průkaz o povolení k pobytu).
+- *Judikatura:* —(řešeno textem zákona).
+
+**4. Subsumpce.** Přenosná schránka se vysílá jen v územním obvodu daného okrsku (§ 36 odst. 7). Pan M. bydlí v jiném okrsku → „jeho" okrsková komise k němu vyjet nemůže; příslušná je komise okrsku, kde se nachází. Řidičský průkaz neprokazuje totožnost a občanství pro hlasování (§ 36 odst. 3) → bez akceptovatelného dokladu se hlasování neumožní (odst. 4).
+
+**5. Řešení.** Pan M. musí být obsloužen okrskovou komisí toho okrsku, do něhož spadá jeho bydliště; jinou cestou by byl hlasovací průkaz (§ 30), umožní-li hlasovat v jiném okrsku téže obce. Volič s řidičským průkazem musí předložit občanský průkaz nebo cestovní pas; jinak nehlasuje. Procesně: komise eviduje výjezd a zachová tajnost (odst. 7).
+
+**6. Varianty.** (a) Kdyby pan M. bydlel v obvodu téže okrskové komise, dva členové by k němu vyjeli s přenosnou schránkou. (b) Kdyby volič předložil platný cestovní pas, hlasování by mu bylo umožněno.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Komise může vyjet kamkoli v obci." Neutralizace: § 36 odst. 7 omezuje výjezd na územní obvod daného okrsku.
+- *Protiargument:* řidičský průkaz je dostatečný doklad totožnosti. Neutralizace: § 36 odst. 3 vyžaduje občanský průkaz/cestovní pas (u cizince průkaz o povolení k pobytu); řidičský průkaz nestačí.
+- *Slabé místo:* zajištění tajnosti při hlasování do přenosné schránky v domácnosti je organizačně náročné a může být zpochybněno.
+
+#### H. Praktický závěr
+
+Hlasuje se osobně (bez zastoupení) po prokázání totožnosti a občanství stanovenými doklady; jinak se hlasování neumožní. Přenosná schránka se vysílá jen v rámci územního obvodu daného okrsku; osoba s tělesnou vadou může mít v zástěně pomoc jiné oprávněné osoby (ne člena komise).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit totožnost a občanství platným OP/cestovním pasem (u cizince průkazem o povolení k pobytu).
+- [ ] Výjezd s přenosnou schránkou omezit na obvod vlastního okrsku (§ 36 odst. 7).
+- [ ] Při pomoci osobě s tělesnou vadou vyloučit účast člena komise (odst. 6).
+- [ ] Evidovat hlasovací průkazy a vyslání přenosné schránky.
+
+**Typicky rozhodné důkazy / podklady:** doklady totožnosti voličů, výpis ze seznamu (okrsková příslušnost), evidence výjezdů přenosné schránky, případné hlasovací průkazy.
+
 ---
 
 ### § 37 — Způsob hlasování
@@ -1699,6 +3031,42 @@ Oprávněná osoba se může **zdržet** hlasování — tj. odevzdá lístek be
 
 Pokud oprávněná osoba není schopna fyzicky vložit obálku do schránky (typicky tělesná invalidita), může jí pomoci jiná oprávněná osoba — **ne však člen komise** (zachování nestrannosti).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Volička si vzala lístek a obálku, ale lístek upravila přímo u stolu komise (nevstoupila do zástěny) — zakroužkovala slovo „ano" místo křížku v rámečku a dopsala „rozhodně". Komise lístek přijala do schránky. Jiná volička naopak odevzdala lístek bez označení (chtěla se zdržet). Při sčítání vznikne spor o platnost obou hlasů. Rozhodné je dodržení postupu úpravy a způsob označení.
+
+**2. Právní otázka.** Je hlas platný, byl-li lístek upraven mimo zástěnu a označen kroužkem s dopiskem místo křížku, a jak se posuzuje lístek bez označení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 37 odst. 1 (úprava v odděleném prostoru a vložení do obálky), odst. 2 (označení křížkem; k jiné úpravě se nepřihlíží), odst. 3 (zdržení se = bez označení), odst. 4 (vložení obálky před komisí), odst. 5 (neumožnění hlasování bez vstupu do prostoru úpravy).
+- *Související ustanovení téhož zákona:* § 34 odst. 2 (oddělený prostor), § 41 odst. 7 (neplatnost hlasu), § 43 odst. 2 písm. g) (evidence zdrženlivých).
+- *Související předpisy:* —.
+- *Judikatura:* nosný závěr, že k „jiné úpravě" než křížku se nepřihlíží; zdržení se je legitimní a eviduje se.
+
+**4. Subsumpce.** Volička neupravila lístek v odděleném prostoru a označila jej kroužkem s dopiskem → komise neměla umožnit hlasování bez vstupu do prostoru úpravy (§ 37 odst. 5) a označení kroužkem/textem je „jiná úprava", k níž se nepřihlíží (§ 37 odst. 2; srov. § 41 odst. 7 písm. c)). Lístek bez označení druhé voličky je platné zdržení se (§ 37 odst. 3).
+
+**5. Řešení.** Hlas voličky, která neoznačila křížek, je neplatný (jiná úprava). Komise navíc pochybila, že nevyžadovala vstup do zástěny. Lístek bez označení se počítá jako zdržení se a eviduje se zvlášť (§ 43 odst. 2 písm. g)), přičemž se započítává do účasti (kvórum platnosti), ne do hlasů pro variantu. Procesně: rozhodnutí o platnosti učiní komise (§ 18 odst. 1 písm. c)).
+
+**6. Varianty.** (a) Kdyby volička označila „ano" křížkem v rámečku v zástěně, hlas by byl platný. (b) Kdyby do obálky vložila dva lístky, hlas by byl neplatný dle § 41 odst. 7 písm. a).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vůle voličky byla zjevná (ano), hlas je platný." Neutralizace: zákon předepisuje křížek v rámečku; k jiné úpravě se nepřihlíží bez ohledu na zjevnost vůle (§ 37 odst. 2).
+- *Protiargument:* prázdný lístek je neplatný. Neutralizace: § 37 odst. 3 výslovně připouští zdržení se neoznačením; takový lístek je platným projevem (zdržení).
+- *Slabé místo:* hranice mezi „křížkem" a jiným označením může být u nejednoznačných značek sporná a vyžaduje uvážení komise.
+
+#### H. Praktický závěr
+
+Volič musí lístek upravit v odděleném prostoru a označit odpověď křížkem v rámečku; k jiné úpravě se nepřihlíží. Bez vstupu do prostoru úpravy se hlasování neumožní. Neoznačený lístek je platným zdržením se a eviduje se zvlášť.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyžadovat vstup do odděleného prostoru úpravy (jinak neumožnit hlasování).
+- [ ] Akceptovat jen označení křížkem v rámečku; jinou úpravu nezohledňovat.
+- [ ] Neoznačené lístky evidovat jako zdržení se (§ 43 odst. 2 písm. g)).
+- [ ] Sporné případy řešit usnesením komise (§ 18 odst. 1 písm. c)).
+
+**Typicky rozhodné důkazy / podklady:** sporné hlasovací lístky, zápis komise s usneseními o platnosti, evidence zdrženlivých, popis postupu úpravy lístku.
+
 ---
 
 ### § 38 — Pořádek v hlasovací místnosti
@@ -1726,6 +3094,42 @@ Předseda může v krajním případě:
 - přerušit hlasování (§ 39).
 
 V praxi je toto využíváno minimálně — průběh hlasování bývá klidný.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Do hlasovací místnosti opakovaně vstupuje aktivista, hlasitě vyzývá přítomné, „jak mají hlasovat", a fotografuje voliče u zástěny. Předseda jej vyzve, aby přestal a místnost opustil; aktivista odmítne. Předseda jej nechá vyvést a přivolá policii. Aktivista tvrdí, že předseda neměl pravomoc jej vykázat. Rozhodné je postavení předsedy a závaznost jeho pokynů.
+
+**2. Právní otázka.** Má předseda okrskové komise pravomoc vydávat závazné pokyny k pořádku a vykázat osobu narušující průběh hlasování?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 38 ZMR — za pořádek odpovídá předseda; jeho pokyny k zachování pořádku a důstojného průběhu jsou závazné pro všechny přítomné.
+- *Související ustanovení téhož zákona:* § 32 odst. 2 (zákaz kampaně v objektu), § 36 odst. 6 (tajnost úpravy lístku), § 39 (přerušení hlasování), § 58 odst. 1 písm. a) (neplatnost).
+- *Související předpisy:* zákon č. 273/2008 Sb., o Policii ČR (součinnost při narušení pořádku).
+- *Judikatura:* —(pravomoc předsedy plyne přímo z § 38).
+
+**4. Subsumpce.** Narušování průběhu, agitace a fotografování voličů ohrožují pořádek a tajnost → předseda je oprávněn vydat závazný pokyn (§ 38) a osobu odmítající uposlechnout nechat vykázat, případně přivolat policii. Pokyny předsedy jsou závazné pro všechny přítomné, tedy i pro aktivistu.
+
+**5. Řešení.** Předseda jednal v mezích § 38; vykázání i přivolání policie bylo legitimní. Aktivistovo tvrzení o nedostatku pravomoci je nedůvodné. Procesně: incident a opatření zaznamenat do zápisu (§ 43 odst. 2 písm. h)); při pochybnostech o vlivu na výsledek je podkladem pro § 58. Souběžně mohlo dojít k přestupku proti veřejnému pořádku.
+
+**6. Varianty.** (a) Kdyby šlo o pokojného pozorovatele (např. novináře) nerušícího průběh, vykázání by bylo nepřiměřené. (b) Kdyby narušení znemožnilo pokračovat v hlasování, mohl předseda přistoupit k přerušení dle § 39.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Předseda nemá donucovací pravomoc." Neutralizace: § 38 činí jeho pokyny závaznými pro všechny přítomné; k přímému donucení slouží součinnost policie.
+- *Protiargument:* fotografování je svoboda projevu. Neutralizace: pořizování záběrů voličů u zástěny ohrožuje tajnost (§ 36 odst. 6) a pořádek; předseda je oprávněn je zakázat.
+- *Slabé místo:* posouzení přiměřenosti vykázání je hodnotící; nepřiměřený zásah vůči pokojné osobě by mohl být sám vadou.
+
+#### H. Praktický závěr
+
+Za pořádek a důstojný průběh odpovídá předseda; jeho pokyny jsou závazné pro všechny přítomné. Může vykázat osoby narušující průběh, přivolat policii a v krajním případě přerušit hlasování. Opatření je třeba zaznamenat do zápisu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Při narušení vydat jasný pokyn k zachování pořádku (§ 38).
+- [ ] Neuposlechnutí řešit vykázáním, případně součinností policie.
+- [ ] Chránit tajnost (zákaz fotografování u zástěny) a neutralitu prostředí.
+- [ ] Incident a opatření zaznamenat do zápisu (§ 43 odst. 2 písm. h)).
+
+**Typicky rozhodné důkazy / podklady:** zápis komise o incidentu a opatřeních, svědectví členů komise, případný policejní záznam.
 
 ---
 
@@ -1759,6 +3163,42 @@ Změny komise oznámí oprávněným osobám (typicky vyhláškou rozhlasem, vyv
 
 Klíčová zásada: při přerušení se schránky **zapečetí** — tak, aby do nich nikdo nemohl vkládat ani vyjímat obálky. Při opětovném zahájení předseda **před komisí** ověří neporušenost pečetí a sejme je. Tento postup chrání **integritu** výsledku.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Během hlasování vypadne v budově elektřina a začne hořet v sousední místnosti; je nutné budovu evakuovat. Komise hlasování přeruší. Při opětovném zahájení po dvou hodinách předseda zjistí, že pečeť na hlasovací schránce je natržená. Část členů navrhuje prostě pokračovat. Rozhodné je, jak naložit s přerušením a s narušenou pečetí.
+
+**2. Právní otázka.** Jak postupovat při přerušení hlasování z důvodu mimořádné události a jaký důsledek má zjištění porušené pečetě při opětovném zahájení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39 odst. 1 (odložení/přerušení/prodloužení nejvýše o 1 hodinu, vyrozumění osob a místní komise), odst. 2 (úschova dokumentace, zapečetění schránek), odst. 3 (ověření neporušenosti pečetí a jejich sejmutí při opětovném zahájení), odst. 4 (záznam do zápisu).
+- *Související ustanovení téhož zákona:* § 35 (pečetění při zahájení), § 41 (sčítání), § 58 odst. 1 písm. a) (neplatnost).
+- *Související předpisy:* —.
+- *Judikatura:* nosný závěr, že porušení integrity schránky (narušená pečeť) zpochybňuje výsledek a může vést k neplatnosti.
+
+**4. Subsumpce.** Mimořádná událost znemožnila pokračovat → komise oprávněně přerušila hlasování (§ 39 odst. 1) a měla zapečetit schránky (odst. 2). Při opětovném zahájení předseda zjistil narušenou pečeť → integrita schránky není zaručena; pokračovat bez řešení by porušilo § 39 odst. 3 a ohrozilo důvěryhodnost výsledku.
+
+**5. Řešení.** Narušení pečetě je třeba zaznamenat do zápisu (odst. 4) a posoudit dopad na integritu; nelze prostě pokračovat, jako by k ničemu nedošlo. Skutečnost je závažným podkladem pro případný návrh na neplatnost hlasování (§ 58 odst. 1 písm. a)), neboť nelze vyloučit manipulaci. Prodloužení doby hlasování je možné nejvýše o 1 hodinu (odst. 1). Procesně: vyrozumět oprávněné osoby a místní komisi.
+
+**6. Varianty.** (a) Kdyby pečeť byla neporušená, předseda by ji sejmul a v hlasování by se pokračovalo bez následků (odst. 3). (b) Kdyby šlo jen o krátké odložení zahájení bez vložených obálek, riziko narušení integrity by nevzniklo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Natržení pečetě je banální, pokračujme." Neutralizace: § 39 odst. 3 vyžaduje ověření neporušenosti; narušená pečeť zpochybňuje integritu a nelze ji ignorovat.
+- *Protiargument:* prodloužení o více než hodinu vyřeší zdržení. Neutralizace: zákon připouští prodloužení nejvýše o 1 hodinu (odst. 1).
+- *Slabé místo:* posouzení, zda narušení pečetě skutečně umožnilo manipulaci, je nejisté; rozhodující je ohrožení důvěryhodnosti výsledku.
+
+#### H. Praktický závěr
+
+Při mimořádné události lze hlasování odložit, přerušit nebo prodloužit (nejvýše o 1 hodinu) s vyrozuměním osob a místní komise. Při přerušení se schránky zapečetí; při opětovném zahájení se ověří neporušenost pečetí. Narušená pečeť je třeba zaznamenat a může vést k neplatnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Při přerušení uschovat dokumentaci a zapečetit schránky (odst. 2).
+- [ ] Při opětovném zahájení ověřit neporušenost pečetí před komisí (odst. 3).
+- [ ] Prodloužení omezit na nejvýše 1 hodinu a vyrozumět osoby i místní komisi.
+- [ ] Všechny skutečnosti (vč. narušené pečetě) zaznamenat do zápisu (odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** zápis o přerušení a opětovném zahájení, stav pečetí (fotodokumentace), vyrozumění místní komise, záznam o příčině události.
+
 ---
 
 ### § 40 — Ukončení hlasování
@@ -1780,6 +3220,42 @@ V okamžiku uplynutí doby hlasování:
 3. Po proběhnutí hlasování všech těchto osob předseda prohlašuje hlasování za **ukončené**.
 
 Toto pravidlo chrání **právo na účast** osob, které se k hlasování dostavily včas, ale museli čekat ve frontě.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V okamžiku uplynutí doby hlasování (např. 22:00) stojí před hlasovací místností ještě 15 lidí v řadě, dalších několik dorazí na chodník o minutu později. Předseda dveře uzavře, ale chce „pustit" jen ty, kdo už jsou uvnitř, nikoli čekající venku. Někteří čekající si stěžují. Rozhodné je, kdo má při uzavření místnosti ještě právo hlasovat.
+
+**2. Právní otázka.** Mají právo hlasovat osoby, které v okamžiku uplynutí doby hlasování stojí před hlasovací místností (nikoli uvnitř)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 40 ZMR — po uplynutí doby se místnost uzavře, avšak předtím se umožní hlasovat všem, kteří jsou v hlasovací místnosti „nebo před ní"; poté předseda prohlásí hlasování za ukončené.
+- *Související ustanovení téhož zákona:* § 5 odst. 1 (doba hlasování), § 38 (pořádek), § 41 (sčítání po ukončení).
+- *Související předpisy:* —.
+- *Judikatura:* nosný závěr, že právo hlasovat svědčí i osobám čekajícím „před" místností v okamžiku uzávěry; jde o ochranu práva na účast.
+
+**4. Subsumpce.** § 40 výslovně zahrnuje osoby „v hlasovací místnosti nebo před ní" → 15 lidí v řadě před místností v okamžiku uplynutí doby má právo hlasovat. Osoby, které dorazily až po uzávěře (nebyly „před ní" v rozhodný okamžik), právo hlasovat nemají.
+
+**5. Řešení.** Předseda musí umožnit hlasovat všem, kdo v okamžiku uzávěry stáli v řadě před místností (15 osob), nikoli jen těm uvnitř. Odepření hlasování čekajícím by bylo porušením § 40 a mohlo by být důvodem dle § 58. Po odhlasování těchto osob předseda prohlásí hlasování za ukončené. Procesně: vhodné je v okamžiku uzávěry „uzavřít" konec řady (např. zařadit posledního čekajícího).
+
+**6. Varianty.** (a) Kdyby řada byla prázdná a místnost prázdná, předseda hlasování ihned ukončí. (b) Kdyby někdo dorazil až po prohlášení o ukončení, právo hlasovat by neměl.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Po 22:00 už nikdo hlasovat nesmí." Neutralizace: § 40 výslovně chrání čekající „před" místností v okamžiku uzávěry; rozhodný je okamžik uplynutí doby, ne dokončení fronty.
+- *Protiargument:* „Před místností" znamená jen na prahu. Neutralizace: ustanovení chrání právo na účast osob ve frontě; výklad nesmí být formalistický na úkor smyslu.
+- *Slabé místo:* určení, kdo „byl před místností" v rozhodný okamžik, může být sporné; vhodné je řadu v okamžiku uzávěry fyzicky uzavřít.
+
+#### H. Praktický závěr
+
+Po uplynutí doby hlasování se místnost uzavře, ale hlasovat smí všichni, kdo jsou v ní nebo před ní v okamžiku uzávěry. Teprve po jejich odhlasování předseda prohlásí hlasování za ukončené.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] V okamžiku uzávěry fyzicky uzavřít konec řady (poslední čekající).
+- [ ] Umožnit hlasovat všem přítomným v místnosti i před ní.
+- [ ] Po jejich odhlasování prohlásit hlasování za ukončené.
+- [ ] Případné spory o čas příchodu zaznamenat do zápisu.
+
+**Typicky rozhodné důkazy / podklady:** záznam o okamžiku uzávěry a počtu čekajících, zápis o ukončení hlasování, případná svědectví o příchodu osob.
 
 ---
 
@@ -1856,6 +3332,42 @@ Při více otázkách se hlasy pro každou otázku počítají **samostatně** �
 
 Předseda **kontroluje** správnost sčítání — má pravomoc dohlížet, ale nikoli rozhodovat o platnosti hlasů sám. Rozhodnutí o platnosti přijímá **komise hlasováním** (§ 18 odst. 1 písm. c)).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Po ukončení hlasování komise otevře schránku a najde tři problematické případy: (a) v jedné úřední obálce jsou dva hlasovací lístky, oba s křížkem u „ano"; (b) jeden lístek je mimo úřední obálku (volně ve schránce); (c) jeden lístek je řádný, ale pomačkaný a s drobnou skvrnou. Komise váhá, jak je posoudit. Rozhodné je rozlišení neplatného lístku a neplatného hlasu.
+
+**2. Právní otázka.** Jak posoudit platnost (i) dvou lístků v jedné obálce, (ii) lístku mimo úřední obálku a (iii) pomačkaného lístku s drobnou vadou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 41 odst. 3 (vyloučení neúředních obálek, porovnání počtů), odst. 5 (neplatný lístek — není-li dodán obcí nebo není v úřední obálce), odst. 6 (drobné poškození bez vlivu, jsou-li patrny údaje), odst. 7 (neplatný hlas — více lístků v obálce, „ano" i „ne" zároveň, jiná úprava), odst. 8, 9 (potvrzení platnosti, oddělené sčítání).
+- *Související ustanovení téhož zákona:* § 18 odst. 1 písm. c) (rozhodnutí o platnosti komisí), § 37 odst. 2 (způsob označení).
+- *Související předpisy:* —.
+- *Judikatura:* nosný závěr, že drobné poškození nemá vliv, jsou-li patrny potřebné údaje; více lístků v obálce zneplatňuje hlas.
+
+**4. Subsumpce.** (a) Dva lístky v jedné obálce → neplatný hlas dle § 41 odst. 7 písm. a) (nelze určit, zda jde o jeden či dva projevy). (b) Lístek mimo úřední obálku → neplatný lístek dle § 41 odst. 5 písm. b). (c) Pomačkaný lístek s drobnou skvrnou, z něhož jsou patrny údaje → platný dle § 41 odst. 6.
+
+**5. Řešení.** Komise hlasováním (§ 18 odst. 1 písm. c)) vyloučí neplatný hlas (a) a neplatný lístek (b) a započítá platný lístek (c). Výsledky sčítá odděleně (ano/ne/zdržení) a zaznamená do zápisu (§ 43). Procesně: porovnat počet úředních obálek s počtem hlasujících (§ 41 odst. 3) a zapečetit lístky po sečtení.
+
+**6. Varianty.** (a) Kdyby v obálce byly dva lístky, jeden „ano" a druhý „ne", šlo by stejně o neplatný hlas (více lístků). (b) Kdyby byl lístek označen kroužkem místo křížku, šlo by o neplatný hlas dle § 41 odst. 7 písm. c).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Dva shodné lístky vyjadřují tutéž vůli, hlas je platný." Neutralizace: § 41 odst. 7 písm. a) zneplatňuje hlas při více lístcích bez ohledu na shodu jejich obsahu.
+- *Protiargument:* pomačkaný lístek je neplatný. Neutralizace: § 41 odst. 6 výslovně stanoví, že drobné poškození nevadí, jsou-li patrny potřebné údaje.
+- *Slabé místo:* rozlišení „neplatný lístek" vs. „neplatný hlas" je technicky náročné; chybné posouzení může u těsného výsledku rozhodovat.
+
+#### H. Praktický závěr
+
+Komise rozlišuje neplatný lístek (nedodaný obcí nebo mimo úřední obálku) od neplatného hlasu (více lístků v obálce, „ano" i „ne" zároveň, jiná úprava). Drobné poškození nevadí. Hlasy se sčítají odděleně (ano/ne/zdržení), u více otázek samostatně; o platnosti rozhoduje komise.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyloučit neúřední obálky a porovnat počet úředních obálek s počtem hlasujících.
+- [ ] Posoudit neplatné lístky (§ 41 odst. 5) a neplatné hlasy (§ 41 odst. 7) odděleně.
+- [ ] Drobně poškozené lístky uznat, jsou-li patrny údaje (odst. 6).
+- [ ] Sčítat odděleně ano/ne/zdržení (u více otázek samostatně) a zapečetit lístky.
+
+**Typicky rozhodné důkazy / podklady:** sporné lístky a obálky, zápis komise s usneseními o platnosti, porovnání počtů obálek a hlasujících.
+
 ---
 
 ### § 42 — Přítomnost osob při sčítání
@@ -1880,6 +3392,42 @@ Tyto osoby jsou vázány **zákazem poskytování informací** (§ 26).
 #### Veřejnost a média
 
 Pro veřejnost a média místnost při sčítání **uzavřena**. Toto je v kontrastu s některými volebními zákony (např. parlamentní volby), kde jsou pověření zástupci stran přítomni. ZMR žádné takové pozorovatele nezná — kritika v doktríně poukazuje na to, že by mohli zástupci přípravného výboru být přítomni při sčítání jako kontrola; současný text to však neumožňuje (přípravný výbor má jen svého člena/y v komisi).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při sčítání hlasů chce být v místnosti přítomen zmocněnec přípravného výboru (který není členem komise) a novinář, „aby pohlídali férovost". Předseda je odmítne vpustit. Zmocněnec tvrdí, že jako iniciátor referenda má právo dohledu. Rozhodné je, kdo smí být přítomen při sčítání.
+
+**2. Právní otázka.** Má zmocněnec přípravného výboru nebo novinář právo být přítomen v místnosti, kde komise sčítá hlasy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 42 ZMR — při sčítání mají právo být přítomni jen členové komise vyššího stupně a osoby pověřené starostou/primátorem, které zpracovávají výsledky.
+- *Související ustanovení téhož zákona:* § 26 (zákaz poskytování informací), § 9 odst. 2 písm. b) (delegace člena do komise), § 41 (sčítání).
+- *Související předpisy:* —(ZMR upravuje okruh přítomných taxativně).
+- *Judikatura:* —(text zákona je jednoznačný; kontrola výboru se realizuje členstvím v komisi).
+
+**4. Subsumpce.** Zmocněnec, který není členem komise, ani novinář nespadají do okruhu osob dle § 42 (členové vyšší komise; osoby pověřené starostou). Jejich přítomnost při sčítání tedy zákon neumožňuje. Kontrolu za výbor zajišťuje jeho delegovaný člen v komisi (§ 9 odst. 2 písm. b), § 21).
+
+**5. Řešení.** Předseda postupoval správně — zmocněnce (nečlena) ani novináře nelze ke sčítání připustit. Dohled výboru se realizuje prostřednictvím jeho člena v komisi, který je přímým účastníkem sčítání. Procesně: případné výhrady k regulérnosti sčítání uplatní výbor návrhem dle § 58. Osoby přítomné dle § 42 jsou vázány zákazem informací (§ 26).
+
+**6. Varianty.** (a) Kdyby zmocněnec byl zároveň delegovaným členem komise, byl by přítomen z titulu členství. (b) Kdyby šlo o pracovníka úřadu pověřeného starostou ke zpracování výsledků, byl by oprávněně přítomen (vázán § 26).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Iniciátor má právo dohlížet na sčítání osobně." Neutralizace: § 42 vymezuje okruh přítomných taxativně; dohled výboru se uskutečňuje členstvím v komisi, ne osobní přítomností zmocněnce.
+- *Protiargument:* veřejná kontrola vyžaduje přístup médií. Neutralizace: ZMR sčítání nezpřístupňuje veřejnosti ani médiím; ochrana objektivity sčítání má přednost.
+- *Slabé místo:* absence „pozorovatelů" výboru je doktrínou kritizována jako deficit kontroly; de lege lata však přítomnost nečlenů není možná.
+
+#### H. Praktický závěr
+
+Při sčítání smí být přítomni jen členové komise vyššího stupně a osoby pověřené starostou/primátorem zpracováním výsledků; všichni jsou vázáni zákazem informací (§ 26). Veřejnost, média ani zmocněnec-nečlen přístup nemají; kontrola výboru se realizuje jeho členem v komisi.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ke sčítání připustit jen osoby dle § 42 (členové vyšší komise; pověření pracovníci).
+- [ ] Zajistit, aby výbor měl svého delegovaného člena v komisi (kontrola zevnitř).
+- [ ] Všechny přítomné poučit o zákazu informací (§ 26).
+- [ ] Výhrady k regulérnosti řešit cestou § 58, ne vpuštěním nečlenů.
+
+**Typicky rozhodné důkazy / podklady:** seznam přítomných při sčítání, doklad o pověření pracovníků starostou, seznam delegovaných členů komise.
 
 ---
 
@@ -1933,6 +3481,42 @@ Zápis podepisují **všichni** členové komise. Pokud některý člen odepře 
 
 Po sečtení a podepsání předseda (nebo pověřený člen) doručí **1 stejnopis** zápisu místní komisi a vyčká pokynu místní komise k ukončení zasedání. Druhý stejnopis zůstává u okrskové komise / obecního úřadu (archivace podle § 18 odst. 1 písm. e)).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Okrsková komise dokončila sčítání; jeden člen však odmítá podepsat zápis, protože nesouhlasí s tím, jak komise posoudila několik sporných lístků. Předseda chce zápis odeslat místní komisi i bez jeho podpisu. Člen tvrdí, že bez jeho podpisu je zápis neplatný. Rozhodné je, jak naložit s odepřením podpisu.
+
+**2. Právní otázka.** Je zápis okrskové komise neplatný, odepře-li jeden člen podpis, a jak se má jeho nesouhlas promítnout?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 43 odst. 1 (zápis ve 2 stejnopisech, podpis členů; při odepření podpisu se důvody uvedou v samostatné příloze), odst. 2 (povinný obsah zápisu), odst. 3 (předání 1 stejnopisu místní komisi).
+- *Související ustanovení téhož zákona:* § 18 odst. 1 písm. c), d) (rozhodnutí o platnosti, sepsání zápisu), § 24 odst. 4 (usnesení většinou), § 44 (zápis místní komise).
+- *Související předpisy:* —.
+- *Judikatura:* nosný závěr, že odepření podpisu jednoho člena nezpůsobuje neplatnost zápisu, je-li důvod uveden v příloze.
+
+**4. Subsumpce.** Člen odepřel podpis → dle § 43 odst. 1 se důvody uvedou v samostatné příloze; zápis tím neztrácí platnost. Rozhodnutí o sporných lístcích bylo přijato komisí (§ 18 odst. 1 písm. c), § 24 odst. 4) a odlišný názor člena se promítne do přílohy, nikoli do (ne)platnosti zápisu.
+
+**5. Řešení.** Předseda zajistí, aby důvody odepření podpisu byly zaznamenány v samostatné příloze, a zápis (s přílohou) předá místní komisi (§ 43 odst. 3). Zápis je platný i bez podpisu nesouhlasícího člena. Procesně: nesouhlas může být podkladem pro pozdější přezkum (§ 58), prokáže-li se vliv na výsledek.
+
+**6. Varianty.** (a) Kdyby podpis odepřela většina členů, šlo by o jiný problém (zpochybnění výsledku sčítání), nikoli o pouhou přílohu. (b) Kdyby člen podepsal, ale s výhradou, výhrada by se rovněž zaznamenala.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez podpisu všech členů je zápis neplatný." Neutralizace: § 43 odst. 1 výslovně řeší odepření podpisu přílohou s důvody; platnost zápisu zůstává.
+- *Protiargument:* nesouhlas člena ruší rozhodnutí o sporných lístcích. Neutralizace: o platnosti lístků rozhoduje komise většinou (§ 24 odst. 4); jednotlivý nesouhlas se promítá jen do přílohy.
+- *Slabé místo:* obsah přílohy (důvody odepření) může otevřít cestu k pozdějšímu přezkumu, je-li v ní tvrzeno pochybení s vlivem na výsledek.
+
+#### H. Praktický závěr
+
+Zápis okrskové komise se vyhotoví ve 2 stejnopisech s povinným obsahem a podpisy členů; odepření podpisu se řeší samostatnou přílohou s důvody a nezpůsobuje neplatnost zápisu. Jeden stejnopis se předá místní komisi.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajistit povinný obsah zápisu dle § 43 odst. 2 (časy, počty, hlasy, stížnosti, neúčasti).
+- [ ] Při odepření podpisu pořídit samostatnou přílohu s důvody.
+- [ ] Předat 1 stejnopis (vč. příloh) místní komisi a vyčkat pokynu k ukončení.
+- [ ] Druhý stejnopis archivovat u obecního úřadu (§ 18 odst. 1 písm. e)).
+
+**Typicky rozhodné důkazy / podklady:** zápis okrskové komise se všemi náležitostmi, příloha s důvody odepření podpisu, doklad o předání místní komisi.
+
 ---
 
 ### § 44 — Zápis místní komise
@@ -1975,6 +3559,42 @@ Místní komise **přezkoumává** zápisy okrskových komisí a vytváří **su
 
 V případě statutárního města se zápis předává **městské komisi**, která dále sumarizuje za celé město.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Místní komise sumarizuje zápisy tří okrskových komisí. Při kontrole zjistí, že v jednom okrsku součet platných hlasů „ano" a „ne" plus zdrželi se neodpovídá počtu odevzdaných úředních obálek (rozdíl o 4). Komise váhá, zda má okrskový výsledek opravit, vrátit, nebo jen zaznamenat. Rozhodné je oprávnění místní komise při přezkumu zápisů okrskových komisí.
+
+**2. Právní otázka.** Co může místní komise učinit, zjistí-li při přezkumu zápisů okrskových komisí početní nesoulad ve výsledku okrsku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 44 odst. 1 (přezkoumání zápisů okrskových komisí a zjištění celkového výsledku v obci), odst. 2 (zápis ve 2 stejnopisech, podpisy, příloha při odepření), odst. 3 (povinný obsah), odst. 4 (předání městské komisi ve statutárním městě).
+- *Související ustanovení téhož zákona:* § 18 odst. 1 písm. c) (konečnost rozhodnutí okrskové komise o platnosti hlasu), § 19 odst. 1 písm. c), d) (sčítání a stížnosti), § 43 (zápis okrskové komise).
+- *Související předpisy:* —.
+- *Judikatura:* nosný závěr, že místní komise koriguje zjevné chyby sumarizace, nikoli konečná rozhodnutí okrskové komise o platnosti jednotlivých hlasů.
+
+**4. Subsumpce.** Početní nesoulad je vadou zápisu okrskové komise, kterou místní komise v rámci přezkumu (§ 44 odst. 1) prověří. Místní komise může napravit zjevnou chybu v součtech (sumarizaci), nemůže však nahradit konečné rozhodnutí okrskové komise o platnosti jednotlivých hlasů (§ 18 odst. 1 písm. c)).
+
+**5. Řešení.** Místní komise zjistí příčinu nesouladu (přepočet podle zápisu okrskové komise), opraví zjevnou chybu v součtu a okolnost zaznamená; nelze-li nesoulad odstranit z podkladů, zaznamená jej a zjistí celkový výsledek na podkladě dostupných údajů. Závažný nesoulad je podkladem pro případný přezkum (§ 58). Procesně: vyhotovit zápis dle § 44 odst. 2, 3; ve statutárním městě předat městské komisi.
+
+**6. Varianty.** (a) Kdyby šlo o pouhou písařskou chybu v součtu při správných dílčích číslech, místní komise ji opraví bez dalšího. (b) Kdyby nesoulad ukazoval na chybu v posouzení platnosti hlasů, místní komise to nemůže sama přehodnotit (konečnost dle § 18 odst. 1 písm. c)); zůstává cesta § 58.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Místní komise může okrskový výsledek libovolně přepočítat a změnit." Neutralizace: koriguje jen zjevné chyby sumarizace; o platnosti hlasů rozhodla okrsková komise s konečnou platností.
+- *Protiargument:* nesoulad automaticky zneplatňuje okrsek. Neutralizace: drobný početní nesoulad se primárně napravuje/zaznamenává; neplatnost řeší až soud při vlivu na výsledek.
+- *Slabé místo:* bez přístupu k jednotlivým lístkům (které jsou zapečetěny) může být příčina nesouladu obtížně dohledatelná.
+
+#### H. Praktický závěr
+
+Místní komise přezkoumá zápisy okrskových komisí, zjistí celkový výsledek v obci a vyhotoví sumární zápis; koriguje zjevné chyby sumarizace, ne konečná rozhodnutí o platnosti hlasů. Ve statutárním městě předá zápis městské komisi.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Přezkoumat početní správnost zápisů okrskových komisí.
+- [ ] Opravit zjevné chyby sumarizace; nezasahovat do rozhodnutí o platnosti hlasů.
+- [ ] Vyhotovit sumární zápis s povinným obsahem (§ 44 odst. 3).
+- [ ] Ve statutárním městě předat zápis městské komisi (odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** zápisy okrskových komisí, sumární zápis místní komise, záznam o zjištěném nesouladu a jeho řešení.
+
 ---
 
 ### § 45 — Zápis městské komise
@@ -1992,6 +3612,42 @@ V případě statutárního města se zápis předává **městské komisi**, kt
 **Výklad:**
 
 Městská komise je vrcholný orgán organizace referenda ve statutárním městě. Jejím úkolem je sumarizovat zápisy místních komisí a zjistit celkové výsledky za celé statutární město. Analogická pravidla jako u místní komise.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Ve statutárním městě (na celém území) sumarizuje městská komise zápisy 12 místních komisí jednotlivých MČ. U jedné MČ zápis nedorazil včas (předseda místní komise jej zaslal opožděně), takže městská komise zvažuje, zda zjistit celkový výsledek bez této MČ. Rozhodné je, jak má městská komise postupovat při zjišťování celkového výsledku za město.
+
+**2. Právní otázka.** Může městská komise zjistit a vyhlásit celkový výsledek za statutární město bez zápisu jedné místní komise?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45 odst. 1 (přezkoumání zápisů místních komisí a zjištění celkového výsledku ve statutárním městě), odst. 2 (zápis, podpisy, příloha), odst. 3 (obsah analogický § 44 odst. 3).
+- *Související ustanovení téhož zákona:* § 44 odst. 4 (předání zápisu místní komise městské komisi), § 20 odst. 1 písm. c), d) (sčítání a stížnosti), § 46 odst. 2 (vyhlášení výsledků za město).
+- *Související předpisy:* —.
+- *Judikatura:* nosný závěr, že celkový výsledek musí vycházet z úplných podkladů; chybějící dílčí zápis je třeba vyžádat, nikoli pominout.
+
+**4. Subsumpce.** Městská komise zjišťuje celkový výsledek „na podkladě zápisů místních komisí" (§ 45 odst. 1) → potřebuje zápisy všech místních komisí. Chybějící zápis jedné MČ znamená neúplný podklad; zjistit celkový výsledek bez něj by zkreslilo výsledek za město.
+
+**5. Řešení.** Městská komise si vyžádá opožděný zápis dotčené místní komise a teprve s úplnými podklady zjistí celkový výsledek; nesmí celkový výsledek stanovit bez chybějící MČ. Okolnost (opoždění) zaznamená. Procesně: po zjištění výsledku vyhotoví zápis (§ 45 odst. 2, 3) a vyhlásí výsledky na úřední desce magistrátu (§ 46 odst. 2).
+
+**6. Varianty.** (a) Kdyby se referendum konalo jen v jedné MČ, městská komise by konsolidovala jediný zápis místní komise. (b) Kdyby místní komise zápis vůbec nedodala (např. pro spor), bylo by třeba situaci řešit v součinnosti se starostou MČ a případně dokumentovat pro přezkum.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Jedna MČ výsledek za město nezmění, lze ji pominout." Neutralizace: § 45 odst. 1 žádá zjištění výsledku na podkladě zápisů místních komisí; vynechání MČ zkresluje celkový výsledek a kvórum.
+- *Protiargument:* opoždění zápisu je důvodem k jeho nezohlednění. Neutralizace: zápis je třeba vyžádat; cílem je úplnost, ne sankce za opoždění.
+- *Slabé místo:* prodlení s dodáním zápisu může ohrozit lhůty pro vyhlášení výsledků a navazující úkony.
+
+#### H. Praktický závěr
+
+Městská komise zjišťuje celkový výsledek za statutární město na podkladě (úplných) zápisů místních komisí, vyhotoví zápis a vyhlásí výsledky na úřední desce magistrátu. Chybějící dílčí zápis je třeba vyžádat, ne pominout.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Shromáždit zápisy všech místních komisí, které se na referendu podílely.
+- [ ] Při chybějícím zápisu jej vyžádat před zjištěním celkového výsledku.
+- [ ] Vyhotovit zápis městské komise s povinným obsahem (§ 45 odst. 3).
+- [ ] Vyhlásit výsledky na úřední desce magistrátu (§ 46 odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** zápisy místních komisí, sumární zápis městské komise, doklady o (opožděném) dodání zápisů.
 
 ---
 
@@ -2023,6 +3679,42 @@ Městská komise je vrcholný orgán organizace referenda ve statutárním měst
 #### Závaznost a vykonatelnost
 
 Po vyhlášení výsledků nastává **závaznost** rozhodnutí (pokud byly splněny obě kvórum) — § 49. Orgány obce jsou povinny realizovat výsledek bez zbytečného odkladu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Místní komise vyhotovila zápis o výsledku 1. června v 18:00, ale výsledky vyvěsila na úřední desce až 5. června. Oprávněná osoba, která chtěla podat návrh na neplatnost rozhodnutí, počítá 10denní lhůtu od 1. června a obává se jejího zmeškání. Rozhodné je, který den je „dnem vyhlášení výsledků" a od kdy běží navazující lhůty.
+
+**2. Právní otázka.** Který okamžik je dnem vyhlášení výsledků hlasování a od kterého dne běží lhůta pro návrh na neplatnost (§ 58)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 46 odst. 1, 2 (vyhlášení výsledků zveřejněním na úřední desce neprodleně po vyhotovení zápisu, po dobu 15 dnů), odst. 3 (dnem vyhlášení je první den vyvěšení).
+- *Související ustanovení téhož zákona:* § 25 (ukončení činnosti komise), § 47 (oznámení MV do 5 dnů), § 49 (závaznost), § 58 odst. 2 (10denní lhůta), § 53 (počítání lhůt).
+- *Související předpisy:* —.
+- *Judikatura:* nosný závěr, že rozhodující pro běh lhůt je první den vyvěšení výsledků, nikoli den vyhotovení zápisu.
+
+**4. Subsumpce.** Dnem vyhlášení výsledků je první den vyvěšení na úřední desce (§ 46 odst. 3) = 5. června, nikoli den vyhotovení zápisu (1. června). Lhůty (vč. 10denní dle § 58 odst. 2) se počítají od 5. června. Pozdní vyvěšení (4 dny po vyhotovení) může být v rozporu s požadavkem „neprodleně", ale počátek lhůt je vázán na vyvěšení.
+
+**5. Řešení.** Oprávněná osoba počítá 10denní lhůtu k návrhu na neplatnost od 5. června (prvního dne vyvěšení), nikoli od 1. června → obava ze zmeškání je neopodstatněná. Procesně: doložit první den vyvěšení; návrh podat do 10 dnů od něj. Opožděné vyvěšení samo o sobě může být dílčí vadou, ale neposouvá počátek lhůt k tíži navrhovatele.
+
+**6. Varianty.** (a) Kdyby výsledky byly vyvěšeny týž den jako vyhotovení zápisu, počátek lhůt by se kryl s tímto dnem. (b) Ve statutárním městě je dnem vyhlášení první den vyvěšení na desce magistrátu (§ 46 odst. 2, 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Lhůty běží od vyhotovení zápisu." Neutralizace: § 46 odst. 3 jednoznačně váže den vyhlášení na první den vyvěšení na úřední desce.
+- *Protiargument:* opožděné vyvěšení zkracuje práva. Neutralizace: počátek lhůt se posouvá až na vyvěšení; navrhovatel tím není zkrácen, naopak má plnou lhůtu od vyvěšení.
+- *Slabé místo:* prokázání přesného prvního dne vyvěšení vyžaduje doklad o úřední desce (datum vyvěšení/sejmutí).
+
+#### H. Praktický závěr
+
+Výsledky se vyhlašují zveřejněním na úřední desce neprodleně po vyhotovení zápisu, po dobu 15 dnů; dnem vyhlášení je první den vyvěšení. Od něj běží navazující lhůty (10 dnů pro § 58, 5 dnů pro § 47, 15 dnů pro § 25) a nastává závaznost (§ 49).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyvěsit výsledky neprodleně po vyhotovení zápisu a na dobu 15 dnů.
+- [ ] Za den vyhlášení považovat první den vyvěšení (§ 46 odst. 3).
+- [ ] Od tohoto dne počítat lhůty dle § 58 (10 dnů), § 47 (5 dnů), § 25 (15 dnů).
+- [ ] Doložit datum vyvěšení (úřední deska) pro účely lhůt.
+
+**Typicky rozhodné důkazy / podklady:** doklad o prvním dni vyvěšení výsledků na úřední desce, zápis komise s datem vyhotovení, evidence úřední desky.
 
 ---
 
@@ -2063,6 +3755,42 @@ Pokud rozhodnutí referenda **nelze provést pro rozpor s právním předpisem**
 - Pokud rozhodnutí, které vypadalo přípustným, fakticky vyžaduje porušení předpisu.
 
 Oznámení o nemožnosti **nezbavuje obec** povinnosti hledat alternativy a postupovat tak, jak nejlépe může v intencích výsledku. Pokud by obec jednoduše prohlásila „nelze" a nic neudělala, mohlo by to být důvodem pro soudní přezkum.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V platném a závazném referendu občané rozhodli „ano" pro určitou změnu. Starosta výsledek MV neoznámil ve lhůtě 5 dnů a o provedení rozhodnutí ministerstvo neinformoval ani později. Po půl roce zastupitelstvo dospěje k závěru, že rozhodnutí nelze provést pro rozpor s nově přijatým zákonem. Rozhodné jsou oznamovací lhůty vůči MV a důsledky jejich nesplnění.
+
+**2. Právní otázka.** Jaké oznamovací povinnosti vůči Ministerstvu vnitra má starosta v souvislosti s referendem a v jakých lhůtách, a co plyne z jejich nesplnění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 47 odst. 1 (oznámení vyhlášení referenda, výsledku a provedení rozhodnutí MV do 5 dnů od dané skutečnosti; u MČ Prahy Magistrátu), odst. 2 (oznámení nemožnosti provést rozhodnutí pro rozpor s předpisem do 30 dnů od vyhlášení výsledků).
+- *Související ustanovení téhož zákona:* § 46 (vyhlášení výsledků), § 49 (závaznost a její vynucení), § 50 (samostatná působnost).
+- *Související předpisy:* § 7 písm. d) (rozpor s předpisy jako mez přípustnosti); § 89 zákona č. 128/2000 Sb. (dozor a rozpuštění zastupitelstva).
+- *Judikatura:* nosný závěr, že oznámení nemožnosti nezbavuje obec povinnosti hledat alternativy v intencích výsledku.
+
+**4. Subsumpce.** Starosta měl do 5 dnů oznámit MV vyhlášení referenda, výsledek i provedení rozhodnutí (§ 47 odst. 1) → nesplnění lhůt je porušením oznamovací povinnosti. Tvrzení o nemožnosti provést rozhodnutí pro rozpor s novým zákonem spadá pod § 47 odst. 2 a mělo být oznámeno do 30 dnů od vyhlášení výsledků.
+
+**5. Řešení.** Starosta dodatečně splní oznamovací povinnosti vůči MV; nesplnění lhůt samo o sobě neruší závaznost rozhodnutí, ale je pochybením v samostatné působnosti. „Nemožnost provést" musí být skutečná (rozpor s předpisem) a obec je povinna hledat alternativní realizaci v intencích výsledku; pouhé prohlášení „nelze" bez snahy o naplnění výsledku může vést k dozoru/rozpuštění dle § 89 ZoO. Procesně: oznámení MV, doložení rozporu s předpisem, hledání alternativ.
+
+**6. Varianty.** (a) Kdyby rozhodnutí bylo proveditelné, starosta jen oznámí jeho provedení do 5 dnů (odst. 1). (b) Kdyby rozpor s předpisem byl jen domnělý a obec nic nečinila, hrozí vynucení závaznosti dle § 49 a § 89 ZoO.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nesplnění oznámení ruší závaznost referenda." Neutralizace: oznamovací povinnost je evidenční; její porušení nemění závaznost výsledku dle § 49, jde však o pochybení obce.
+- *Protiargument:* „Nelze provést" stačí konstatovat. Neutralizace: obec musí rozpor s předpisem doložit a hledat alternativy; jinak hrozí dozorová opatření.
+- *Slabé místo:* posouzení, zda jde o skutečnou nemožnost (rozpor s předpisem), nebo o vyhýbání se realizaci, je hodnotící a může vést k přezkumu.
+
+#### H. Praktický závěr
+
+Starosta/primátor oznamuje MV (u MČ Prahy Magistrátu) vyhlášení referenda, výsledek a provedení rozhodnutí do 5 dnů; nemožnost provést rozhodnutí pro rozpor s předpisem do 30 dnů od vyhlášení výsledků. Oznámení nezbavuje obec povinnosti realizovat výsledek v mezích zákona.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Oznámit MV vyhlášení referenda, výsledek a provedení rozhodnutí do 5 dnů od dané skutečnosti.
+- [ ] U MČ hl. m. Prahy směřovat oznámení Magistrátu.
+- [ ] Případnou nemožnost provedení (rozpor s předpisem) oznámit do 30 dnů a doložit ji.
+- [ ] I při „nemožnosti" hledat alternativy v intencích výsledku (§ 49).
+
+**Typicky rozhodné důkazy / podklady:** doklady o oznámeních MV (datum), zápis o výsledku referenda, právní rozbor případného rozporu s předpisem, doklady o krocích k realizaci.
 
 ---
 
@@ -2134,6 +3862,42 @@ Pro **referendum o oddělení/sloučení/připojení obce** platí **přísněj�
 
 Důvod přísnosti: územní změny obce jsou zásadní zásah do existence komunální jednotky — vyžadují **silnou** demokratickou legitimitu. V praxi je tato podmínka obtížně splnitelná a referenda o oddělení/sloučení obcí jsou poměrně vzácná.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec má 10 000 oprávněných osob. Referenda se zúčastnilo 4 000 (40 %). Pro „ano" hlasovalo 2 200, pro „ne" 1 700, zdrželo se 100. Iniciátoři slaví, že „ano" jasně vyhrálo a je pro obec závazné. Starosta naopak tvrdí, že rozhodnutí závazné není. Rozhodné je dvojí kvórum platnosti a závaznosti.
+
+**2. Právní otázka.** Je rozhodnutí „ano" při účasti 40 % a 2 200 hlasech „ano" z 10 000 oprávněných platné a závazné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 48 odst. 1 (platnost = účast alespoň 35 % oprávněných), odst. 2 (závaznost = nadpoloviční většina zúčastněných a zároveň alespoň 25 % oprávněných), odst. 3 (kvalifikovaná většina u územních změn).
+- *Související ustanovení téhož zákona:* § 49 (závaznost pro orgány), § 7 písm. h) (24měsíční překážka u platného rozhodnutí), § 41, § 43–§ 45 (zjišťování výsledků).
+- *Související předpisy:* § 21 zákona č. 128/2000 Sb. (oddělení části obce) ve vazbě na § 48 odst. 3.
+- *Judikatura:* nosný závěr, že obě kvóra (platnost i závaznost) musí být splněna kumulativně; historicky snížení kvóra účasti z 50 % na 35 % (novela č. 38/2012 Sb.).
+
+**4. Subsumpce.** Účast 40 % > 35 % → kvórum platnosti splněno (odst. 1). Závaznost (odst. 2): „ano" má 2 200 z 4 000 zúčastněných = >50 % (splněno), ale 2 200 z 10 000 oprávněných = 22 % < 25 % (nesplněno). Obě podmínky závaznosti musí být splněny kumulativně → závaznost není dána.
+
+**5. Řešení.** Referendum je platné, ale nezávazné; rozhodnutí „ano" nebylo přijato a orgány obce jím nejsou vázány (§ 48 odst. 2, § 49 a contrario). Starosta má pravdu. Současně, protože referendum bylo platné, uplatní se 24měsíční překážka dle § 7 písm. h) pro nové referendum v téže věci (pozn.: u nezávazného, leč platného výsledku je výklad sporný; rozhodující je „platné rozhodnutí"). Procesně: výsledek se vyhlásí, ale realizace nenastává.
+
+**6. Varianty.** (a) Kdyby „ano" mělo 2 600 hlasů (26 % oprávněných), byla by splněna obě kvóra a rozhodnutí by bylo závazné. (b) Kdyby šlo o referendum o oddělení části obce, vyžadovala by se nadpoloviční většina všech oprávněných v dotčené části (odst. 3) — výrazně přísnější.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ano jasně vyhrálo, tedy je závazné." Neutralizace: závaznost dle § 48 odst. 2 vyžaduje i 25 % všech oprávněných pro vítěznou variantu; pouhá většina zúčastněných nestačí.
+- *Protiargument:* kvórum 25 % je nedemokratické. Neutralizace: jde o pojistku proti rozhodování úzké menšiny; je výsledkem politického kompromisu (novela č. 38/2012 Sb.).
+- *Slabé místo:* u územních změn (odst. 3) je práh nadpoloviční většiny všech oprávněných v praxi téměř nedosažitelný, což činí tato referenda vzácnými.
+
+#### H. Praktický závěr
+
+Rozhodnutí je platné při účasti ≥ 35 % oprávněných a závazné jen tehdy, hlasovala-li pro ně nadpoloviční většina zúčastněných a zároveň ≥ 25 % všech oprávněných. U územních změn se vyžaduje nadpoloviční většina všech oprávněných v dotčené části/obci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit účast (≥ 35 % oprávněných) pro platnost.
+- [ ] Pro závaznost ověřit obě podmínky: >50 % zúčastněných a ≥ 25 % všech oprávněných.
+- [ ] U územních změn použít přísnější kvórum dle § 48 odst. 3.
+- [ ] Při platném (i nezávazném) výsledku zohlednit 24měsíční překážku (§ 7 písm. h)).
+
+**Typicky rozhodné důkazy / podklady:** počet oprávněných osob v seznamech, počet zúčastněných, počty hlasů „ano"/„ne"/zdržení, zápisy komisí.
+
 ---
 
 ### § 49 — Závaznost rozhodnutí pro orgány obce
@@ -2175,6 +3939,42 @@ Klíčový problém praxe je **vynucování** závaznosti. Pokud zastupitelstvo:
 
 Tato pojistka existuje od přijetí ZMR a v praxi byla použita jen zcela výjimečně, ale její existence působí preventivně.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V platném a závazném referendu občané rozhodli „ne" pro prodej obecního pozemku investorovi. Zastupitelstvo přesto o rok později (avšak v rámci 24 měsíců) schválí prodej téhož pozemku témuž investorovi s odůvodněním, že „okolnosti se změnily". Oprávněné osoby se domáhají nápravy. Rozhodné je, zda je výsledek pro orgány obce závazný a jak jej vynutit.
+
+**2. Právní otázka.** Je zastupitelstvo vázáno výsledkem referenda („ne" prodeji) a jaké jsou důsledky, rozhodne-li v rozporu s ním?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 49 ZMR — rozhodnutí v referendu je závazné pro zastupitelstvo a orgány obce/statutárního města.
+- *Související ustanovení téhož zákona:* § 48 (platnost a závaznost), § 7 písm. h) (24měsíční překážka), § 63 a § 64 (vynucení přes § 89 ZoO, § 92 ZHMP).
+- *Související předpisy:* § 89 zákona č. 128/2000 Sb. (výzva k nápravě a rozpuštění zastupitelstva MV); § 65 SŘS (žaloba); § 39 ZoO (nakládání s majetkem).
+- *Judikatura:* nosný závěr, že závaznost znamená povinnost realizovat výsledek a zdržet se jednání, které jej maří; rozhodnutí v rozporu s výsledkem je napadnutelné.
+
+**4. Subsumpce.** Referendum bylo platné a závazné s výsledkem „ne" prodeji → orgány obce jsou povinny se prodeje zdržet (§ 49). Schválení prodeje v rámci 24 měsíců odporuje závaznosti i smyslu § 7 písm. h); „změna okolností" nezbavuje orgány vázanosti výsledkem.
+
+**5. Řešení.** Usnesení o prodeji je v rozporu se závazným výsledkem referenda a může být napadeno (žaloba dle § 65 SŘS; podnět k dozoru). MV (resp. zastupitelstvo hl. m. Prahy u MČ) může vyzvat zastupitelstvo k nápravě do 2 měsíců a při nečinnosti je rozpustit (§ 89 ZoO, § 92 ZHMP). Procesně: oprávněné osoby podají podnět/žalobu; obec má povinnost výsledek respektovat.
+
+**6. Varianty.** (a) Kdyby od platného rozhodnutí uplynulo více než 24 měsíců, mohlo by se konat nové referendum nebo by zastupitelstvo mohlo věc znovu otevřít (§ 7 písm. h) a contrario). (b) Kdyby referendum bylo platné, ale nezávazné, orgány obce by jím vázány nebyly a mohly by rozhodnout samy.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Změna okolností opravňuje zastupitelstvo rozhodnout jinak." Neutralizace: závaznost dle § 49 trvá; v rámci 24 měsíců brání opaku i § 7 písm. h). Skutečná a zásadní změna by musela být řešena novým referendem po uplynutí lhůty.
+- *Protiargument:* vynucení je jen teoretické. Neutralizace: § 89 ZoO (rozpuštění zastupitelstva) a soudní žaloba jsou reálné nástroje, byť používané výjimečně; působí preventivně.
+- *Slabé místo:* prokázání, že konkrétní úkon „maří" výsledek (zvláště u nepřímo formulovaných otázek), může být sporné.
+
+#### H. Praktický závěr
+
+Závazný výsledek referenda zavazuje zastupitelstvo i ostatní orgány obce realizovat jej a zdržet se jednání, které jej maří, a to po dobu vázanosti (vč. 24měsíční překážky). Vynucení zajišťují žaloba a dozorová pravomoc MV (rozpuštění zastupitelstva).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Po závazném výsledku realizovat rozhodnutí bez zbytečného odkladu.
+- [ ] Zdržet se úkonů mařících nebo obcházejících výsledek (vč. 24 měsíců, § 7 písm. h)).
+- [ ] Při porušení zvážit žalobu (§ 65 SŘS) a podnět k dozoru (§ 89 ZoO / § 92 ZHMP).
+- [ ] Rozlišit závazný výsledek (vázanost) od platného, ale nezávazného (bez vázanosti).
+
+**Typicky rozhodné důkazy / podklady:** zápis o výsledku referenda (platnost/závaznost), usnesení orgánů obce ve věci, doklady o krocích (ne)realizace, časová osa (24 měsíců).
+
 ---
 
 ## HLAVA IX — Společná ustanovení
@@ -2198,6 +3998,42 @@ Organizace místního referenda je **výkonem samostatné působnosti** obce —
 Tato klauzule je logickou — referendum je institutem samosprávy, organizovat ho v přenesené působnosti by bylo systémově nesmyslné.
 
 Výjimkou je **řízení o přestupcích** podle § 56 odst. 5 — to je v přenesené působnosti, neboť přestupky se obecně řeší v rámci výkonu státní správy obecním úřadem.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Přípravný výbor se domáhá, aby krajský úřad jako orgán dozoru nad přenesenou působností „zasáhl" proti obecnímu úřadu, který podle výboru nesprávně posoudil náležitosti návrhu (§ 12). Krajský úřad odpovídá, že do věci nemůže zasahovat, protože jde o samostatnou působnost. Rozhodné je zařazení úkolů obce při referendu do samostatné, nebo přenesené působnosti.
+
+**2. Právní otázka.** Je plnění úkolů obce podle ZMR (vč. přezkumu návrhu obecním úřadem) výkonem samostatné, nebo přenesené působnosti, a podléhá tedy dozoru nad přenesenou působností?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 50 ZMR — plnění úkolů obce podle tohoto zákona je výkonem samostatné působnosti.
+- *Související ustanovení téhož zákona:* § 12, § 13 (přezkum návrhu a vyhlášení), § 51 (náklady z rozpočtu obce), § 56 odst. 5 (přestupky v přenesené působnosti), § 57 (soudní ochrana).
+- *Související předpisy:* § 7 a § 35 zákona č. 128/2000 Sb. (samostatná vs. přenesená působnost, dozor); § 91a SŘS (soudní přezkum referenda).
+- *Judikatura:* nosný závěr, že referendum je institutem samosprávy; přezkum jeho procesu probíhá soudně (§ 91a SŘS), ne dozorem nad přenesenou působností.
+
+**4. Subsumpce.** Úkoly obce dle ZMR (vč. přezkumu návrhu obecním úřadem) jsou výkonem samostatné působnosti (§ 50) → nepodléhají dozoru nad přenesenou působností krajského úřadu. Výjimkou je jen řízení o přestupcích dle § 56, které je v přenesené působnosti. Ochrana proti pochybení při přezkumu návrhu se realizuje soudně (§ 57).
+
+**5. Řešení.** Krajský úřad postupoval správně — do samostatné působnosti obce při referendu nezasahuje. Přípravný výbor se má bránit soudní cestou dle § 57 (nesouhlas s výzvou k odstranění vad, resp. nerozhodnutí/negativní rozhodnutí zastupitelstva), nikoli podnětem k dozoru. Procesně: návrh dle § 57 ve lhůtách (10/20 dnů).
+
+**6. Varianty.** (a) Kdyby šlo o přestupek dle § 56, jednalo by se o přenesenou působnost a uplatnil by se odpovídající režim (vč. správního řádu). (b) Kdyby šlo o vynucení závaznosti výsledku (§ 49), uplatnila by se zvláštní dozorová pravomoc MV dle § 89 ZoO, ne obecný dozor nad přenesenou působností.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Přezkum návrhu je výkon státní správy, podléhá dozoru." Neutralizace: § 50 výslovně řadí úkoly obce dle ZMR do samostatné působnosti; ochrana je soudní (§ 57).
+- *Protiargument:* obec nemá nad referendem žádný dohled. Neutralizace: dohled je nahrazen soudním přezkumem (§ 91a SŘS) a u závaznosti zvláštní pravomocí MV (§ 49).
+- *Slabé místo:* hranice mezi samostatnou působností (referendum) a přenesenou (přestupky dle § 56) může v praxi vyvolat nejasnosti o příslušném režimu.
+
+#### H. Praktický závěr
+
+Plnění úkolů obce podle ZMR je výkonem samostatné působnosti; nepodléhá dozoru nad přenesenou působností a náklady nese obec (§ 51). Ochrana se realizuje soudně (§ 57, § 58). Jedinou výjimkou je řízení o přestupcích dle § 56 (přenesená působnost).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Úkoly obce dle ZMR posuzovat jako samostatnou působnost (§ 50).
+- [ ] Ochranu proti pochybení při přezkumu návrhu uplatnit soudně (§ 57), ne podnětem k dozoru.
+- [ ] Řízení o přestupcích (§ 56) vést v přenesené působnosti.
+- [ ] Náklady referenda hradit z rozpočtu obce (§ 51).
+
+**Typicky rozhodné důkazy / podklady:** akty obecního úřadu/zastupitelstva při referendu, doklady o povaze úkonu (samostatná vs. přenesená působnost), podání k soudu dle § 57.
 
 ---
 
@@ -2242,6 +4078,42 @@ Při referendu „zdola" obec **nehradí**:
 
 Tyto náklady nesou **iniciátoři** referenda — typicky se vybírají sbírkou, hradí přímo z osobních prostředků, případně sponzorsky. Není zde formalizovaný systém transparentnosti financování — toto je často kritizováno jako mezera v právní úpravě.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Přípravný výbor po neúspěšném referendu žádá obec o proplacení nákladů na tisk podpisových archů, na letáky kampaně „hlasujte ano" a na právní zastoupení při sběru podpisů. Obec odmítá s tím, že tyto náklady nese výbor. Ve statutárním městě zároveň vznikne spor, zda vybavení hlasovacích místností okrskových komisí hradí město jako celek, nebo městská část. Rozhodné je rozdělení nákladů.
+
+**2. Právní otázka.** Které náklady referenda hradí obec/statutární město a které nese přípravný výbor, a kdo hradí vybavení hlasovacích místností okrskových komisí ve statutárním městě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 51 odst. 1 (obec hradí výdaje s konáním referenda a s vybavením hlasovací místnosti pro okrskové komise), odst. 2 (statutární město hradí výdaje s konáním, s výjimkou vybavení dle odst. 1 písm. b)), odst. 3 (výbor nese činnost výboru, sběr podpisů a kampaň).
+- *Související ustanovení téhož zákona:* § 50 (samostatná působnost), § 52 (zajištění místností a prostředků), § 27 (odměny komisí).
+- *Související předpisy:* zákon č. 250/2000 Sb. (rozpočtová pravidla územních rozpočtů).
+- *Judikatura:* —(rozdělení nákladů plyne přímo z § 51).
+
+**4. Subsumpce.** Náklady na tisk archů, kampaň a sběr podpisů jsou výslovně vyloučeny z úhrady obcí (§ 51 odst. 3) → nese je výbor. Ve statutárním městě hradí výdaje s konáním město jako celek, avšak vybavení hlasovacích místností okrskových komisí (odst. 1 písm. b)) nese příslušná městská část/obvod (výjimka v odst. 2).
+
+**5. Řešení.** Obec proplacení nákladů výboru odmítá oprávněně — jde o náklady kampaně a sběru podpisů (§ 51 odst. 3). Ve statutárním městě se vybavení hlasovacích místností okrskových komisí účtuje městské části, ostatní výdaje s konáním městu jako celku. Procesně: jasně oddělit „výdaje s konáním" (obec/město) od „výdajů výboru" (kampaň, podpisy) a od „vybavení místností" (MČ).
+
+**6. Varianty.** (a) Kdyby šlo o referendum „zhora" (§ 14), neexistoval by přípravný výbor a odpadly by náklady dle odst. 3; vše s konáním by hradila obec. (b) Při souběhu s volbami se na společné vybavení uplatní zvláštní pravidlo § 27a odst. 7 (stát/kraj).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Referendum je veřejný zájem, obec má hradit i kampaň výboru." Neutralizace: § 51 odst. 3 výslovně vylučuje úhradu kampaně, sběru podpisů a činnosti výboru z prostředků obce.
+- *Protiargument:* vybavení místností hradí vždy město jako celek. Neutralizace: odst. 2 obsahuje výjimku — vybavení hlasovacích místností okrskových komisí nese MČ/obvod (odst. 1 písm. b)).
+- *Slabé místo:* absence formalizované transparentnosti financování kampaně výboru je doktrínou kritizována jako mezera, není však důvodem k úhradě obcí.
+
+#### H. Praktický závěr
+
+Obec/statutární město hradí výdaje spojené s konáním referenda a s vybavením hlasovacích místností okrskových komisí; ve statutárním městě nese toto vybavení MČ/obvod. Výbor nese náklady na svou činnost, sběr podpisů a kampaň.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Oddělit výdaje s konáním (obec/město) od výdajů výboru (kampaň, podpisy).
+- [ ] Ve statutárním městě účtovat vybavení místností okrskových komisí MČ/obvodu.
+- [ ] Náklady na kampaň a sběr podpisů nehradit z rozpočtu obce (§ 51 odst. 3).
+- [ ] Při souběhu s volbami zohlednit § 27a odst. 7 (stát/kraj).
+
+**Typicky rozhodné důkazy / podklady:** kalkulace a doklady o jednotlivých výdajích, rozpočtové podklady obce/města, rozlišení nákladů konání vs. kampaně.
+
 ---
 
 ### § 52 — Hlasovací místnost a pomocné prostředky
@@ -2257,6 +4129,42 @@ Tyto náklady nesou **iniciátoři** referenda — typicky se vybírají sbírko
 **Výklad:**
 
 Obecní úřad / magistrát zajišťuje **logistiku** referenda — místnosti, vybavení, podpůrné síly. Toto je administrativně technické ustanovení, které specifikuje konkrétně, kdo nese za co odpovědnost.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Ve statutárním městě se koná referendum. Městská komise potřebuje pracovní zázemí a pomocné síly pro zpracování výsledků z místních komisí; obrátí se na obecní úřad městské části. Ten odmítá s tím, že městskou komisi má zabezpečit magistrát. Současně okrsková komise v jedné MČ řeší, kdo jí zajistí vybavení místnosti a pomocné pracovníky. Rozhodné je, který orgán zajišťuje prostředky pro kterou komisi.
+
+**2. Právní otázka.** Který orgán zajišťuje hlasovací místnosti a pomocné prostředky pro okrskové, místní a městské komise?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52 odst. 1 (hlasovací místnosti pro okrskové komise, jejich vybavení a pracovní síly zajišťuje obecní úřad), odst. 2 (pomocné prostředky pro místní komise zajišťuje obecní úřad, pro městské komise magistrát statutárního města).
+- *Související ustanovení téhož zákona:* § 51 (náklady), § 34 (vybavení místnosti), § 17–§ 20 (druhy komisí).
+- *Související předpisy:* —.
+- *Judikatura:* —(rozdělení plyne přímo z § 52).
+
+**4. Subsumpce.** Pomocné prostředky pro městské komise zajišťuje magistrát statutárního města (§ 52 odst. 2) → požadavek na obecní úřad MČ je nesprávný; příslušný je magistrát. Vybavení a pracovní síly pro okrskové komise a pomocné prostředky pro místní komise zajišťuje obecní úřad (odst. 1 a 2).
+
+**5. Řešení.** Městská komise se má obrátit na magistrát statutárního města (§ 52 odst. 2), nikoli na úřad MČ. Okrskové komisi vybavení místnosti a pracovní síly zajistí obecní úřad (odst. 1). Procesně: sladit zajištění logistiky s odpovědnostmi dle § 52 a financováním dle § 51.
+
+**6. Varianty.** (a) V „obyčejné" obci (bez statutárního města) se otázka městské komise nevyskytuje (§ 17 písm. a)). (b) Při souběhu s volbami se vybavení místnosti řeší společně dle § 27a odst. 6 a financuje dle odst. 7.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vše zajišťuje obecní úřad, i pro městskou komisi." Neutralizace: § 52 odst. 2 svěřuje pomocné prostředky pro městské komise magistrátu statutárního města.
+- *Protiargument:* zajištění logistiky je věcí výboru. Neutralizace: logistiku zajišťuje obecní úřad/magistrát (§ 52); výbor nese jen své vlastní náklady (§ 51 odst. 3).
+- *Slabé místo:* dělba odpovědnosti mezi úřad MČ a magistrát může u velkých měst vyvolat organizační tření.
+
+#### H. Praktický závěr
+
+Hlasovací místnosti pro okrskové komise (vybavení a pracovní síly) a pomocné prostředky pro místní komise zajišťuje obecní úřad; pomocné prostředky pro městské komise zajišťuje magistrát statutárního města. Jde o technické rozdělení logistické odpovědnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajistit místnosti, vybavení a pracovní síly pro okrskové komise (obecní úřad).
+- [ ] Zajistit pomocné prostředky pro místní komise (obecní úřad).
+- [ ] Zajistit pomocné prostředky pro městské komise (magistrát statutárního města).
+- [ ] Sladit logistiku s rozdělením nákladů dle § 51.
+
+**Typicky rozhodné důkazy / podklady:** organizační zajištění komisí, doklady o poskytnutí prostor a pracovních sil, rozpočtové podklady.
 
 ---
 
@@ -2290,6 +4198,42 @@ Lhůty v ZMR jsou **prekluzivní** — nelze je prodloužit ani prominout jejich
 
 Pravidlo nelze prolomit ani v případě krizového stavu — toto je obejito § 5 odst. 2 písm. a) ZMR, podle něhož se po dobu krizového stavu lhůty **přerušují** (nikoli prodlužují/promíjejí).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zmocněnec přípravného výboru chce podat soudu návrh na vyhlášení referenda (§ 57). Poslední den 20denní lhůty je pátek; zmocněnec doručí podání na podatelnu soudu v 16:40, tedy po 16:00, ale ještě v úředních hodinách. Soud podání odmítne jako opožděné. Zmocněnec namítá, že podatelna byla otevřená. Rozhodné je pravidlo o zachování lhůty a nemožnost jejího prominutí.
+
+**2. Právní otázka.** Je lhůta zachována, je-li úkon učiněn poslední den po 16:00 (byť v úředních hodinách), a lze zmeškání prominout?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 53 odst. 1 (lhůta určená podle dnů je zachována, je-li úkon učiněn poslední den nejpozději do 16:00), odst. 2 (lhůty nelze prodloužit ani prominout jejich zmeškání).
+- *Související ustanovení téhož zákona:* § 5 odst. 2 písm. a) (přerušení lhůt v krizovém stavu), § 57 a § 58 (lhůty pro soudní návrhy).
+- *Související předpisy:* § 91a SŘS (řízení ve věcech referenda).
+- *Judikatura:* nosný závěr, že lhůty v ZMR jsou prekluzivní a pravidlo 16. hodiny je zvláštní úpravou odchylnou od správního řádu.
+
+**4. Subsumpce.** Úkon učiněný v 16:40 je učiněn po 16:00 → lhůta nebyla zachována (§ 53 odst. 1), bez ohledu na to, že podatelna byla otevřená. Zmeškání nelze prominout (§ 53 odst. 2). Návrh je proto opožděný.
+
+**5. Řešení.** Soud postupoval správně — návrh je opožděný, neboť pravidlo 16. hodiny je závazné a zmeškání neprominutelné. Zmocněnec měl podání učinit do 16:00. Procesně: jediným způsobem, jak se vyhnout prekluzi, je dodržet hranici 16:00 posledního dne; otevřenost podatelny je irelevantní.
+
+**6. Varianty.** (a) Kdyby zmocněnec podal v 15:55, lhůta by byla zachována. (b) Kdyby probíhal krizový stav, lhůty by se přerušily (§ 5 odst. 2 písm. a)) — to je však odlišné od prominutí zmeškání.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Podatelna byla otevřená, lhůta je zachována." Neutralizace: § 53 odst. 1 stanoví zvláštní hranici 16:00; úřední hodiny nad rámec této hranice nejsou rozhodné.
+- *Protiargument:* zmeškání pro vážný důvod lze prominout. Neutralizace: § 53 odst. 2 promíjení zmeškání výslovně vylučuje.
+- *Slabé místo:* odchylka od obecných pravidel (16:00 místo konce pracovní doby / 24:00) je pro nezkušené účastníky překvapivá a vede k prekluzím.
+
+#### H. Praktický závěr
+
+Lhůty určené podle dnů jsou zachovány jen při úkonu učiněném poslední den do 16:00; jsou prekluzivní a jejich zmeškání nelze prominout ani prodloužit. V krizovém stavu se přerušují (nikoli promíjejí).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Učinit úkon poslední den lhůty nejpozději do 16:00.
+- [ ] Nespoléhat na úřední hodiny po 16:00 ani na elektronickou 24:00.
+- [ ] Počítat s prekluzí — zmeškání nelze prominout (§ 53 odst. 2).
+- [ ] V krizovém stavu uplatnit přerušení běhu lhůt (§ 5 odst. 2 písm. a)).
+
+**Typicky rozhodné důkazy / podklady:** doklad o čase učinění úkonu (podací razítko s časem), evidence lhůt, případné usnesení o krizovém stavu.
+
 ---
 
 ### § 54 — Vztah ke správnímu řádu
@@ -2317,6 +4261,42 @@ ZMR má **vlastní procesní úpravu**, kde chybí — používá se analogie z 
 
 Jediná výjimka je řízení o přestupcích podle § 56 — to je v přenesené působnosti obecního úřadu a probíhá podle obecných předpisů o přestupkovém řízení (zákon č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich + zákon č. 251/2016 Sb., o některých přestupcích).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zmocněnec přípravného výboru, nespokojený s rozhodnutím zastupitelstva nevyhlásit referendum, podá proti tomuto usnesení „odvolání" podle správního řádu ke krajskému úřadu a žádá, aby krajský úřad usnesení zrušil. Krajský úřad odvolání odmítne s tím, že správní řád se na postup podle ZMR nevztahuje. Rozhodné je, zda lze proti aktům podle ZMR brojit odvoláním dle správního řádu.
+
+**2. Právní otázka.** Vztahuje se na postup podle ZMR správní řád (a tedy i opravné prostředky jako odvolání), nebo je jeho použití vyloučeno?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 54 ZMR — na postup podle tohoto zákona se správní řád, s výjimkou řízení o přestupcích (§ 56), nevztahuje.
+- *Související ustanovení téhož zákona:* § 12 odst. 5 (dílčí použití správního řádu jen pro doručování), § 57 a § 58 (soudní ochrana), § 56 (přestupky v přenesené působnosti).
+- *Související předpisy:* zákon č. 500/2004 Sb., správní řád; § 91a SŘS.
+- *Judikatura:* nosný závěr, že ZMR má vlastní procesní úpravu; obrana proti aktům dle ZMR je soudní (§ 91a SŘS), nikoli odvoláním dle správního řádu.
+
+**4. Subsumpce.** Postup zastupitelstva při (ne)vyhlášení referenda je postupem podle ZMR → správní řád se nepoužije (§ 54), s jedinou výjimkou doručování (§ 12 odst. 5). „Odvolání" dle správního řádu proto není přípustné; obrana je soudní cestou dle § 57.
+
+**5. Řešení.** Krajský úřad postupoval správně — odvolání dle správního řádu je vyloučeno. Zmocněnec se má bránit návrhem k soudu dle § 57 odst. 1 písm. b) (rozhodnutí zastupitelstva nevyhlásit referendum) ve lhůtě 20 dnů. Procesně: nikoli odvolání, nýbrž návrh dle § 91a SŘS.
+
+**6. Varianty.** (a) Kdyby šlo o řízení o přestupku dle § 56, správní řád (a opravné prostředky) by se uplatnil (výjimka v § 54). (b) Kdyby šlo o doručování písemností v procesu dle ZMR, použily by se §§ 19–26 správního řádu (§ 12 odst. 5).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Proti rozhodnutí orgánu obce je vždy odvolání dle správního řádu." Neutralizace: § 54 použití správního řádu na postup dle ZMR vylučuje; obrana je soudní.
+- *Protiargument:* vyloučení správního řádu znamená bezbrannost účastníka. Neutralizace: ochranu poskytuje specifické soudní řízení (§ 91a SŘS, § 57, § 58).
+- *Slabé místo:* dílčí výjimky (doručování dle § 12 odst. 5; přestupky dle § 56) mohou mást ohledně rozsahu vyloučení správního řádu.
+
+#### H. Praktický závěr
+
+Na postup podle ZMR se správní řád nevztahuje (vyjma přestupkového řízení dle § 56 a doručování dle § 12 odst. 5). Obrana proti aktům podle ZMR se realizuje soudně (§ 57, § 58, § 91a SŘS), nikoli odvoláním dle správního řádu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nepoužívat opravné prostředky správního řádu proti aktům dle ZMR.
+- [ ] Obranu uplatnit soudní cestou (§ 57/§ 58, § 91a SŘS) ve stanovených lhůtách.
+- [ ] Doručování řešit subsidiárně dle správního řádu (§ 12 odst. 5).
+- [ ] Přestupkové řízení (§ 56) vést podle správního řádu a přestupkových předpisů.
+
+**Typicky rozhodné důkazy / podklady:** napadený akt podle ZMR, podání k soudu dle § 57/§ 58, doklady o doručování.
+
 ---
 
 ### § 55 — Zjišťování počtu oprávněných osob
@@ -2343,6 +4323,42 @@ se počet oprávněných osob zjišťuje z počtu obyvatel **k 1. lednu** roku p
 Pokud se obec během sběru podpisů přesune z jedné velikostní kategorie do druhé (např. v lednu má 19 950 obyvatel, v červenci 20 100), platí stav k 1. lednu. Pokud návrh byl podán v lednu, platí kvórum pro do 20 000 obyvatel; pokud v prosinci téhož roku, opět platí stav k 1. lednu.
 
 Pokud se referendum přesune do následujícího roku (např. návrh podán v prosinci, kvórum se posuzuje k 1. lednu — pak konání je v dalším roce), klíčový je den **podání návrhu**, nikoli den konání referenda.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec rychle roste; k 1. lednu měla 2 980 obyvatel (kategorie do 3 000 → kvórum 30 %), v červnu téhož roku už 3 120. Přípravný výbor podal návrh v srpnu a obecní úřad počítá kvórum z aktuálního červnového/srpnového stavu (kategorie do 20 000 → 20 %). Výbor namítá, že má platit stav k 1. lednu (30 % z menšího počtu). Rozhodné je referenční datum pro počet oprávněných osob.
+
+**2. Právní otázka.** Z jakého data se zjišťuje počet oprávněných osob (a tím velikostní kategorie a kvórum) — ke dni podání návrhu, ke dni konání, nebo k 1. lednu roku podání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55 ZMR — počet oprávněných osob se zjišťuje z počtu obyvatel podle stavu k 1. lednu toho roku, v němž byl návrh podán.
+- *Související ustanovení téhož zákona:* § 8 odst. 2 (klouzavé podpisové kvórum dle velikosti obce), § 10 odst. 1 písm. a) (území), § 11 (podpisová listina).
+- *Související předpisy:* zákon č. 133/2000 Sb., o evidenci obyvatel (zdroj údaje o počtu obyvatel).
+- *Judikatura:* nosný závěr, že rozhodný je stav k 1. lednu roku podání návrhu; pozdější změny počtu obyvatel jsou irelevantní.
+
+**4. Subsumpce.** Rozhodný je stav k 1. lednu roku podání (§ 55) = 2 980 obyvatel → kategorie „do 3 000" a kvórum 30 %. Pozdější nárůst na 3 120 (červen/srpen) je irelevantní. Obecní úřad pochybil, počítá-li kvórum z aktuálního stavu místo ze stavu k 1. lednu.
+
+**5. Řešení.** Kvórum se počítá z počtu obyvatel k 1. lednu roku podání (30 % z odpovídajícího počtu oprávněných osob), nikoli z pozdějšího stavu. Obecní úřad má korigovat výpočet; jinak hrozí nesprávné vyhodnocení dostatečnosti podpisů. Procesně: výbor doloží stav k 1. lednu (potvrzení úřadu/statistika); spor lze řešit dle § 57 (nesouhlas s výzvou).
+
+**6. Varianty.** (a) Kdyby návrh byl podán až v lednu následujícího roku, rozhodný by byl stav k 1. lednu tohoto následujícího roku. (b) Kdyby obec naopak klesla pod 3 000 až po 1. lednu, platil by stále stav k 1. lednu (vyšší počet).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Rozhodný je aktuální počet obyvatel ke dni podání." Neutralizace: § 55 výslovně určuje stav k 1. lednu roku podání, ne ke dni podání či konání.
+- *Protiargument:* k 1. lednu nejsou data spolehlivá. Neutralizace: údaj poskytuje obecní úřad z evidence obyvatel; jde o standardní statistický stav.
+- *Slabé místo:* u obcí na hranici kategorií (kolem 3 000/20 000/200 000) může rozdíl mezi 1. lednem a dnem podání rozhodnout o kvóru a být zdrojem sporu.
+
+#### H. Praktický závěr
+
+Počet oprávněných osob (a tím velikostní kategorie a kvórum dle § 8 odst. 2) se zjišťuje z počtu obyvatel k 1. lednu roku podání návrhu; pozdější změny jsou irelevantní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit počet obyvatel k 1. lednu roku podání návrhu.
+- [ ] Z něj odvodit velikostní kategorii a podpisové kvórum (§ 8 odst. 2).
+- [ ] Ignorovat pozdější změny počtu obyvatel v témže roce.
+- [ ] Spor o výpočet řešit doložením stavu k 1. lednu, případně dle § 57.
+
+**Typicky rozhodné důkazy / podklady:** potvrzení obecního úřadu o počtu obyvatel/oprávněných osob k 1. lednu, evidence obyvatel, datum podání návrhu.
 
 ---
 
@@ -2383,6 +4399,42 @@ V praxi jsou tyto přestupky **velmi vzácně** stíhány — zejména proto, ž
 #### Přenesená působnost (odst. 5)
 
 Projednávání přestupků je v **přenesené působnosti** obce/statutárního města — provádí obecní úřad (typicky stavební a přestupkový odbor) podle obecných předpisů o přestupkovém řízení (zákon č. 250/2016 Sb. + zákon č. 251/2016 Sb.).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při kontrole podpisové listiny obecní úřad zjistí, že pan P. (nezletilý student) podepsal listinu, ač není oprávněnou osobou, a že paní R. podepsala tutéž listinu dvakrát s mírně odlišnými údaji. Úřad zvažuje, zda zahájit přestupkové řízení a jakou sankci uložit. Současně řeší, zda tato zjištění mají vliv na platnost referenda. Rozhodné jsou skutkové podstaty přestupků a jejich režim.
+
+**2. Právní otázka.** Naplnili pan P. a paní R. přestupek v souvislosti s podpisovou listinou, jakou sankci lze uložit a v jakém procesním režimu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 56 odst. 1 (vícenásobný podpis oprávněné osoby), odst. 2 (podpis neoprávněné osoby), odst. 3 (nepravdivé údaje), odst. 4 (pokuta až 3 000 Kč), odst. 5 (přenesená působnost, zvláštní předpis).
+- *Související ustanovení téhož zákona:* § 11 odst. 1 písm. d) (povinné poučení o sankci), § 2 (oprávněná osoba), § 8 odst. 2 (kvórum), § 54 (správní řád se na přestupky vztahuje).
+- *Související předpisy:* zákon č. 250/2016 Sb. (odpovědnost za přestupky a řízení o nich), zákon č. 251/2016 Sb. (některé přestupky); zákon č. 500/2004 Sb. (správní řád).
+- *Judikatura:* nosný závěr, že tyto přestupky jsou v praxi vzácně stíhány pro obtížné prokazování úmyslu a totožnosti pachatele.
+
+**4. Subsumpce.** Pan P. (nezletilý, neoprávněná osoba) podepsal listinu → přestupek dle § 56 odst. 2 (úmysl). Paní R. podepsala tutéž listinu dvakrát → přestupek dle § 56 odst. 1 (úmyslný vícenásobný podpis), případně i odst. 3 (nepravdivé údaje). Za každý lze uložit pokutu až 3 000 Kč (odst. 4); řízení je v přenesené působnosti (odst. 5).
+
+**5. Řešení.** Úřad může zahájit přestupkové řízení dle zákona č. 250/2016 Sb. (v přenesené působnosti), musí však prokázat úmysl a totožnost pachatele; pokuta činí nejvýše 3 000 Kč. Z hlediska kvóra se neplatné/dvojí podpisy nezapočítají, ale samotné přestupky platnost referenda neruší. Procesně: oddělit přestupkovou rovinu (sankce) od posouzení podpisového kvóra.
+
+**6. Varianty.** (a) Kdyby chyběl úmysl (omyl o oprávněnosti), nešlo by o přestupek dle odst. 1 a 2, byť by se podpis pro kvórum nezapočítal. (b) Kdyby pochybení bylo masové a organizované, mohlo by (vedle přestupků) zpochybnit i regulérnost sběru podpisů.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Neplatný podpis automaticky znamená přestupek." Neutralizace: přestupek vyžaduje úmysl (odst. 1, 2); samotná neplatnost podpisu pro kvórum nestačí.
+- *Protiargument:* nízká pokuta (3 000 Kč) činí stíhání zbytečným. Neutralizace: smyslem je vyjádřit nepřípustnost jednání a prevence; přesto se stíhá vzácně pro důkazní náročnost.
+- *Slabé místo:* prokázání, kdo konkrétně podepsal a s jakým úmyslem, je obtížné; bez dostatečných důkazů řízení neuspěje.
+
+#### H. Praktický závěr
+
+ZMR sankcionuje tři jednání spojená s podpisovou listinou (vícenásobný podpis oprávněné osoby, podpis neoprávněné osoby, nepravdivé údaje) pokutou až 3 000 Kč; řízení je v přenesené působnosti dle přestupkových předpisů. Přestupky neruší platnost referenda; neplatné podpisy se jen nezapočítají do kvóra.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit naplnění skutkové podstaty (§ 56 odst. 1–3) včetně úmyslu.
+- [ ] Vést řízení v přenesené působnosti dle zákona č. 250/2016 Sb. (správní řád).
+- [ ] Uložit pokutu nejvýše 3 000 Kč (odst. 4).
+- [ ] Oddělit přestupkovou rovinu od posouzení podpisového kvóra.
+
+**Typicky rozhodné důkazy / podklady:** podpisová listina, evidence obyvatel (oprávněnost, totožnost), důkazy o úmyslu a autorství podpisu, povinné poučení dle § 11 odst. 1 písm. d).
 
 ---
 
@@ -2444,6 +4496,42 @@ Procesní úpravu obsahuje **§ 91a SŘS**:
 - Rozhodovací lhůta krajského soudu: **30 dnů** (krátká, vzhledem k 90denní lhůtě konání referenda).
 - Účastníci řízení: přípravný výbor a obec/MČ/MO/hl. m. Praha.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zastupitelstvo na svém zasedání rozhodlo, že referendum nevyhlásí, neboť otázku považuje za nepřípustnou (rozpor s § 7). Zmocněnec přípravného výboru je přesvědčen, že otázka přípustná je, a chce se bránit. Od jednání zastupitelstva uplynulo 12 dnů. Rozhodné je, jakým návrhem, k jakému soudu a v jaké lhůtě se může bránit a jaký účinek má rozhodnutí soudu.
+
+**2. Právní otázka.** Jak se přípravný výbor brání proti rozhodnutí zastupitelstva nevyhlásit referendum, v jaké lhůtě a s jakým účinkem soudního rozhodnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 57 odst. 1 písm. b) (ochrana při nerozhodnutí nebo rozhodnutí nevyhlásit referendum), odst. 2 písm. b) (lhůta 20 dnů od jednání zastupitelstva), odst. 3 (rozhodnutí soudu nahrazuje rozhodnutí zastupitelstva); odst. 1 písm. a) a odst. 2 písm. a) (nesouhlas s výzvou, lhůta 10 dnů).
+- *Související ustanovení téhož zákona:* § 13 (rozhodnutí zastupitelstva), § 6, § 7 (přípustnost), § 9 odst. 2 písm. c) (aktivní legitimace výboru), § 65 ZMR/§ 91a SŘS.
+- *Související předpisy:* § 91a SŘS (řízení, 30denní lhůta soudu, bez nařízení jednání); zákon č. 252/2015 Sb. (přípustnost kasační stížnosti).
+- *Judikatura:* Pl. ÚS 35/06 (Jirkov), Ars 4/2013, Ars 1/2019 — in dubio pro referendo; soud přezkoumává přípustnost materiálně.
+
+**4. Subsumpce.** Zastupitelstvo rozhodlo nevyhlásit referendum (§ 13 odst. 1 písm. b)) → výbor je aktivně legitimován k návrhu dle § 57 odst. 1 písm. b). Lhůta je 20 dnů od jednání zastupitelstva (odst. 2 písm. b)); uplynulo 12 dnů → návrh lze ještě podat. Soud přezkoumá přípustnost otázky materiálně; vyhoví-li, jeho rozhodnutí nahradí rozhodnutí zastupitelstva (odst. 3).
+
+**5. Řešení.** Výbor podá ke krajskému soudu (dle sídla obce) návrh na vyhlášení referenda dle § 57 odst. 1 písm. b) ve 20denní lhůtě. Soud rozhodne usnesením do 30 dnů bez jednání (§ 91a odst. 3 SŘS); shledá-li otázku přípustnou (in dubio pro referendo), referendum se považuje za vyhlášené (rozhodnutí nahrazuje akt zastupitelstva). Proti rozhodnutí krajského soudu je přípustná kasační stížnost k NSS.
+
+**6. Varianty.** (a) Kdyby šlo o nesouhlas s výzvou obecního úřadu k odstranění vad (§ 12 odst. 2), výbor by podal návrh dle § 57 odst. 1 písm. a) ve lhůtě 10 dnů od doručení výzvy. (b) Kdyby zastupitelstvo o návrhu vůbec nerozhodlo (nečinnost), výbor by se bránil rovněž dle písm. b).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Proti usnesení zastupitelstva není soudní ochrana." Neutralizace: § 57 odst. 1 písm. b) ji výslovně zakládá; rozhodnutí soudu může nahradit akt zastupitelstva.
+- *Protiargument:* soud nemůže nutit obec k referendu. Neutralizace: § 57 odst. 3 přiznává soudnímu rozhodnutí nahrazující účinek; obec je pak povinna referendum vyhlásit.
+- *Slabé místo:* krátké lhůty (10/20 dnů) a nutnost rychle materiálně argumentovat přípustnost kladou nároky na přípravu; jejich zmeškání je prekluzivní (§ 53 odst. 2).
+
+#### H. Praktický závěr
+
+Přípravný výbor se brání před referendem návrhem dle § 57 (proti výzvě k odstranění vad — 10 dnů; proti nerozhodnutí/nevyhlášení — 20 dnů). Příslušný je krajský soud (kasační stížnost k NSS), který rozhodne do 30 dnů; vyhovující rozhodnutí nahrazuje akt zastupitelstva.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat typ situace (§ 57 odst. 1 písm. a) vs. b)) a odpovídající lhůtu (10/20 dnů).
+- [ ] Podat návrh ke krajskému soudu dle § 91a SŘS v zákonné lhůtě.
+- [ ] Materiálně argumentovat přípustnost otázky (in dubio pro referendo).
+- [ ] Počítat s nahrazujícím účinkem rozhodnutí (§ 57 odst. 3) a možností kasační stížnosti.
+
+**Typicky rozhodné důkazy / podklady:** usnesení zastupitelstva (nevyhlášení) nebo výzva k odstranění vad, datum jednání/doručení, znění a odůvodnění otázky, návrh přípravného výboru.
+
 ---
 
 ### § 58 — Návrh na vyslovení neplatnosti hlasování nebo rozhodnutí
@@ -2500,6 +4588,42 @@ Pokud soud vysloví neplatnost:
 - **Hlasování** — pak je třeba vyhlásit nové hlasování (organizovat referendum znovu).
 - **Rozhodnutí** — pak rozhodnutí nemá závaznost, ale referendum jako proces proběhlo platně. Nepřebíhá překážka *res judicata* podle § 7 písm. h).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Referendum proběhlo a bylo vyhlášeno jako platné a závazné s výsledkem „ano". Oprávněná osoba (nikoli člen výboru) je přesvědčena, že v několika okrscích došlo k narušení tajnosti a kampani v objektu místnosti, což mohlo ovlivnit výsledek. Chce hlasování napadnout. Od vyhlášení výsledků uplynulo 8 dnů. Rozhodné je, kdo je aktivně legitimován, z jakých důvodů a v jaké lhůtě lze podat návrh.
+
+**2. Právní otázka.** Kdo a do kdy může podat návrh na vyslovení neplatnosti hlasování (resp. rozhodnutí) a z jakých důvodů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 58 odst. 1 (aktivní legitimace každé oprávněné osoby nebo přípravného výboru; důvody: písm. a) porušení zákona, jež mohlo ovlivnit výsledek; písm. b) věc mimo samostatnou působnost; písm. c) věc, o níž nelze referendum konat), odst. 2 (lhůta 10 dnů od vyhlášení výsledků).
+- *Související ustanovení téhož zákona:* § 3 (tajnost), § 32 odst. 2 (zákaz kampaně v objektu), § 6, § 7 (přípustnost), § 46 (vyhlášení výsledků), § 65 ZMR/§ 91a SŘS.
+- *Související předpisy:* § 91a SŘS (řízení, účastníci, 30denní lhůta, bez jednání).
+- *Judikatura:* nosný závěr NSS, že postačí potenciální vliv vady na výsledek; legitimace dle § 58 je širší než u § 57.
+
+**4. Subsumpce.** Navrhovatelem je oprávněná osoba → má aktivní legitimaci dle § 58 odst. 1. Tvrzená narušení tajnosti a kampaň v objektu jsou porušení zákona dle písm. a); znak „mohlo ovlivnit výsledek" se posuzuje ve vazbě na intenzitu a (ne)těsnost výsledku. Lhůta je 10 dnů od vyhlášení výsledků (odst. 2); uplynulo 8 dnů → návrh lze ještě podat.
+
+**5. Řešení.** Oprávněná osoba podá ke krajskému soudu návrh na vyslovení neplatnosti hlasování dle § 58 odst. 1 písm. a) ve zbývající části 10denní lhůty, s tvrzením a důkazy o porušeních a jejich potenciálním vlivu na výsledek. Soud rozhodne usnesením do 30 dnů (§ 91a SŘS). Vysloví-li neplatnost hlasování, je třeba hlasování opakovat; nepřebíhá překážka § 7 písm. h). Procesně: dodržet 10denní lhůtu (prekluze, § 53 odst. 2).
+
+**6. Varianty.** (a) Kdyby šlo o referendum konané o věci mimo samostatnou působnost, uplatnil by se důvod dle písm. b). (b) Kdyby návrh směřoval k neplatnosti rozhodnutí (ne hlasování), referendum by jako proces zůstalo platné, ale rozhodnutí by pozbylo závaznosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Návrh může podat jen přípravný výbor." Neutralizace: § 58 odst. 1 přiznává legitimaci i každé oprávněné osobě — širší okruh než u § 57.
+- *Protiargument:* je třeba prokázat skutečné ovlivnění výsledku. Neutralizace: dle judikatury postačí potenciální vliv; rozhoduje intenzita vady a (ne)těsnost výsledku.
+- *Slabé místo:* u jednoznačného (netěsného) výsledku je obtížné doložit potenciální vliv izolovaných pochybení; návrh pak neuspěje.
+
+#### H. Praktický závěr
+
+Návrh na vyslovení neplatnosti hlasování nebo rozhodnutí může podat každá oprávněná osoba nebo přípravný výbor do 10 dnů od vyhlášení výsledků, z důvodů dle § 58 odst. 1 (porušení zákona s potenciálním vlivem; věc mimo samostatnou působnost; nepřípustná věc). Vyslovení neplatnosti hlasování vede k jeho opakování.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit aktivní legitimaci (oprávněná osoba nebo přípravný výbor).
+- [ ] Identifikovat důvod dle § 58 odst. 1 písm. a)–c).
+- [ ] Tvrdit a doložit potenciální vliv vady na výsledek (u písm. a)).
+- [ ] Podat návrh ke krajskému soudu do 10 dnů od vyhlášení výsledků (prekluze).
+
+**Typicky rozhodné důkazy / podklady:** doklad o dni vyhlášení výsledků, zápisy komisí, důkazy o porušeních (foto, svědectví), číselný výsledek (těsnost), vymezení předmětu referenda.
+
 ---
 
 ## HLAVA XII — Zrušovací ustanovení
@@ -2520,6 +4644,42 @@ ZMR ruší **dosavadní úpravu** místního referenda, která byla obsažena v 
 
 Volební část zákona č. 298/1992 Sb. byla již v r. 2001 nahrazena zákonem č. 491/2001 Sb. (komunální volby) — referenda však zůstala v zákoně č. 298/1992 Sb. až do roku 2004, kdy je nahradil ZMR.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obecní úřad při přípravě referenda v roce 2024 narazí na starší interní metodiku odkazující na zákon č. 298/1992 Sb. a vyhlášku č. 433/1992 Sb. Pracovník zvažuje, zda se těmito předpisy řídit. Současně řeší, kterým předpisem se řídí samotné komunální volby. Rozhodné je, zda zrušené předpisy lze ještě aplikovat.
+
+**2. Právní otázka.** Lze na místní referendum (a komunální volby) konané po roce 2004 aplikovat zákon č. 298/1992 Sb. a vyhlášku č. 433/1992 Sb., které byly zrušeny § 59 ZMR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 59 ZMR — zrušuje zákon č. 298/1992 Sb. a vyhlášku č. 433/1992 Sb.
+- *Související ustanovení téhož zákona:* § 66 (účinnost), celý ZMR jako nová úprava referenda.
+- *Související předpisy:* zákon č. 491/2001 Sb. (komunální volby — nahradil volební část); zákon č. 88/2024 Sb., o správě voleb.
+- *Judikatura:* —(jde o derogační ustanovení).
+
+**4. Subsumpce.** Zákon č. 298/1992 Sb. i vyhláška č. 433/1992 Sb. byly § 59 ZMR zrušeny → po nabytí účinnosti ZMR (1. 2. 2004) je nelze aplikovat. Místní referendum se řídí ZMR; komunální volby zákonem č. 491/2001 Sb. (resp. zákonem č. 88/2024 Sb.).
+
+**5. Řešení.** Pracovník nesmí postupovat podle zrušených předpisů; referendum se řídí výlučně ZMR a navazujícími předpisy (volební seznamy dle zákona o správě voleb). Interní metodika je zastaralá a je třeba ji aktualizovat. Procesně: aplikovat platné znění ZMR a aktuální volební předpisy.
+
+**6. Varianty.** (a) Kdyby šlo o posouzení úkonu učiněného před 1. 2. 2004, mohlo by být relevantní dřívější právo (intertemporálně). (b) Pro komunální volby se použije zákon č. 491/2001 Sb./č. 88/2024 Sb., nikoli zrušený zákon č. 298/1992 Sb.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stará vyhláška obsahuje užitečné podrobnosti, lze ji použít podpůrně." Neutralizace: zrušený předpis není pramenem práva; podpůrně lze nanejvýš analogicky vyjít z platných volebních předpisů.
+- *Protiargument:* metodika úřadu je závazná. Neutralizace: interní metodika nemůže odporovat platnému právu; je-li zastaralá, neaplikuje se.
+- *Slabé místo:* odkazy na zrušené předpisy v starších dokumentech mohou vést k chybám, nejsou-li metodiky průběžně aktualizovány.
+
+#### H. Praktický závěr
+
+§ 59 zrušil zákon č. 298/1992 Sb. a vyhlášku č. 433/1992 Sb.; po 1. 2. 2004 se referendum řídí výlučně ZMR a komunální volby zákonem č. 491/2001 Sb. (resp. zákonem o správě voleb). Zrušené předpisy nelze aplikovat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Neaplikovat zrušený zákon č. 298/1992 Sb. ani vyhlášku č. 433/1992 Sb.
+- [ ] Referendum vést podle platného ZMR.
+- [ ] Komunální volby a seznamy řešit dle zákona č. 491/2001 Sb./č. 88/2024 Sb.
+- [ ] Aktualizovat zastaralé interní metodiky a odkazy.
+
+**Typicky rozhodné důkazy / podklady:** platné znění ZMR a navazujících předpisů, datum úkonu (intertemporalita), aktuální interní metodiky.
+
 ---
 
 ## ČÁST DRUHÁ — Změna zákona o volbách do zastupitelstev v obcích
@@ -2533,6 +4693,40 @@ Volební část zákona č. 298/1992 Sb. byla již v r. 2001 nahrazena zákonem 
 **Výklad:**
 
 Technická novela — zrušení části třetí zákona č. 152/1994 Sb., která upravovala referendum. Od roku 2004 referendum upravuje výlučně ZMR.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při historicko-právním rozboru staršího referenda (z 90. let) advokát naráží na odkaz na část třetí zákona č. 152/1994 Sb. a zvažuje, zda je toto ustanovení stále v platnosti a zda z něj lze dovozovat práva pro současné referendum. Rozhodné je, zda § 60 ZMR tuto část zrušil a od kdy.
+
+**2. Právní otázka.** Je část třetí zákona č. 152/1994 Sb. (úprava referenda) po účinnosti ZMR stále aplikovatelná?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 60 ZMR — zrušuje část třetí zákona č. 152/1994 Sb.
+- *Související ustanovení téhož zákona:* § 59 (zrušení zákona č. 298/1992 Sb.), § 66 (účinnost).
+- *Související předpisy:* zákon č. 491/2001 Sb. (komunální volby).
+- *Judikatura:* —(derogační ustanovení).
+
+**4. Subsumpce.** Část třetí zákona č. 152/1994 Sb. byla § 60 ZMR zrušena → po 1. 2. 2004 ji nelze aplikovat; referendum upravuje výlučně ZMR.
+
+**5. Řešení.** Z historického ustanovení nelze dovozovat práva pro současné referendum; aplikuje se ZMR. Pro posouzení dávno proběhlého referenda je relevantní právo účinné v rozhodné době (intertemporalita). Procesně: rozlišit historický rozbor od aplikace platného práva.
+
+**6. Varianty.** (a) Pro úkony před účinností ZMR může být dřívější úprava intertemporálně relevantní. (b) Pro aktuální referendum platí výlučně ZMR.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zrušené ustanovení lze použít podpůrně." Neutralizace: zrušený předpis není pramenem práva pro současnost.
+- *Slabé místo:* zaměnění historického kontextu s platným právem může vést k nesprávným závěrům.
+
+#### H. Praktický závěr
+
+§ 60 zrušil část třetí zákona č. 152/1994 Sb. upravující referendum; od 1. 2. 2004 se referendum řídí výlučně ZMR. Dřívější úprava je relevantní jen intertemporálně pro dávné úkony.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Neaplikovat zrušenou část třetí zákona č. 152/1994 Sb. na současné referendum.
+- [ ] Aktuální referendum vést podle ZMR.
+- [ ] U historických úkonů zvážit právo účinné v rozhodné době.
+
+**Typicky rozhodné důkazy / podklady:** platné znění ZMR, datum posuzovaného úkonu, znění dříve platných předpisů (pro intertemporalitu).
 
 ---
 
@@ -2548,6 +4742,40 @@ Technická novela — zrušení části třetí zákona č. 152/1994 Sb., která
 
 Technická novela — zrušení části devatenácté zákona č. 132/2000 Sb., která obsahovala dílčí úpravu referenda.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Při rešerši k přechodu kompetencí po reformě veřejné správy (zrušení okresních úřadů, vznik krajů) advokát narazí na část devatenáctou zákona č. 132/2000 Sb. s dílčí úpravou referenda a zvažuje její relevanci pro dnešní stav. Rozhodné je, zda § 61 ZMR tuto část zrušil.
+
+**2. Právní otázka.** Je část devatenáctá zákona č. 132/2000 Sb. po účinnosti ZMR aplikovatelná na místní referendum?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 61 ZMR — zrušuje část devatenáctou zákona č. 132/2000 Sb.
+- *Související ustanovení téhož zákona:* § 59, § 60 (další derogace), § 66 (účinnost).
+- *Související předpisy:* zákon č. 128/2000 Sb. (obecní zřízení), zákon č. 131/2000 Sb. (hl. m. Praha).
+- *Judikatura:* —(derogační ustanovení).
+
+**4. Subsumpce.** Část devatenáctá zákona č. 132/2000 Sb. byla § 61 ZMR zrušena → po 1. 2. 2004 ji nelze aplikovat; referendum upravuje výlučně ZMR.
+
+**5. Řešení.** Z této části nelze dovozovat aktuální pravidla pro referendum; aplikuje se ZMR a obecní zřízení. Procesně: použít platné předpisy, historickou úpravu chápat jen v dobovém kontextu reformy veřejné správy.
+
+**6. Varianty.** (a) Pro posouzení přechodu kompetencí v rozhodné době může být dobová úprava relevantní. (b) Pro aktuální referendum platí ZMR.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zrušená část obsahuje přechodná pravidla, jež dosud působí." Neutralizace: zrušené ustanovení není pramenem práva; případné přetrvávající účinky by musely plynout z platného práva.
+- *Slabé místo:* spletité derogace souběžných „změnových" zákonů z let 2000–2004 mohou ztížit orientaci.
+
+#### H. Praktický závěr
+
+§ 61 zrušil část devatenáctou zákona č. 132/2000 Sb. obsahující dílčí úpravu referenda; od 1. 2. 2004 se referendum řídí výlučně ZMR. Dobová úprava je relevantní jen pro posouzení tehdejších úkonů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Neaplikovat zrušenou část devatenáctou zákona č. 132/2000 Sb. na současné referendum.
+- [ ] Referendum vést podle ZMR a obecního zřízení.
+- [ ] Historickou úpravu používat jen v dobovém kontextu.
+
+**Typicky rozhodné důkazy / podklady:** platné znění ZMR a obecního zřízení, datum posuzovaného úkonu, dobové znění zákona č. 132/2000 Sb.
+
 ---
 
 ## ČÁST ČTVRTÁ — Změna zákona č. 320/2002 Sb.
@@ -2561,6 +4789,40 @@ Technická novela — zrušení části devatenácté zákona č. 132/2000 Sb., 
 **Výklad:**
 
 Technická novela — zrušení části padesáté zákona č. 320/2002 Sb. (souvislost s ukončením činnosti okresních úřadů).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při výkladu kompetenčních změn po zrušení okresních úřadů (2003) se objeví odkaz na část padesátou zákona č. 320/2002 Sb. týkající se referenda. Pracovník zvažuje, zda z ní plynou nějaká pravidla pro dnešní referendum. Rozhodné je, zda § 62 ZMR tuto část zrušil.
+
+**2. Právní otázka.** Je část padesátá zákona č. 320/2002 Sb. po účinnosti ZMR aplikovatelná na místní referendum?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 62 ZMR — zrušuje část padesátou zákona č. 320/2002 Sb.
+- *Související ustanovení téhož zákona:* § 59–§ 61 (další derogace), § 66 (účinnost).
+- *Související předpisy:* zákon č. 128/2000 Sb. (obecní zřízení); předpisy o ukončení činnosti okresních úřadů.
+- *Judikatura:* —(derogační ustanovení).
+
+**4. Subsumpce.** Část padesátá zákona č. 320/2002 Sb. byla § 62 ZMR zrušena → po 1. 2. 2004 ji nelze aplikovat; referendum upravuje výlučně ZMR.
+
+**5. Řešení.** Z této části nelze dovozovat aktuální pravidla; aplikuje se ZMR. Procesně: použít platné právo; historickou úpravu chápat jen v kontextu reformy okresních úřadů.
+
+**6. Varianty.** (a) Pro úkony z doby přechodu kompetencí (2002–2003) může být dobová úprava intertemporálně relevantní. (b) Pro aktuální referendum platí ZMR.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Přechodná ustanovení zákona č. 320/2002 Sb. dosud působí." Neutralizace: zrušená část není pramenem práva; přetrvávající účinky by musely plynout z platného práva.
+- *Slabé místo:* množství souběžných „změnových" zákonů z téže doby může zkomplikovat určení platného stavu.
+
+#### H. Praktický závěr
+
+§ 62 zrušil část padesátou zákona č. 320/2002 Sb.; od 1. 2. 2004 se referendum řídí výlučně ZMR. Dobová úprava je relevantní jen pro tehdejší úkony v kontextu zrušení okresních úřadů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Neaplikovat zrušenou část padesátou zákona č. 320/2002 Sb. na současné referendum.
+- [ ] Referendum vést podle ZMR.
+- [ ] U historických úkonů zvážit dobové právo (intertemporalita).
+
+**Typicky rozhodné důkazy / podklady:** platné znění ZMR, datum posuzovaného úkonu, dobové znění zákona č. 320/2002 Sb.
 
 ---
 
@@ -2601,6 +4863,42 @@ Doplnění věty „nestanoví-li zvláštní právní předpis jinak" do § 87 
 Klíčová úprava: do § 89 odst. 2 ZoO se doplňuje pravomoc Ministerstva vnitra **vyzvat zastupitelstvo, aby zjednalo nápravu, nebude-li postupovat v souladu s rozhodnutím soudu o povinnosti vyhlásit referendum nebo s výsledky referenda**. Pokud zastupitelstvo nereaguje ve 2 měsících, MV ho **rozpustí**.
 
 Toto je systémově **velmi silný** vynucovací mechanismus — politické důsledky (předčasné komunální volby) jsou tak vážné, že tento mechanismus působí preventivně.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V obci proběhlo platné a závazné referendum, jehož výsledek zastupitelstvo po roce ignoruje a o věci nečiní žádné kroky. Oprávněné osoby podají Ministerstvu vnitra podnět s odkazem na § 89 ZoO ve znění § 63 ZMR a žádají, aby MV zastupitelstvo vyzvalo k nápravě a případně je rozpustilo. Rozhodné je, jaké pravomoci § 63 ZMR do zákona o obcích vložil.
+
+**2. Právní otázka.** Poskytuje § 63 ZMR (resp. jím novelizovaný § 89 ZoO) nástroj k vynucení respektování výsledku referenda, a za jakých podmínek lze zastupitelstvo rozpustit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 63 ZMR — novelizace zákona č. 128/2000 Sb.: zrušení § 21 odst. 4 (bod 1), doplnění § 87 o výjimku pro zvláštní předpis (body 2, 3), doplnění § 89 odst. 2 o vynucení rozhodnutí soudu o povinnosti vyhlásit referendum nebo výsledků referenda (bod 4).
+- *Související ustanovení téhož zákona:* § 49 (závaznost), § 14 (referendum „zhora"), § 57 (soudní ochrana).
+- *Související předpisy:* § 87 a § 89 zákona č. 128/2000 Sb. (změna/zrušení rozhodnutí orgánů obce; výzva k nápravě a rozpuštění zastupitelstva).
+- *Judikatura:* nosný závěr, že mechanismus rozpuštění je krajní, ale reálný a preventivně působící nástroj vynucení.
+
+**4. Subsumpce.** § 63 bod 4 vložil do § 89 odst. 2 ZoO pravomoc MV vyzvat zastupitelstvo k nápravě, nepostupuje-li v souladu s výsledky referenda (nebo s rozhodnutím soudu o povinnosti vyhlásit referendum). Ignorování závazného výsledku zastupitelstvem naplňuje podmínky pro výzvu k nápravě (2 měsíce) a při nečinnosti pro rozpuštění.
+
+**5. Řešení.** Podnět oprávněných osob je důvodný; MV může vyzvat zastupitelstvo k nápravě do 2 měsíců (§ 89 ZoO ve znění § 63 ZMR) a při nečinnosti je rozpustit (s následnými předčasnými volbami). Současně lze rozhodnutí/nečinnost napadnout žalobou (§ 65 SŘS). Procesně: doložit závaznost výsledku a nečinnost/rozpor orgánů obce.
+
+**6. Varianty.** (a) Kdyby výsledek byl platný, ale nezávazný, vynucovací mechanismus by se neuplatnil (orgány nejsou vázány). (b) Kdyby šlo o pražskou MČ, uplatnil by se obdobný mechanismus dle § 92 ZHMP (§ 64 ZMR), kde rozpouští zastupitelstvo hl. m. Prahy.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Rozpuštění zastupitelstva je nepřiměřené a fakticky se nepoužívá." Neutralizace: jde o krajní, ale zákonný nástroj; jeho existence působí preventivně a opírá se o § 89 ZoO.
+- *Protiargument:* MV nemůže zasahovat do samosprávy. Neutralizace: § 63 ZMR výslovně tuto dozorovou pravomoc k vynucení referenda do § 89 ZoO vložil.
+- *Slabé místo:* prokázání, že zastupitelstvo „nepostupuje v souladu" s výsledkem (zvláště u nepřímých otázek), může být sporné.
+
+#### H. Praktický závěr
+
+§ 63 ZMR vložil do zákona o obcích nástroje k vynucení referenda: výjimku v § 87 (rozhodnutí dle § 14 nelze běžně měnit) a v § 89 odst. 2 pravomoc MV vyzvat zastupitelstvo k nápravě a při nečinnosti je rozpustit. Mechanismus je krajní, ale preventivně účinný.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit závaznost výsledku referenda (§ 48, § 49).
+- [ ] Při ignorování výsledku podat podnět MV dle § 89 ZoO (výzva k nápravě, 2 měsíce).
+- [ ] Zvážit souběžnou žalobu (§ 65 SŘS) proti rozhodnutí/nečinnosti.
+- [ ] U pražských MČ uplatnit mechanismus dle § 92 ZHMP (§ 64 ZMR).
+
+**Typicky rozhodné důkazy / podklady:** zápis o výsledku referenda (závaznost), doklady o nečinnosti/rozporném jednání orgánů obce, podnět MV, časová osa.
 
 ---
 
@@ -2645,6 +4943,42 @@ Analogická úprava k § 89 odst. 2 ZoO — doplnění pravomoci k vynucení res
 Klíčová úprava pro **pražské městské části**. Pokud zastupitelstvo MČ nerespektuje rozhodnutí soudu o povinnosti vyhlásit referendum nebo výsledky referenda, **primátor hl. m. Prahy** vyzve k nápravě (2 měsíce). Pokud MČ nezjedná nápravu, **zastupitelstvo hl. m. Prahy** může MČ **rozpustit**.
 
 Specifikum Prahy: rozpouštění nedělá MV, ale **zastupitelstvo hl. m. Prahy** — to odpovídá specifické dvouúrovňové struktuře samosprávy v Praze. Proti rozpuštění MČ má právo na soudní ochranu (žaloba podle § 65 SŘS).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V městské části hl. m. Prahy proběhlo platné a závazné referendum o věci samostatné působnosti MČ; zastupitelstvo MČ výsledek dlouhodobě nerespektuje. Oprávněné osoby žádají, aby zasáhl primátor hl. m. Prahy. Zastupitelstvo MČ namítá, že rozpustit je může jen Ministerstvo vnitra jako u jiných obcí. Rozhodné je, kdo a jak vynucuje referendum u pražských MČ.
+
+**2. Právní otázka.** Kdo je oprávněn vyzvat zastupitelstvo pražské MČ k nápravě a případně je rozpustit, nerespektuje-li výsledek referenda?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 64 ZMR — novelizace zákona č. 131/2000 Sb.: výjimky v § 62 a § 90 (body 1, 3), úprava § 67 odst. 2 (bod 2) a nový § 92 odst. 4 (bod 4) — primátor hl. m. Prahy vyzve zastupitelstvo MČ k nápravě (2 měsíce), při nečinnosti je rozpustí zastupitelstvo hl. m. Prahy; soudní ochrana MČ.
+- *Související ustanovení téhož zákona:* § 49 (závaznost), § 63 (paralela pro obce), § 57 (soudní ochrana).
+- *Související předpisy:* zákon č. 131/2000 Sb. (§ 62, § 67, § 90, § 92); § 65 SŘS (žaloba MČ).
+- *Judikatura:* nosný závěr, že vynucení u pražských MČ má specifickou dvouúrovňovou strukturu (primátor → zastupitelstvo hl. m. Prahy).
+
+**4. Subsumpce.** U pražské MČ se neuplatní rozpouštění Ministerstvem vnitra, nýbrž mechanismus § 92 odst. 4 ZHMP (vložený § 64 bod 4 ZMR): primátor hl. m. Prahy vyzve zastupitelstvo MČ k nápravě do 2 měsíců a při nečinnosti je rozpustí zastupitelstvo hl. m. Prahy. Závazný a nerespektovaný výsledek referenda podmínky tohoto postupu naplňuje.
+
+**5. Řešení.** Příslušný k výzvě je primátor hl. m. Prahy, k rozpuštění zastupitelstvo hl. m. Prahy (nikoli MV). MČ má proti rozpuštění žalobu (§ 65 SŘS). Procesně: oprávněné osoby podají podnět primátorovi; doloží závaznost výsledku a nečinnost MČ.
+
+**6. Varianty.** (a) Kdyby šlo o „běžnou" obec mimo Prahu, uplatnil by se mechanismus § 89 ZoO (§ 63 ZMR) s rolí MV. (b) Kdyby výsledek byl nezávazný, vynucovací mechanismus by se neuplatnil.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Rozpustit MČ může jen MV jako jiné obce." Neutralizace: § 92 odst. 4 ZHMP (§ 64 ZMR) svěřuje tuto pravomoc orgánům hl. m. Prahy (primátor → zastupitelstvo hl. m. Prahy).
+- *Protiargument:* zásah hl. m. Prahy do MČ je nepřípustný. Neutralizace: odpovídá dvouúrovňové struktuře Prahy a je zákonem výslovně zakotven.
+- *Slabé místo:* prokázání nerespektování výsledku a vymezení samostatné působnosti MČ (statut) může být sporné.
+
+#### H. Praktický závěr
+
+§ 64 ZMR zavedl do zákona o hl. m. Praze paralelní mechanismus vynucení referenda: u pražských MČ vyzývá k nápravě primátor hl. m. Prahy a při nečinnosti rozpouští zastupitelstvo hl. m. Prahy (ne MV); MČ má soudní ochranu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U pražské MČ směřovat podnět primátorovi hl. m. Prahy (ne MV).
+- [ ] Ověřit závaznost výsledku a samostatnou působnost MČ dle statutu.
+- [ ] Počítat s rozpuštěním zastupitelstvem hl. m. Prahy a se soudní ochranou MČ.
+- [ ] Mimo Prahu použít mechanismus § 89 ZoO (§ 63 ZMR).
+
+**Typicky rozhodné důkazy / podklady:** zápis o výsledku referenda (závaznost), statut hl. m. Prahy (působnost MČ), doklady o nečinnosti MČ, podnět primátorovi.
 
 ---
 
@@ -2713,6 +5047,42 @@ Klíčová úprava — **čtyři typy řízení**:
 
 Zařazení věcí místního referenda do kategorie, kde je kasační stížnost **vyloučena**. Toto však bylo později **změněno** zákonem č. 252/2015 Sb. — kasační stížnost je nyní v věcech místního referenda **přípustná**, čímž se umožňuje sjednocování judikatury na úrovni NSS.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Přípravný výbor podává návrh na vyhlášení referenda; obává se, že v jednom místně příslušném krajském soudu jsou rozhodnutí nepředvídatelná. Zvažuje, ke kterému soudu návrh směřovat, zda se nařizuje jednání a zda lze proti nepříznivému rozhodnutí podat kasační stížnost k NSS. Rozhodné je procesní nastavení řízení dle § 91a SŘS (vloženého § 65 ZMR).
+
+**2. Právní otázka.** Jaký je procesní rámec soudní ochrany ve věcech místního referenda — typy návrhů, účastníci, lhůta soudu, forma rozhodnutí a přípustnost kasační stížnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 65 ZMR — novelizace SŘS: rozšíření § 4 odst. 2 (bod 1) a nadpisu dílu (bod 2); vložení § 91a SŘS se čtyřmi typy návrhů (určení bezvadnosti, vyhlášení referenda, neplatnost rozhodnutí, neplatnost hlasování), s vymezením účastníků a 30denní lhůtou soudu, bez nutnosti nařídit jednání (bod 3); zařazení do kategorie dle § 104 odst. 1 (bod 4).
+- *Související ustanovení téhož zákona:* § 57 a § 58 (hmotněprávní úprava návrhů), § 9 odst. 2 písm. c), d) (legitimace výboru).
+- *Související předpisy:* § 91a a § 104 SŘS; zákon č. 252/2015 Sb. (přípustnost kasační stížnosti).
+- *Judikatura:* NSS sjednocuje výklad (in dubio pro referendo); kasační stížnost umožňuje judikatorní jednotu.
+
+**4. Subsumpce.** Řízení probíhá dle § 91a SŘS: čtyři typy návrhů, účastníky jsou přípravný výbor a obec/MČ/MO/hl. m. Praha (u neplatnosti i oprávněná osoba), soud rozhoduje usnesením do 30 dnů bez nařízení jednání. Přestože § 65 bod 4 původně kasační stížnost vyloučil, novela č. 252/2015 Sb. ji připustila → proti rozhodnutí krajského soudu je kasační stížnost k NSS přípustná.
+
+**5. Řešení.** Výbor podá návrh ke krajskému soudu (dle sídla obce); soud rozhodne usnesením do 30 dnů bez jednání. Proti nepříznivému rozhodnutí lze podat kasační stížnost k NSS, který sjednocuje judikaturu. Procesně: využít rychlost řízení (písemná forma) a v případě potřeby kasační přezkum k NSS.
+
+**6. Varianty.** (a) Jde-li o návrh na neplatnost (písm. c, d), je účastníkem i oprávněná osoba (širší legitimace). (b) Před novelou č. 252/2015 Sb. by kasační stížnost byla vyloučena (§ 104 odst. 1 SŘS v původním znění).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ve věcech referenda není kasační stížnost přípustná." Neutralizace: po novele č. 252/2015 Sb. přípustná je; původní vyloučení dle § 65 bodu 4 bylo překonáno.
+- *Protiargument:* bez jednání je řízení neúplné. Neutralizace: § 91a odst. 3 SŘS výslovně umožňuje rozhodnout bez nařízení jednání; odpovídá to nutnosti rychlosti.
+- *Slabé místo:* krátká 30denní lhůta soudu a písemnost řízení kladou důraz na kvalitu podání; doplňování argumentace je omezené.
+
+#### H. Praktický závěr
+
+§ 65 ZMR vložil do SŘS § 91a se čtyřmi typy řízení ve věcech referenda; příslušný je krajský soud, rozhoduje usnesením do 30 dnů bez jednání. Kasační stížnost k NSS je (po novele č. 252/2015 Sb.) přípustná a slouží sjednocování judikatury.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zvolit správný typ návrhu dle § 91a odst. 1 SŘS (a contrario § 57/§ 58 ZMR).
+- [ ] Podat návrh ke krajskému soudu; počítat s rozhodnutím do 30 dnů bez jednání.
+- [ ] U návrhů na neplatnost respektovat širší okruh účastníků (i oprávněná osoba).
+- [ ] Proti rozhodnutí krajského soudu zvážit kasační stížnost k NSS.
+
+**Typicky rozhodné důkazy / podklady:** návrh dle § 91a SŘS, podklady k přípustnosti/neplatnosti (dle typu řízení), rozhodnutí krajského soudu (pro kasační stížnost).
+
 ---
 
 ## ČÁST OSMÁ — Účinnost
@@ -2728,6 +5098,42 @@ Zařazení věcí místního referenda do kategorie, kde je kasační stížnost
 #### Účinnost zákona
 
 ZMR byl publikován ve Sbírce zákonů dne **29. ledna 2004** (částka 8, s. 354), tedy účinnosti nabyl **1. února 2004**. Tento termín byl zvolen tak, aby zákon mohl být aplikován na první referenda v r. 2004 (typicky komunální volby říjen 2002, takže okno 2 let mezi komunálkami bylo příhodné).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát posuzuje úkon učiněný v referendovém procesu zahájeném v lednu 2004, krátce před a po 1. únoru 2004. Klade si otázku, zda se na úkon aplikuje ZMR, nebo dřívější úprava, a od kterého okamžiku ZMR platí. Rozhodné je pravidlo o nabytí účinnosti zákona.
+
+**2. Právní otázka.** Od kdy nabývá ZMR účinnosti a jak se určuje aplikovatelnost ZMR na úkony učiněné na přelomu jeho účinnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 66 ZMR — zákon nabývá účinnosti prvním dnem kalendářního měsíce následujícího po jeho vyhlášení (publikace 29. 1. 2004 → účinnost 1. 2. 2004).
+- *Související ustanovení téhož zákona:* § 59–§ 65 (derogace a novelizace navázané na účinnost), celý ZMR.
+- *Související předpisy:* obecná pravidla o účinnosti a intertemporalitě právních předpisů.
+- *Judikatura:* —(jde o ustanovení o účinnosti).
+
+**4. Subsumpce.** ZMR nabyl účinnosti 1. 2. 2004 (§ 66). Úkony učiněné po tomto dni se řídí ZMR; úkony učiněné před ním se posuzují podle tehdy účinného práva (intertemporalita), neboť před účinností ZMR ještě platila dřívější úprava (zrušená § 59 ZMR až k tomuto dni).
+
+**5. Řešení.** Pro úkon učiněný po 1. 2. 2004 se aplikuje ZMR; pro úkon učiněný před tímto dnem dřívější úprava. Procesně: určit datum úkonu a podle něj zvolit rozhodné právo; u procesů „přesahujících" účinnost postupovat dle obecných intertemporálních zásad.
+
+**6. Varianty.** (a) Pro pozdější referenda (po novelách, např. č. 38/2012 Sb., č. 252/2015 Sb.) se aplikuje ZMR v příslušném pozdějším znění. (b) Pro úkon učiněný 31. 1. 2004 by se ZMR ještě nepoužil.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „ZMR platí už od vyhlášení (29. 1. 2004)." Neutralizace: § 66 váže účinnost na první den následujícího měsíce (1. 2. 2004), ne na den vyhlášení.
+- *Protiargument:* na všechny úkony se zpětně použije ZMR. Neutralizace: zpětná účinnost se nepředpokládá; úkony před účinností se řídí dřívějším právem.
+- *Slabé místo:* u procesů zahájených před účinností a dokončených po ní může být určení rozhodného práva pro jednotlivé úkony nejednoznačné.
+
+#### H. Praktický závěr
+
+ZMR nabyl účinnosti 1. 2. 2004 (první den měsíce po vyhlášení). Úkony po tomto dni se řídí ZMR (v příslušném pozdějším znění po novelách), úkony před ním dřívějším právem; zpětná účinnost se nepředpokládá.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit datum posuzovaného úkonu a porovnat s 1. 2. 2004.
+- [ ] Aplikovat ZMR na úkony od účinnosti; dřívější právo na úkony před ní.
+- [ ] U pozdějších referend použít ZMR ve znění účinném v rozhodné době (novely).
+- [ ] U procesů přesahujících účinnost postupovat dle intertemporálních zásad.
+
+**Typicky rozhodné důkazy / podklady:** datum publikace a účinnosti ZMR, datum posuzovaného úkonu, znění ZMR účinné v rozhodné době.
 
 ---
 
