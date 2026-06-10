@@ -310,6 +310,11 @@ Výčet překážek je taxativní; omezení svéprávnosti vyřazuje z hlasován
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Ars 1/2018 - 26](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/645660) — 21. 3. 2018
+  > „Skutečnost, že jde o pouhé opomenutí, které je třeba překlenout výkladem, je však zjevná ze smyslu citovaného ustanovení. … Tím nesporně je zakotvit, že místní referendum se zásadně koná v jediném dni, ovšem pokud se má konat v době, kdy jsou vyhlášeny volby, pak je praktické a úsporné tuto zásadu prolomit, aby občané mohli současně odevzdat hlas ve volbách i v místním referendu"
+
 #### Jednodenní hlasování s výjimkou souběhu (odst. 1)
 
 Základním pravidlem je **jednodenní** konání hlasování. Výjimkou je souběh referenda s volbami — pak se přebírá doba hlasování stanovená volebním zákonem, která může být i **dvoudenní** (typicky pátek od 14.00 do 22.00 a sobota od 8.00 do 14.00 — § 18 zákona č. 491/2001 Sb.). Při dvoudenních volbách se tedy referendum koná také dva dny.
@@ -389,6 +394,15 @@ Hlasování je jednodenní, při souběhu s volbami přebírá jejich (i dvouden
 > *V místním referendu se rozhoduje o věcech, které patří do samostatné působnosti obce nebo statutárního města.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Ars 6/2022 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/713461) — 8. 8. 2023
+  > „Pro posouzení souladu rozhodnutí přijatého v místním referendu s § 6 a § 7 zákona č. 22/2004 Sb., o místním referendu a o změně některých zákonů (dále jen „zákon o místním referendu“), je třeba zejména zkoumat, k jakým úkonům mohou výsledky referenda orgány obce reálně opravňovat a zavazovat. … kromě referenda ratifikačního, na základě jehož výsledku rozhoduje obec v rámci své samostatné působnosti s konečnou platností, se mohou konat i referenda konzultativní. … Výsledkem takového referenda pak může být určité stanovisko, které má obec zastávat, třebaže ve věci nemůže sama rozhodnout"
+- *NSS* [57 A 87/2023 - 125](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/718538) — 24. 1. 2024
+  > „jakékoli rozhodnutí přijaté v místním referendu zavazuje jen orgány statutárního města, na jehož území se konalo, v rámci zajišťování výkonu samostatné působnosti. Místní referendum se tak nemůže týkat výkonu státní moci a jeho výsledek nemůže zavazovat orgány obce, pokud vykonávají zákonem svěřenou státní správu v rámci přenesené působnosti. Výsledek platného místního referenda je pro orgány obce určující pouze ve věcech, které spadají do samostatné působnosti obce, nikoli ve věcech spadajících do přenesené působnosti"
+- *NSS* [8 A 125/2015 - 129](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/460355) — 1. 3. 2018
+  > „se jedná o nástroj přímé demokracie umožňující na komunální úrovni vyjádření se k otázce týkající se samostatné působnosti obce (srov. ustanovení § 6 zákona č. 22/2004 Sb., o místním referendu). V posuzovaném případě mělo referendum tzv. konzultativní povahu, neboť obec sama v řízení v rámci své samostatné působnosti nerozhoduje. Výsledek referenda v tomto případě zavazuje orgány obce, resp. její orgány, v tom smyslu, že mají povinnost zastupovat coby účastník řízení zájem vyjádřený výsledkem konaného místního referenda"
 
 #### Klíčový vymezovací pojem: samostatná působnost
 
@@ -490,6 +504,13 @@ NSS tuto zásadu konkretizoval v sérii rozhodnutí (např. Ars 4/2013, Ars 7/20
 > *h) jestliže od platného rozhodnutí v místním referendu do podání návrhu na konání místního referenda v téže věci neuplynulo 24 měsíců.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 995/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-995-09_1) — nález, 9. 2. 2012
+  > „…je nutné vykládat i ustanovení § 7 ZMR, jež taxativně vymezuje podmínky, kdy místní referendum nelze konat. Toto ustanovení musí být dle názoru Ústavního soudu vykládáno restriktivním způsobem. … výlukový bod dle § 7 písm. d) ZMR je třeba vykládat teleologicky - s přihlédnutím k účelu a smyslu zákona o místním referendu. … je třeba ustanovení § 7 písm. d) zákona o místním referendu vztáhnout toliko na případy, kdy položená otázka či eventuální výsledek referenda jsou v rozporu s právními normami kogentní povahy"
+- *ÚS* [I.ÚS 101/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-101-05) — nález, 13. 3. 2007
+  > „Účelem místního referenda je umožnit občanům přímou správu veřejných věcí (čl. 21 odst. 1 Listiny) náležejících do samostatné působnosti obce (statutárního města) s výjimkami v zákoně o místním referendu uvedenými. … Judikatura zaujala stanovisko, že uvedená výluka dopadá jen na případy, kdy zákon zakládá obci pravomoc rozhodovat o věci patřící do samostatné působnosti obce ve zvláštním řízení, tj. v řízení formálně upraveném procesním předpisem. Konání místního referenda však nemůže bránit skutečnost, že určitá věc je či bude předmětem správního řízení konaného v přenesené působnosti"
 
 #### Taxativní katalog vyloučených věcí
 
@@ -618,6 +639,13 @@ Důležitá zpřesnění:
 > *(3) Otázka navržená pro místní referendum musí být jednoznačně položena tak, aby na ni bylo možno odpovědět slovem „ano“ nebo slovem „ne“.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Ars 11/2014 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/633972) — 5. 3. 2015
+  > „Při rozhodování o jednoznačnosti zvolených otázek podle § 8 odst. 3 zákona č. 22/2004 Sb., o místním referendu, je třeba poměřovat předloženou otázku nikoli ‚rigorózním právnickým okem‘, ale zohlednit pohled běžného hlasujícího občana. … Případná otázka musí dosahovat určité intenzity a navozovat matoucí a víceznačné interpretace již při prvním čtení. Striktní interpretace by totiž mohla vést k tomu, že by řada nepohodlných otázek byla ‚vetována‘ s poukazem na jejich nejednoznačnost"
+- *ÚS* [I.ÚS 4908/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-4908-12_1) — usnesení, 9. 1. 2013
+  > „Ústavní soud v této souvislosti hovoří o referendu "vyvolaném zdola", na návrh tzv. přípravného výboru (§ 8 odst. 1 písm. b) č. 22/2004 Sb.), které může představovat významný demokratický kontrolní mechanismus uplatňovaný veřejností obce vůči jejím orgánům. Zastupitelstvo obce v případě, že jsou splněny všechny podmínky vyplývající ze zákona o místním referendu, má povinnost takové referendum vyhlásit, nehledě na to, zda zastupitelstvo samo jako orgán s konáním referenda k otázce navrhované přípravným výborem souhlasí či nikoli"
 
 #### Dvojí cesta k referendu (odst. 1)
 
@@ -828,6 +856,11 @@ Přípravný výbor je neformální sdružení nejméně 3 oprávněných osob s
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [77 A 92/2021 - 82](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/673070) — 25. 8. 2021
+  > „Byť relevantní právní úprava, tedy zákon o místním referendu, neobsahuje žádnou lhůtu, po kterou lze použít podepsaný podpisový arch jako přílohu k návrhu na vyhlášení místního referenda, je třeba vycházet z toho, že (místní) referendum je procesem, který je, při splnění podmínek stanovených zákonem, jasně ukončen konáním referenda, tedy hlasováním o dané otázce, čímž je smysl zákona o místním referendu naplněn. … Podpis vyjadřující souhlasnou vůli signatáře s konáním referenda nelze brát jako jakýsi bianco šek pro futuro ve smyslu „jednou souhlas, navždy souhlas“ (s konáním referenda)"
+
 #### Šest obligatorních náležitostí návrhu (odst. 1)
 
 § 10 odst. 1 stanoví **šest povinných náležitostí** návrhu přípravného výboru. Chybí-li některá z nich, návrh nemá zákonné náležitosti a obecní úřad k jeho odstranění vyzve podle § 12 odst. 2. Postupně:
@@ -928,6 +961,11 @@ Návrh má šest obligatorních náležitostí (§ 10 odst. 1) a podpisovou list
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Ars 1/2022 - 30](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/702810) — 4. 8. 2022
+  > „Smyslem požadavku na získání dostatečného množství petentů k upořádání místního referenda je to, aby bylo konáno referendum jen o takových otázkách, které jsou podstatné pro významnou část občanů obce … Postačí-li v občanském právu k písemnému projevení vůle pouze podpis jednajícího, není důvod se domnívat, že by tomu mělo být v právu veřejném jinak, pokud to výslovně nevyplývá z právního předpisu. Právě požadavek vlastnoručního podpisu uvedený v § 11 odst. 2 zákona o místním referendu tedy má sloužit k ověření projevu vůle petenta"
+
 #### Náležitosti podpisového archu (odst. 1)
 
 Každý podpisový arch musí splňovat čtyři náležitosti. **Pozor — náležitosti se vyžadují u každého archu jednotlivě, nikoli pouze u prvního archu listiny.** Toto vede k tomu, že:
@@ -1011,6 +1049,13 @@ Každý podpisový arch musí samostatně obsahovat náležitosti § 11 odst. 1 
 > *(5) Na doručování písemností se použijí ustanovení správního řádu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Ars 4/2014 - 99](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/632735) — 22. 10. 2014
+  > „výzvy k odstranění vad návrhu na konání místního referendu ve smyslu § 12 odst. 2 zákona o místním referendu. Tento institut je třeba vnímat prizmatem citovaných ústavněprávních východisek a mít na mysli, že se jedná o realizaci významného ústavně garantovaného politického práva. Předmětnou výzvu je tudíž nutno chápat nikoliv jako obstrukční prostředek a nástroj k zabránění konání místního referenda, nýbrž jako prostředek umožňující navrhovateli odstranit případné vady návrhu. Obsah výzvy pak musí odpovídat jejímu účelu"
+- *NSS* [Ars 2/2017 - 60](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/643498) — 31. 8. 2017
+  > „Ačkoliv se jak v § 10, tak v § 11 zákona o místním referendu hovoří o znění otázek navržených k rozhodnutí v referendu, nevyplývá z nich, že by se měl obecní úřad zabývat tím, zda lze o navržené otázce referendum konat. Tuto pravomoc má podle § 13 odst. 1 zákona o místním referendu totiž až zastupitelstvo obce, jemuž byl bezvadný návrh (ve smyslu § 12) předložen. … vady návrhu ve smyslu § 12 zákona o místním referendu jsou v zásadě vždy odstranitelné (doplnění odůvodnění návrhu nebo dalších podpisů), proto je ostatně nastaven proces napravení těchto vad"
 
 #### Kontrolní pravomoc obecního úřadu (odst. 1)
 
@@ -1102,6 +1147,15 @@ Obecní úřad provádí jen formální přezkum náležitostí (15 dnů; výzva
 > *(3) Zastupitelstvo obce nebo zastupitelstvo statutárního města může o otázce navržené k rozhodnutí v místním referendu rozhodnout bez vyhlášení místního referenda; o tomto rozhodnutí neprodleně písemně vyrozumí zmocněnce. Takové rozhodnutí nelze vykonat před uplynutím lhůty stanovené ve větě třetí. Prohlásí-li zmocněnec ve lhůtě 7 dnů ode dne doručení tohoto vyrozumění, že na konání místního referenda trvá, zastupitelstvo obce nebo zastupitelstvo statutárního města na svém nejbližším zasedání místní referendum vyhlásí. Rozhodnutí zastupitelstva obce nebo zastupitelstva statutárního města podle věty první pozbývá dnem vyhlášení místního referenda platnosti. Ode dne vyhlášení místního referenda do dne vyhlášení jeho výsledků nepřísluší orgánům obce nebo orgánům statutárního města rozhodovat o věci, která je předmětem otázky ve vyhlášeném místním referendu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 873/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-873-09_1) — nález, 9. 2. 2012
+  > „Zastupitelstvo obce v případě, že jsou splněny všechny podmínky vyplývající ze zákona o místním referendu, má povinnost takové referendum vyhlásit, nehledě na to, zda zastupitelstvo samo jako orgán s konáním referenda k otázce navrhované přípravným výborem souhlasí či nikoli. Rozhodnout podle § 13 odst. 1 písm. b) ZMR o tom, že se místní referendum nevyhlásí, může zastupitelstvo jen v případech, kdy v dané věci ex lege podle § 6 a 7 ZMR vůbec nelze místní referendum konat. Na vyhlášení místního referenda z popudu přípravného výboru tedy za splnění zákonných podmínek vzniká právní nárok…"
+- *ÚS* [IV.ÚS 1403/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1403-09_1) — nález, 19. 4. 2010
+  > „Odůvodnění rozhodnutí krajského soudu, podle něhož se splnění všech podmínek vyhlášení referenda musí posuzovat v době, kdy je o něm příslušným orgánem rozhodováno (tj. ke dni zasedání zastupitelstva, resp. krajského soudu, pokud je mu podán návrh podle § 91a s. ř. s.), považuje Ústavní soud za přesvědčivé, ústavně konformní a důsledně vzato i jediné prakticky možné"
+- *NSS* [51 A 65/2025 - 25](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747055) — 2. 9. 2025
+  > „…byl zastupitelstvu odpůrkyně předložen formálně bezvadný návrh. Za této situace měla odpůrkyně jen dvě možnosti, jak postupovat: Buď měla usnesením rozhodnout o vyhlášení místního referenda o navrhovatelem navržené otázce a zároveň stanovit termín konání [§ 13 odst. 1 písm. a) ZoMR], nebo usnesením rozhodnout, že místní referendum nevyhlásí z důvodu, že o navržené otázce nelze místní referendum konat [§ 13 odst. 1 písm. b) ZoMR]"
 
 #### Materiální přezkum zastupitelstva (odst. 1)
 
@@ -1197,6 +1251,11 @@ Zastupitelstvo buď referendum vyhlásí, nebo rozhodne, že nevyhlásí (§ 13 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Ars 5/2021 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/700106) — 4. 5. 2022
+  > „Podle § 14, věty druhé, zákona o místním referendu musí usnesení o vyhlášení místního referenda obsahovat náležitosti uvedené v § 10 odst. 1 písm. a) až d) téhož zákona … se jedná o významné údaje a na náležitosti návrhu přípravného výboru a usnesení zastupitelstva musí být nahlíženo stejně … Smyslem těchto náležitostí je, aby vůle občanů obce vyjádřená v hlasování vycházela z toho, že hlasující mají k dispozici alespoň základní informace o důsledcích svých rozhodnutí"
+
 #### Referendum „zhora"
 
 § 14 upravuje druhou variantu vyhlášení referenda — **z vlastní iniciativy zastupitelstva**. Tento mechanismus je v praxi využíván minimálně — zastupitelstvo zpravidla raději rozhodne samo, než by věc předkládalo občanům. Pokud k tomuto kroku přistoupí, jde obvykle o:
@@ -1266,6 +1325,11 @@ Referendum „zhora" vyhlašuje zastupitelstvo prostou většinou všech členů
 > *Místní referendum se koná nejpozději do 90 dnů po dni jeho vyhlášení, není-li v návrhu přípravného výboru uvedena doba pozdější. Dnem vyhlášení místního referenda je první den vyvěšení usnesení zastupitelstva obce nebo zastupitelstva statutárního města na úřední desce příslušného obecního úřadu nebo na úřední desce magistrátu statutárního města. Koná-li se místní referendum z rozhodnutí zastupitelstva obce nebo zastupitelstva statutárního města, nesmí být den konání místního referenda stanoven tak, aby připadl do následujícího funkčního období zastupitelstva obce nebo zastupitelstva statutárního města.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Ars 5/2023 - 62](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/713467) — 8. 8. 2023
+  > „zákon o místním referendu neobsahuje ustanovení, které by omezovalo přípravný výbor při volbě navrhovaného termínu místního referenda. Zákon omezuje pouze zastupitelstvo, vyhlašuje-li místní referendum ze svého rozhodnutí, a to tak, že nemůže stanovit termín jeho konání za horizont svého funkčního období (a tím svazovat své nástupce). … má zastupitelstvo jen minimální prostor, resp. musí osvědčit mimořádně silné argumenty pro to, aby se od návrhu přípravného výboru např. poukazem na jeho neaktuálnost odchýlilo…"
 
 #### Maximální 90denní lhůta
 
@@ -2264,6 +2328,11 @@ Funkce člena komise je jiným úkonem v obecném zájmu: vzniká nárok na prac
 > *(7) Náklady na zajištění volební místnosti a jejího vybavení podle odstavce 6, které vyžadují současně příslušný zvláštní zákon a tento zákon, se hradí ze státního rozpočtu, koná-li se místní referendum v souběhu s volbami, nebo z rozpočtu kraje, koná-li se místní referendum pouze v souběhu s krajským referendem nebo jedná-li se o vybavení, které vyžadují současně pouze zákon upravující krajské referendum a tento zákon.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [51 A 90/2025 - 103](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/768787) — 14. 11. 2025
+  > „V případě souběžného konání místního referenda a voleb (§ 27a odst. 1 zákona č. 22/2004 Sb., o místním referendu) může okrsková volební komise vydat hlasovací a volební lístky a úřední obálky až poté, co budou zjištěny jednak vůle voliče ohledně toho, jakého typu hlasování se chce zúčastnit, a jednak jeho oprávnění v místním referendu a volbách hlasovat, resp. volit. Automatické vydání hlasovacích a volebních lístků a úředních obálek není přípustné"
 
 #### Funkční sloučení komisí
 
@@ -3812,6 +3881,13 @@ Starosta/primátor oznamuje MV (u MČ Prahy Magistrátu) vyhlášení referenda,
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Ars 4/2018 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/649524) — 7. 2. 2019
+  > „Účast v místním referendu z hlediska potřebného kvora (tj. požadavku na účast alespoň 35 % oprávněných osob zapsaných v seznamech oprávněných osob podle § 48 odst. 1 zákona o místním referendu) se totiž odvíjí od počtu vydaných hlasovacích lístků a úředních obálek, nikoliv od počtu platných hlasů. … do požadovaného kvora pro platnost rozhodnutí v místním referendu se započítávají jak platné, tak i neplatné hlasy"
+- *NSS* [43 A 75/2022 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/705597) — 20. 10. 2022
+  > „Soud je přesvědčen, že oprávněná osoba se místního referenda účastní od okamžiku, kdy si převezeme úřední obálku a hlasovací lístek. Prokázáním oprávněnosti hlasovat v místním referendu a převzetím úřední obálky a hlasovacího lístku totiž oprávněná osoba jednoznačně vyjeví vůli podílet se na správě věcí veřejných jednou z forem přímé demokracie, tedy prostřednictvím místního referenda"
+
 #### Dvojí kvórum: platnost + závaznost
 
 § 48 je **klíčovým ustanovením** ZMR a v praxi nejvíce diskutovaným. Zavádí **dvojí kvórum**:
@@ -3907,6 +3983,13 @@ Rozhodnutí je platné při účasti ≥ 35 % oprávněných a závazné jen teh
 > *Rozhodnutí v místním referendu je pro zastupitelstvo obce, zastupitelstvo statutárního města a orgány obce a statutárního města závazné.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 212/2015 - 27](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/637058) — 12. 1. 2016
+  > „Podle § 49 zákona č. 22/2004 Sb., o místním referendu a o změně některých zákonů, ve znění pozdějších předpisů, je rozhodnutí v místním referendu pro zastupitelstvo obce a jeho orgány závazné. … výsledek místního referenda nemůže nahradit posouzení určitého záměru v režimu podle zvláštních zákonů, a smyslem konání referenda proto nemůže být nahrazení činnosti jiných orgánů, nýbrž pouze zjištění politického názoru občanů"
+- *NSS* [59 A 87/2021 - 540](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/687962) — 26. 1. 2022
+  > „…vyjádřit se k odkazu žalovaného na § 49 zákona č. 22/2004 Sb., o místním referendu a o změně některých zákonů. Uvedené ustanovení deklaruje závaznost rozhodnutí v místním referendu, nicméně jde o závaznost pro uvedené orgány dané obce v rámci zajišťování samostatné působnosti, a nezavazuje je, pokud vykonávají zákonem svěřenou státní správu v rámci přenesené působnosti"
 
 #### Povaha závaznosti
 
@@ -4179,6 +4262,11 @@ Hlasovací místnosti pro okrskové komise (vybavení a pracovní síly) a pomoc
 > *(2) Lhůty nelze prodloužit ani prominout jejich zmeškání.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Ars 2/2014 - 19](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/631528) — 4. 6. 2014
+  > „lhůta na podání návrhu k příslušnému orgánu je v souladu s § 53 lhůtou hmotněprávní, úkon tedy musí být učiněn u příslušného orgánu v dané lhůtě, kterou nelze prominout … konec je určen (podobně jako např. ve věcech volebních) na konkrétní hodinu: § 53 odst. 1 ji tedy zkrátil, když stanovil, že lhůta je zachována, je-li úkon učiněn poslední den lhůty do 16.00 hodin. … jde o lhůtu, jejíž konec je podle zvláštního zákona určen podle hodin a nevztahuje se na ni pravidlo o posunu"
 
 #### Pravidlo 16. hodiny
 
@@ -4462,6 +4550,13 @@ ZMR sankcionuje tři jednání spojená s podpisovou listinou (vícenásobný po
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Ars 1/2014 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/630391) — 12. 2. 2014
+  > „Podle ustanovení § 91a s. ř. s. je soudní ochrana ve věcech místního referenda koncipována jako předběžná anebo následná. Před konáním referenda soud a) určuje, že návrh na konání místního referenda nemá nedostatky, b) je oprávněn vyhlásit místní referendum; naopak po uskutečnění referenda může soud c) vyslovit neplatnost přijatého rozhodnutí a d) vyslovit neplatnost hlasování. Bližší úprava soudní ochrany návrhu přípravného výboru je obsažena v ustanovení § 57 zákona č. 22/2004 Sb., o místním referendu, ve znění pozdějších předpisů"
+- *ÚS* [I.ÚS 2008/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2008-09_1) — usnesení, 6. 4. 2010
+  > „Ústavní soud nesdílí názor stěžovatele, že správní soud vyložil lhůtu zakotvenou § 57 odst. 2 písm. b) zákona o místním referendu příliš formalisticky, pokud její počátek odvíjel od data jednání zastupitelstva, a nikoliv od okamžiku, kdy mu bylo rozhodnutí z něho vycházející doručeno. … Nejedná se tedy o formalismus, pokud správní soud odvíjel počátek běhu lhůty od data jednání zastupitelstva, byť by se s ohledem na nečinnost zastupitelstva v doručovací agendě tímto mohl stěžovatel cítit znevýhodněn"
+
 #### Dvě situace soudní ochrany před referendem
 
 § 57 upravuje soudní ochranu **před** referendem — tedy v procesu projednávání návrhu přípravného výboru a vyhlašování referenda. Procesně se realizuje podle § 91a soudního řádu správního (vložen § 65 ZMR).
@@ -4551,6 +4646,13 @@ Přípravný výbor se brání před referendem návrhem dle § 57 (proti výzv�
 > *(2) Návrh je třeba podat nejpozději do 10 dnů po vyhlášení výsledků hlasování.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Ars 1/2015 - 94](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/635847) — 2. 9. 2015
+  > „Následná ochrana je poskytována i všem oprávněným osobám, tedy voličům oprávněným volit do zastupitelstva dané obce (srov. § 91a odst. 2 s. ř. s. a § 58 za použití § 2 zákona o místním referendu) a do značné míry odpovídá ochraně poskytované ve volebním soudnictví … Citovaná ustanovení proto vyčerpávají soudní ochranu, jíž lze v „referendových“ věcech poskytnout. … Širší posteriorní ochrana odráží skutečnost, že se referenda účastnily či mohly účastnit osoby, které jej neiniciovaly - a zahrnuje proto i oprávněné osoby"
+- *NSS* [50 A 6/2015 - 155](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/537961) — 14. 3. 2016
+  > „po uplynutí zákonné lhůty dle ustanovení § 58 odst. 2 zákona č. 22/2004 Sb., o místním referendu, ve znění pozdějších předpisů již výsledky místního referenda nelze úspěšně rozporovat"
 
 #### Tři důvody pro vyslovení neplatnosti
 
