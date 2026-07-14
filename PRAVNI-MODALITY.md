@@ -138,3 +138,127 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | rozhodne; jmenuje | [§ 8](https://e-sbirka.gov.cz/sb/2004/22#par_8); [§ 13](https://e-sbirka.gov.cz/sb/2004/22#par_13); [§ 16](https://e-sbirka.gov.cz/sb/2004/22#par_16); [§ 21](https://e-sbirka.gov.cz/sb/2004/22#par_21); [§ 23](https://e-sbirka.gov.cz/sb/2004/22#par_23) |
 | Oprávnění a povinnost | má právo; musí; může podat; mají právo | [§ 2](https://e-sbirka.gov.cz/sb/2004/22#par_2); [§ 8](https://e-sbirka.gov.cz/sb/2004/22#par_8); [§ 9](https://e-sbirka.gov.cz/sb/2004/22#par_9); [§ 21](https://e-sbirka.gov.cz/sb/2004/22#par_21); [§ 26](https://e-sbirka.gov.cz/sb/2004/22#par_26) |
 | Domněnky, fikce a účinkové konstrukce | nenalezen spolehlivý signál | — |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 22/2004 Sb., o místním referendu (MR) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují způsob, jímž norma spojuje s určitým jednáním normativní kvalifikaci. **Objektivní (deontické) modality** popisují normu z pohledu jejího objektivního obsahu: *příkaz* (jednání je uloženo), *zákaz* (jednání je vyloučeno) a *dovolení* (jednání je ponecháno na vůli adresáta). Tyto tři základní operátory jsou vzájemně převoditelné — zákaz je příkazem opomenutí, dovolení negací zákazu. Zvláštní postavení mají **kompetenční (zmocňovací) normy**, které nepřikazují ani nezakazují konkrétní chování, nýbrž zakládají *pravomoc* určitého orgánu závazně utvářet právní poměry (stanovit, vyhlásit, rozhodnout). Zmocnění je proto modalitou druhého řádu: přiděluje způsobilost tvořit normy či individuální akty.
+
+**Subjektivní modality** nahlížejí tentýž normativní vztah z pozice účastníků: proti *oprávnění* (subjektivnímu právu) jednoho stojí *povinnost* druhého. Korelativita oprávnění a povinnosti znamená, že subjektivnímu právu jedné strany zpravidla odpovídá povinnost strany druhé (nebo veřejné moci) toto právo respektovat či umožnit jeho výkon. V právu veřejném se oprávnění často projevuje facultativním výrazem „může“ (procesní legitimace k návrhu), zatímco povinnost výrazem „je závazné“, „je třeba“, „musí“.
+
+**Normativní výrazy** jsou jazykové indikátory modality: „má právo“, „může“ (oprávnění/dovolení); „musí“, „je třeba“, „uvede“, „je závazné“ (příkaz/povinnost); „nelze“, „nesmí“ (zákaz); „stanoví“, „rozhoduje se“ (zmocnění). Jejich výklad není mechanický — týž výraz může nést různou sílu podle systémového kontextu.
+
+**Domněnky a fikce** jsou nástroje právní techniky pracující s dokazováním a s nahrazováním skutečnosti. *Vyvratitelná domněnka* (praesumptio iuris) presumuje určitý skutkový stav, dokud není prokázán opak — přesouvá důkazní břemeno. *Nevyvratitelná domněnka* (praesumptio iuris et de iure) protidůkaz nepřipouští. *Fikce* pak spojuje s jednou skutečností právní následky skutečnosti jiné, o níž se ví, že nenastala (např. že akt soudu „nahrazuje“ akt jiného orgánu). Zákon o místním referendu užívá fikci nahrazení vůle zastupitelstva soudním rozhodnutím jako protiváhu nečinnosti obecního orgánu.
+
+### Příkaz
+
+Příkazové normy MR ukládají adresátům (přípravnému výboru, orgánům obce) kladné konání jako podmínku bezvadnosti procesu referenda. Typickými výrazy jsou „musí být“, „je třeba“, „uvede“. Příkaz zde plní funkci garanční: jednoznačnost otázky (§ 8 odst. 3) chrání srozumitelnost hlasování, kvórum účasti (§ 48 odst. 1) legitimitu výsledku, označení zmocněnce (§ 9 odst. 3) procesní přehlednost.
+
+Zvláštní povahu má **kvórum účasti** — je konstruováno jako početní podmínka platnosti, jejíž nesplnění bez dalšího vylučuje závaznost přijatého rozhodnutí. Judikatura upřesnila, že do kvóra se započítávají i neplatné hlasy, neboť rozhodné je *zúčastnění se*, nikoli platnost odevzdaného hlasu.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 8 odst. 3 | musí být jednoznačně položena | „Otázka navržená pro místní referendum musí být jednoznačně položena tak, aby na ni bylo možno odpovědět slovem „ano“ nebo slovem „ne““ | Požadavek jednoznačnosti otázky umožňující binární odpověď ano/ne |
+| § 9 odst. 3 | uvede | „Přípravný výbor uvede, kdo z jeho členů je zmocněn jednat jejich jménem“ | Povinnost výboru označit zmocněnce, jehož úkony jsou pro výbor závazné |
+| § 48 odst. 1 | je třeba účasti alespoň 35 % | „K platnosti rozhodnutí v místním referendu je třeba účasti alespoň 35 % oprávněných osob zapsaných v seznamech oprávněných osob“ | Kvórum účasti jako podmínka platnosti rozhodnutí přijatého v referendu |
+
+- *NSS* [Ars 11/2014 - 42](judikatura/NSS-Ars-11-2014-42.md) — rozsudek, 5. 3. 2015; k § 8 odst. 3 (jednoznačnost otázky)
+  > „Při rozhodování o jednoznačnosti zvolených otázek podle § 8 odst. 3 zákona č. 22/2004 Sb., o místním referendu, je třeba poměřovat předloženou otázku nikoli ‚rigorózním právnickým okem‘, ale zohlednit pohled běžného hlasujícího občana“
+- *NSS* [Ars 4/2018 - 45](judikatura/NSS-Ars-4-2018-45.md) — rozsudek, 7. 2. 2019; k § 48 odst. 1 (kvórum)
+  > „do požadovaného kvora pro platnost rozhodnutí v místním referendu se započítávají jak platné, tak i neplatné hlasy“
+
+### Zákaz
+
+Zákazové normy vymezují meze referenda negativně: stanoví, co konat *nelze* nebo co se *nesmí*. Nejvýznamnějším zákazem je taxativní katalog nepřípustnosti konání referenda (§ 7), který chrání ústavní dělbu působností a práva třetích osob. Vedle toho stojí procesně-garanční zákaz předčasného zveřejnění dílčích výsledků (§ 26), jenž zajišťuje objektivitu sčítání.
+
+Katalog nepřípustnosti (§ 7) je z povahy věci výjimkou z ústavně zaručeného práva na přímou správu věcí veřejných, a proto se vykládá **restriktivně** a teleologicky. Výklad nesmí sloužit k „vetování“ nepohodlných otázek rozšiřováním zákonných výluk nad jejich účel.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 7 | nelze konat | „Místní referendum nelze konat“ | Taxativní negativní katalog věcí, o nichž referendum konat nelze, vykládaný restriktivně |
+| § 26 | nesmějí poskytovat informace | „nesmějí poskytovat informace o dílčích výsledcích hlasování, a to až do podepsání zápisu o průběhu a výsledku hlasování všemi přítomnými členy komise“ | Ochrana objektivity sčítání zákazem předčasného zveřejnění dílčích výsledků do podpisu zápisu |
+
+- *ÚS* [III.ÚS 995/09](judikatura/US-III-S-995-09.md) — nález, 9. 2. 2012; k § 7 (restriktivní výklad výluk)
+  > „Toto ustanovení musí být dle názoru Ústavního soudu vykládáno restriktivním způsobem.“
+
+### Dovolení
+
+Ryzí dovolení (výslovné „smí/je dovoleno“) MR v klasifikovaném korpusu neužívá; permisivní prostor se zde projevuje **facultativními kompetencemi** vyjádřenými výrazem „může“ — zejména procesní legitimací k soudní ochraně. Tyto normy stojí na pomezí dovolení a subjektivního oprávnění: adresátu je *ponecháno na vůli*, zda návrh podá, avšak jeho podáním se aktivuje odpovídající povinnost soudu věc projednat. Proto je níže uvedené položky zároveň řadíme mezi oprávnění (viz další sekce); zde slouží k ilustraci dovolovací (nepovinné, disponibilní) stránky téhož jednání.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 9 odst. 2 písm. c) | může podat soudu návrh | „může podat soudu návrh na určení, že místní referendum má být vyhlášeno nebo že návrh přípravného výboru nemá vady“ | Disponibilní procesní možnost přípravného výboru domáhat se předběžné soudní ochrany |
+| § 58 odst. 1 | může podat u soudu | „Návrh na vyslovení neplatnosti hlasování nebo neplatnosti rozhodnutí v místním referendu může podat u soudu každá oprávněná osoba nebo přípravný výbor“ | Ponechání na vůli oprávněné osoby, zda využije následné soudní ochrany |
+
+### Zmocnění
+
+Zmocňovací (kompetenční) normy MR svěřují orgánům pravomoc autoritativně utvářet poměry referenda: vymezit jeho věcnou působnost, stanovit den konání, rozhodnout o vyhlášení. Charakteristickými výrazy jsou „stanoví“, „se rozhoduje o věcech“. Zmocnění nepřikazuje konkrétní obsah rozhodnutí, nýbrž zakládá způsobilost je vydat v mezích zákona.
+
+Klíčovým zmocněním je vymezení **věcné působnosti** referenda pozitivním kritériem samostatné působnosti obce (§ 6). Judikatura z něj dovodila přípustnost jak referenda *ratifikačního* (s konečnou závazností v samostatné působnosti), tak *konzultativního* (vyjadřujícího stanovisko obce). Zmocnění zastupitelstva ke stanovení dne konání je přitom vázáno — u referenda vyvolaného zdola má zastupitelstvo jen minimální prostor odchýlit se od návrhu přípravného výboru.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 6 | se rozhoduje o věcech samostatné působnosti | „V místním referendu se rozhoduje o věcech, které patří do samostatné působnosti obce nebo statutárního města“ | Vymezení věcné působnosti referenda pozitivním kritériem samostatné působnosti obce |
+| § 5 odst. 2 písm. b) | den konání stanoví zastupitelstvo | „den konání místního referenda stanoví zastupitelstvo obce, zastupitelstvo města, zastupitelstvo městské části nebo zastupitelstvo městského obvodu“ | Kompetence zastupitelstva určit náhradní den konání po ukončení krizového stavu |
+
+- *NSS* [Ars 6/2022 - 37](judikatura/NSS-Ars-6-2022-37.md) — rozsudek, 8. 8. 2023; k § 6 (ratifikační vs. konzultativní referendum)
+  > „kromě referenda ratifikačního, na základě jehož výsledku rozhoduje obec v rámci své samostatné působnosti s konečnou platností, se mohou konat i referenda konzultativní.“
+- *NSS* [Ars 5/2023 - 62](judikatura/NSS-Ars-5-2023-62.md) — rozsudek, 8. 8. 2023; k mezím stanovení termínu (§ 15, návaznost na § 5)
+  > „zákon o místním referendu neobsahuje ustanovení, které by omezovalo přípravný výbor při volbě navrhovaného termínu místního referenda. Zákon omezuje pouze zastupitelstvo, vyhlašuje-li místní referendum ze svého rozhodnutí“
+
+### Oprávnění a povinnost
+
+Oprávnění a povinnost jsou v MR korelativními stranami téhož vztahu. Na straně občanů a přípravného výboru zákon zakládá **subjektivní oprávnění** — právo hlasovat (§ 2), procesní legitimaci k předběžné i následné soudní ochraně (§ 9 odst. 2 písm. c/, § 58 odst. 1). Na straně orgánů obce vzniká zrcadlová **povinnost** — respektovat a realizovat výsledek referenda (§ 49). Aktivní volební legitimace je navázána na komunální volební právo, čímž se okruh oprávněných osob v referendu a ve volbách do zastupitelstva kryje; tuto vazbu (§ 58 „za použití § 2“) potvrzuje i judikatura o následné ochraně.
+
+Závaznost rozhodnutí (§ 49) je povinností omezenou věcně: váže orgány obce pouze v rámci **samostatné působnosti**, nikoli tam, kde vykonávají přenesenou působnost (státní správu). Povinnost realizovat výsledek tedy nemůže nahradit posouzení v režimu zvláštních zákonů.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 2 | má právo hlasovat | „Právo hlasovat v místním referendu má každá osoba, která má právo volit do zastupitelstva obce“ | Subjektivní právo hlasovat vázané na komunální volební právo |
+| § 9 odst. 2 písm. c) | může podat soudu návrh | „může podat soudu návrh na určení, že místní referendum má být vyhlášeno nebo že návrh přípravného výboru nemá vady“ | Aktivní legitimace přípravného výboru k předběžné soudní ochraně |
+| § 58 odst. 1 | může podat u soudu | „Návrh na vyslovení neplatnosti hlasování nebo neplatnosti rozhodnutí v místním referendu může podat u soudu každá oprávněná osoba nebo přípravný výbor“ | Následná soudní ochrana napadající proběhlé hlasování či jeho výsledek |
+| § 49 | je závazné | „Rozhodnutí v místním referendu je pro zastupitelstvo obce, zastupitelstvo statutárního města a orgány obce a statutárního města závazné“ | Povinnost orgánů obce realizovat výsledek referenda v samostatné působnosti |
+
+- *NSS* [Ars 1/2015 - 94](judikatura/NSS-Ars-1-2015-94.md) — rozsudek, 2. 9. 2015; k § 58 ve vazbě na § 2 (okruh oprávněných osob)
+  > „Následná ochrana je poskytována i všem oprávněným osobám, tedy voličům oprávněným volit do zastupitelstva dané obce (srov. § 91a odst. 2 s. ř. s. a § 58 za použití § 2 zákona o místním referendu)“
+- *NSS* [59 A 87/2021 - 540](judikatura/NSS-59-A-87-2021-540.md) — rozsudek, 26. 1. 2022; k § 49 (meze závaznosti)
+  > „Uvedené ustanovení deklaruje závaznost rozhodnutí v místním referendu, nicméně jde o závaznost pro uvedené orgány dané obce v rámci zajišťování samostatné působnosti, a nezavazuje je, pokud vykonávají zákonem svěřenou státní správu v rámci přenesené působnosti“
+
+### Domněnky a fikce
+
+MR pracuje s **fikcí nahrazení** v případě soudní ochrany před konáním referenda: odmítne-li či opomene-li zastupitelstvo referendum vyhlásit, ač jsou splněny zákonné podmínky, nahrazuje rozhodnutí soudu chybějící rozhodnutí zastupitelstva (§ 57 odst. 3). Jde o právně-technickou konstrukci, jíž zákonodárce překonává nečinnost samosprávného orgánu, aniž by soud věcně „hlasoval“ — pouze konstruuje následek, jako by zastupitelstvo rozhodlo. Judikatura ústavního soudu tuto konstrukci podpírá tezí, že při splnění zákonných podmínek má zastupitelstvo *povinnost* referendum vyhlásit bez ohledu na svůj věcný postoj; fikce nahrazení je pak procesním důsledkem porušení této povinnosti.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 57 odst. 3 | nahrazuje rozhodnutí zastupitelstva | „Rozhodnutí soudu o návrhu podle odstavce 1 písm. b) nahrazuje rozhodnutí zastupitelstva obce nebo zastupitelstva statutárního města“ | Fikce nahrazení vůle zastupitelstva soudním rozhodnutím při jeho nečinnosti či odmítnutí vyhlásit referendum |
+
+- *ÚS* [I.ÚS 4908/12](judikatura/US-I-S-4908-12.md) — usnesení, 9. 1. 2013; k povinnosti vyhlásit referendum (podklad fikce dle § 57 odst. 3)
+  > „Zastupitelstvo obce v případě, že jsou splněny všechny podmínky vyplývající ze zákona o místním referendu, má povinnost takové referendum vyhlásit, nehledě na to, zda zastupitelstvo samo jako orgán s konáním referenda k otázce navrhované přípravným výborem souhlasí či nikoli“
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Modality v MR nepůsobí izolovaně; teprve jejich kombinace vytváří funkční instituty:
+
+- **Iniciace referenda zdola** spojuje *příkaz* (§ 9 odst. 3 — přípravný výbor *uvede* zmocněnce) s *oprávněním/dovolením* (§ 9 odst. 2 písm. c/ — výbor *může podat* soudu návrh na určení, že referendum má být vyhlášeno). Procesní disciplína (příkaz) je zde předpokladem účinného výkonu procesního práva (oprávnění).
+- **Vymezení předmětu a jeho meze** kombinují *zmocnění* (§ 6 — v referendu *se rozhoduje o věcech* samostatné působnosti) se *zákazem* (§ 7 — referendum *nelze konat* ve vyloučených věcech). Pozitivní kompetenční kritérium a negativní taxativní výluka se doplňují; výluka se přitom vykládá restriktivně.
+- **Formulace otázky** je čistým *příkazem* kvality (§ 8 odst. 3 — otázka *musí být* jednoznačně položena), jenž podmiňuje smysluplnost celého hlasování.
+- **Platnost a závaznost výsledku** řetězí *příkaz* (§ 48 odst. 1 — k platnosti *je třeba* účasti alespoň 35 %) a navazující *povinnost* (§ 49 — rozhodnutí *je závazné* pro orgány obce). Bez splnění početní podmínky (příkaz) povinnost realizace nevzniká.
+- **Soudní ochrana** kombinuje *oprávnění* (§ 58 odst. 1 — návrh *může podat* každá oprávněná osoba) s *fikcí* (§ 57 odst. 3 — rozhodnutí soudu *nahrazuje* rozhodnutí zastupitelstva). Předběžná i následná ochrana tak uzavírá cyklus od iniciace přes vyhlášení až po přezkum výsledku.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+|---|---|---|
+| Příkaz | musí být, je třeba, uvede | § 8 odst. 3; § 9 odst. 3; § 48 odst. 1 |
+| Zákaz | nelze konat, nesmějí poskytovat | § 7; § 26 |
+| Dovolení | může podat (disponibilně) | § 9 odst. 2 písm. c); § 58 odst. 1 |
+| Zmocnění | stanoví, se rozhoduje o věcech | § 6; § 5 odst. 2 písm. b) |
+| Oprávnění | má právo, může podat | § 2; § 9 odst. 2 písm. c); § 58 odst. 1 |
+| Povinnost | je závazné | § 49 |
+| Domněnka / fikce | nahrazuje rozhodnutí | § 57 odst. 3 |
